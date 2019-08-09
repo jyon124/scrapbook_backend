@@ -1,0 +1,2 @@
+class ScrapbooknewsController < ApplicationController
+end
