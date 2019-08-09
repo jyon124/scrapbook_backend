@@ -7,7 +7,19 @@ class Api::V1::AuthController < ApplicationController
       token = encode_token({ user_id: @user.id })
       render json: { user: UserSerializer.new(@user), jwt: token }, status: :accepted
     else
-      render json: { message: 'Invalid username or password' }, status: :unauthorized
+      render json: { error: 'Not Authorized' }, status: :401
+    end
+  end
+
+  def show
+    token = request.headers[:Authorization]
+    decoded_token = JWT.decode(token, 'app_secret', true, { algorithm: 'HS256' })
+    id = decoded_token.first['id']
+    user = User.find(id)
+    if user
+      render json: { id: user.id, username: user.username, token: token }
+    else
+      render json: { error: 'Not Authorized'}, status: 401
     end
   end
  
@@ -16,5 +28,5 @@ class Api::V1::AuthController < ApplicationController
   def user_login_params
     params.require(:user).permit(:username, :password)
   end
-  
+
 end
