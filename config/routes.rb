@@ -5,5 +5,5 @@ Rails.application.routes.draw do
   resources :highlights
   resources :notes
   resources :scrapbooknews
-  resources :scrapbook  
+  resources :scrapbooks
 end
