@@ -19,7 +19,6 @@ class ScrapbooksController < ApplicationController
     private
  
     def scrapbook_params
-      p params
       params.require(:scrapbook).permit(:user_id)
     end
 

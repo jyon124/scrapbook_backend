@@ -6,7 +6,7 @@ class ScrapbooknewsController < ApplicationController
     end
     
     def create
-      scrapbooknews = Scrapbooknews.create(news_id: params['news_id'], scrapbook_id: params['scrapbook_id'])
+      scrapbooknews = Scrapbooknews.find_or_create_by(scrapbooknews_params)
       render json: scrapbooknews
     end
 
@@ -15,5 +15,10 @@ class ScrapbooknewsController < ApplicationController
       scrapbooknews.destroy
     end
     
+    private
+ 
+    def scrapbooknews_params
+      params.require(:scrapbooknews).permit(:news_id, :scrapbook_id)
+    end
 
 end
