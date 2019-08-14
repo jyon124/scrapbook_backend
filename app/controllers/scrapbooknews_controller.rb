@@ -2,7 +2,7 @@ class ScrapbooknewsController < ApplicationController
 
     def index
       scrapbooknews = Scrapbooknews.all
-      render json: scrapbooknews, include: [:news]
+      render json: scrapbooknews, include: [:news, :notes, :highlights]
     end
     
     def create
@@ -12,6 +12,7 @@ class ScrapbooknewsController < ApplicationController
 
     def destroy
       scrapbooknews = Scrapbooknews.find(params['id'])
+      scrapbook = Scrapbook.find(scrapbooknews.scrapbook_id)
       scrapbooknews.destroy
       render json: {message:"successfuly deleted"}, status: :no_content
     end
