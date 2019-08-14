@@ -11,8 +11,12 @@ class ScrapbooknewsController < ApplicationController
     end
 
     def destroy
-      scrapbooknews = scrapbooknews.find(params['id'])
+      p '-----------------------'
+      p params
+      p '-----------------------'
+      scrapbooknews = Scrapbooknews.find(params['id'])
       scrapbooknews.destroy
+      render json: {message:"successfuly deleted"}, status: :no_content
     end
     
     private
