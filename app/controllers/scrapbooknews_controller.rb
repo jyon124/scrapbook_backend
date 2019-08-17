@@ -7,7 +7,7 @@ class ScrapbooknewsController < ApplicationController
     
     def create
       scrapbooknews = Scrapbooknews.find_or_create_by(scrapbooknews_params)
-      render json: scrapbooknews
+      render json: scrapbooknews, include: [:news, :notes, :highlights]
     end
 
     def destroy
