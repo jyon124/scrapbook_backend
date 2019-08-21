@@ -585,7 +585,406 @@ news = [
         SMArtX Advisory Solutions is the next generation turnkey asset management platform and the only platform to seamlessly offer traditional, 
         alternative, and passive direct index strategies in a unified managed account structure. The firm also uses its proprietary trading and 
         managed accounts technology to power SS&C Advent's integrated unified managed account solution."
-        }
+        },
+        {
+          "category": "Top business headlines",
+          "author": "Brian Schwartz",
+          "title": "Mike Pompeo tells business execs, economists that he thinks the China trade war could end by 2020 election - CNBC",
+          "description": "Secretary of State Mike Pompeo privately told business executives and free traders that the trade war could end by the 2020 election and that hurdles to an immediate agreement still exist.",
+          "url": "https://www.cnbc.com/2019/08/20/mike-pompeo-tells-business-leaders-that-trade-war-could-end-by-2020.html",
+          "urlToImage": "https://image.cnbcfm.com/api/v1/image/106087796-1566305939426img_4430.jpg?v=1566305950",
+          "publishedAt": "2019-08-20T21:05:21Z",
+          "content": "Secretary of State Mike Pompeo told a group of business executives and free-trade economists that he believes the trade war with China could come to an end by the 2020 presidential election, according to people who attended the gathering.
+          At a private lunch in New York on Tuesday, Pompeo spoke in front of a crowd of about 40 people that included economics writer Stephen Moore, Blackstone CEO Steve Schwarzman, Gristedes supermarket founder John Catsimatidis and former New York GOP chairman Ed Cox, according to people who attended the gathering.
+          Representatives from the State Department and Blackstone did not return a request for comment.
+          President Donald Trump has been levying tariffs on a variety of Chinese goods since the start of his administration, while China has been retaliating with trade barriers of its own.
+          Pompeo told CNBC’s “Squawk Box” earlier Tuesday that he wasn’t sure about where things will ultimately stand between the U.S. and China.
+          “I don’t know the answer to that. I have spoken to Secretary Mnuchin almost every day,” Pompeo told CNBC. “I haven’t been at the center of these actual negotiations. I’ve seen them make real progress.”
+          Moore said Pompeo, speaking at the lunch, sounded somewhat bullish on the prospects of an agreement.
+          “He still thinks that we can get a deal before the election. I think we would all agree that it would be better for the country,” Moore told CNBC in an interview.
+          Moore also noted that Pompeo still seemed hawkish on a China deal in the short term. Pompeo, according to Moore, pointed out that there continue to be hurdles to an immediate agreement.
+          “It’s been a tough slog to get China to agree to things. The hardliners are in command right now,” Moore said, reflecting on Pompeo’s remarks.
+          Catsmatidis also took away that Pompeo senses that China and the U.S. will come to an agreement over the next year.
+          “He talked about China. He thinks it will probably get done and they are not going to wait until 2020,” said the supermarket magnate.
+          The meeting was organized by the “Committee to Unleash Prosperity,” whose founders include Moore, former Reagan administration economist Art Laffer and former presidential candidate Steve Forbes. Catsimatidis is a member of the group."
+          },
+          {
+          "category": "Top business headlines",
+          "author": "Tsvetana Paraskova",
+          "title": "US Is Now Largest Oil… And Gas Producer In The World | OilPrice.com - OilPrice.com",
+          "description": "Petroleum and natural gas production in the United States jumped by 16 percent and 12 percent, respectively, in 2018, setting new production records and placing the United States as the world’s single largest producer of oil and natural gas",
+          "url": "https://oilprice.com/Energy/Energy-General/US-Is-Now-Largest-Oil-And-Gas-Producer-In-The-World.html",
+          "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/fc3d575c3126346ed01e58cc830fb1b8.jpg",
+          "publishedAt": "2019-08-20T21:00:00Z",
+          "content": "Petroleum and natural gas production in the United States jumped by 16 percent and 12 percent, respectively, in 2018, setting new production records and placing the United States as the world’s single largest producer of oil and natural gas, 
+          the Energy Information Administration (EIA) said on Tuesday.
+          The U.S. had already surpassed Russia as the world’s biggest natural gas producer back in 2011.
+          Last year, the United States beat Saudi Arabia to become the single largest petroleum producer, the EIA said, noting that “Last year’s increase in the United States was one of the largest absolute petroleum and natural gas production increases from a single country in history.”
+          While Saudi Arabia is bound by the OPEC+ production cut pact and has been curbing its oil production, eager to prop up prices, U.S. shale production has surged over the past two years, also supported by the higher oil prices that the OPEC deal has brought.
+          Crude oil production in the U.S. jumped by 17 percent in 2018, setting a new production record of almost 11.0 million bpd, with the Permian contributing to most of the production growth, the EIA said.  
+          This year, however, the U.S. shale production has been growing at a slower pace amid lower oil prices as companies scale back drilling plans and budgets as investors clamor for more returns.
+          U.S. shale producers need to slow down this production growth and focus more on capital discipline in what is an oversupplied market, Continental Resources’ Harold Hamm said last week.
+          In its latest Short-Term Energy Outlook (STEO) earlier this month, the EIA sees U.S. shale’s monthly production growth slowing at least until 2020, averaging 50,000 bpd a month from the fourth quarter of 2019 through the end of 2020, 
+          down from average growth of 110,000 bpd a month from August 2018 through July 2019. 
+          Despite the growth slowdown, the EIA still expects U.S. crude oil production to set record production levels in 2019 and 2020, at 12.3 million bpd and 13.3 million bpd, respectively."
+          },
+          {
+          "category": "Top business headlines",
+          "author": "Lora Kolodny",
+          "title": "Walmart sues Tesla over solar panel fires at seven stores - CNBC",
+          "description": "After Elon Musk touts Tesla solar on Twitter, Walmart sues the electric vehicle and clean energy company over store rooftop panels that ignited.",
+          "url": "https://www.cnbc.com/2019/08/20/walmart-sues-tesla-over-solar-panel-fires-at-seven-stores.html",
+          "urlToImage": "https://image.cnbcfm.com/api/v1/image/105968995-1560512715227rtx6z8xd.jpg?v=1560512743",
+          "publishedAt": "2019-08-20T20:40:31Z",
+          "content": "Walmart is suing Elon Musk’s electric vehicle and clean energy company after Tesla solar panels atop seven of the retailer’s stores allegedly caught fire, according a court filing.
+          The Walmart suit alleges breach of contract, gross negligence and failure to live up to industry standards. Walmart is asking Tesla to remove solar panels from more than 240 Walmart locations 
+          where they have been installed, and to pay damages related to all the fires Walmart says that Tesla caused.
+          The Walmart suit, filed in the state of New York, alleges that: “As of November 2018, no fewer than seven Walmart stores had experienced fires due to Tesla’s solar systems - including the four 
+          fires described above and three others that had occurred earlier.” The filing details evacuations, damaged property and inventory.
+          Tesla’s stock dropped more than 1% after hours on the news.
+          Walmart claimed, among myriad complaints, that “Tesla routinely deployed individuals to inspect the solar systems who lacked basic solar training and knowledge.” In the suit, they also alleged that 
+          Tesla failed to ground its solar and electrical systems properly, 
+          and that Tesla-installed solar panels on-site at Walmart stores contained a high number of defects that were visible to the naked eye, and which Tesla should have found and repaired before they led to fires.
+          Tesla has been trying to revive its solar business of late.
+          On Sunday, CEO Elon Musk announced in a string of tweets that customers in some states can now rent Tesla’s residential, solar rooftop systems without a contract. The offer is available in six states, 
+          and will cost customers at least $50 a month (or $65 a month in California).
+          Although Musk touted the ease of cancelling a rented roof at anytime, the fine print on Tesla’s website mentions a $1,500 fee to take out the solar panels and restore the customer’s roof.
+          In the second quarter of 2019, Tesla installed a mere 29 megawatts of solar, a record low for the company in a single quarter. In its heyday, Tesla’s solar division (formerly SolarCity) installed over 200 megawatts in a single quarter. 
+          When Tesla acquired SolarCity in 2016 for around $2.6 billion the deal caused controversy that continues to this day.
+          SolarCity was founded and run by Musk’s first cousins, Peter and Lyndon Rive. Prior to Tesla’s acquisition, Musk owned about one-fifth of SolarCity stock, which was valued around $575 million at the end of 2015. 
+          While SolarCity had been a successful solar installer in the prior decade, its stock was plummeting, and debt had ballooned to $3.4 billion before the deal closed.
+          In an investor presentation meant to drum up support for the acquisition, Musk showed off what appeared to be sleek, glass solar roof tiles. Rather than bulky panels, they looked like premium shingles. 
+          The solar roof tiles are still not widely distributed or mass-manufactured.
+          Walmart and Tesla did not immediately respond to requests for comment."
+          },
+          {
+          "category": "Top business headlines",
+          "author": nil,
+          "title": "Home Depot shares surged, but concerns linger - Yahoo Finance",
+          "description": "Home Depot beat estimates on earnings, but analysts aren't convinced the retailer is immune to the effects of the trade war and impending tariffs.",
+          "url": "https://finance.yahoo.com/news/home-depot-shares-surged-but-concerns-linger-203852096.html",
+          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/6S8zIAl4zjbjezFdHXsz2A--~B/aD0zNjQ4O3c9NTI0MjtzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2019-08/30f52340-c381-11e9-8f4f-d8fafaa3bd1b",
+          "publishedAt": "2019-08-20T20:38:00Z",
+          "content": "Home Depot (HD) reported better-than-expected earnings on Tuesday maintaining its beat streak of five years, missing narrowly on the bottom line but beating estimates on earnings.
+          Though Home Depot’s outlook looked good, its top line lagged a bit and has analysts concerned about the impact of the ongoing trade war with China and the possibility of a looming recession. 
+          CFRA analyst Ken Leon told Yahoo Finance’s The First Trade that the effects of the trade war are hard to measure for this particular retailer.
+          “This is a durable retailer, but it's based on home improvements. Again, July was very strong. Big ticket sales were up,” Leon said. “The question is, are you going to see that in the next six to nine months?”
+          The company slashed its sales and comparable sales view for the rest of 2019 due to rising concerns about tariffs and rising lumber costs. Leon also noted that slowed growth for Home Depot is likely anyway, 
+          due to the retailer having its strongest quarter of the year. But investors did not seem worried with the stock gaining 4.4% on the day.
+          “Today the stock is reacting well, and it's probably because their results are better than other weaker retailers,” Leon said. “The stock is acting really well, but last week, consumer confidence was down 6.4%.”
+          Falling interest rates has translated to falling mortgage rates, which has been bullish for the housing market. Credit Suisse analysts, however, recently warned of weakness when it comes to construction activity 
+          and home improvement spending which could hurt retailers like Home Depot and Lowe’s, which will report earnings on Wednesday."
+          },
+          {
+          "category": "Top business headlines",
+          "author": nil,
+          "title": "Why Powell faces a high bar at this week's Fed conference - Yahoo Finance",
+          "description": "Federal Reserve Chair Jerome Powell faces a high bar at this week’s Fed conference in Jackson Hole, Wyo.",
+          "url": "https://finance.yahoo.com/news/how-fed-chair-powell-can-avoid-a-stock-market-nightmare-202432067.html",
+          "urlToImage": "https://s.yimg.com/uu/api/res/1.2/AS4wTgqhlb15JOOs52FVqg--~B/aD0yODczO3c9NDMxMztzbT0xO2FwcGlkPXl0YWNoeW9u/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-images/2019-08/bb1ac030-c385-11e9-bfb8-6a6188c52e82",
+          "publishedAt": "2019-08-20T20:24:00Z",
+          "content": "President Trump’s strategy of defending the economy’s strength in the face of recession fears appears to have worked temporarily. The rebound in bond yields calmed markets on Monday, 
+          but the stock market dipped back into the red on Tuesday, with the Dow sinking after two sessions of gains.
+          Caught in this economic and political firestorm is Fed Chair Jerome Powell. He will be speaking about the challenges for monetary policy at the Fed’s annual Jackson Hole Conference on Friday.
+          Powell has to walk a tightrope, as he faces relentless pressure from Trump to cut rates as quickly as possible, while maintaining the Fed’s independence. Markets have already priced in more rate cuts this year.
+          Indeed, that’s why the bar is quite high for Powell’s comments at Jackson Hole. “His last press conference after the July FOMC meeting left real doubt about the Federal Reserve’s future course of action. 
+          Markets think he will be clearer at the end of this week,” a recent Datatrek Research note said.
+          Datatrek Research co-founder Nick Colas says Powell may be able to avoid a sharp decline in stocks simply by signaling that the Fed will “embark on a steady diet of rate cuts through the rest of 2019,” he said. 
+          “Markets have become very specifically convinced of a certain pathway, which is one 25-basis-point cut at every meeting paradigm,” Colas said. “And Powell doesn’t have to say ‘yes, we will cut at every meeting by 25 basis points,’ 
+          do a mic drop and walk off. But he does have to indicate that he is amenable to a series of cuts.”
+          Powell cut interest rates by a quarter percentage point back in July – for the first time since the 2008 financial crisis. That move didn’t satisfy markets or Trump. The president called Powell out on Twitter, saying, “As usual, Powell let us down.”     
+          Trump wanted a sign of more – and more aggressive – rate cuts to come.
+          On Friday, investors will be paying close attention to every word Powell says, looking for clues as to what his monetary policy strategy will be over the next couple of months amid a global economic slowdown, potential recession, 
+          and the looming threat of additional 10% tariffs on Chinese imports. Investor disappointment in Powell’s choice of words could “trigger carnage in the bond and equity markets,” Paul Ashworth, chief U.S. Economist at Capital Economics, said in a note this week.
+          Fed Funds Futures prices indicate that most investors are expecting at least two rate cuts this fall: a 95% chance of a 25-basis-point cut at the FOMC’s September meeting, a 73% chance of another 25-basis-point cut at the October meeting, and 44% odds of one more rate cut or none at all in December."
+          },
+          {
+          "category": "Top business headlines",
+          "author": "MinnPost staff",
+          "title": "Del Monte closes Sleepy Eye facility; layoffs begin Oct. 2 - MinnPost",
+          "description": "Also: MnDOT attempts to avoid flooding on I-35W; Elizabeth Warren meets her lookalike at Macalester; nothing found after St. Thomas bomb threat.",
+          "url": "https://www.minnpost.com/glean/2019/08/del-monte-closes-sleepy-eye-facility-layoffs-begin-oct-2/",
+          "urlToImage": "https://www.minnpost.com/wp-content/uploads/2019/08/DelMonteVegetables640.png",
+          "publishedAt": "2019-08-20T19:43:56Z",
+          "content": "Kristen Leigh Painter at the Star Tribune has a story on California-based Del Monte closing its 89-year-old Minnesota plant: “The closure, which is slated to take place on or around Oct. 21, will result in the loss of 69 full-time jobs and 294 seasonal positions. Layoffs will began as soon as Oct. 2 and will be staggered through next June as the plant finishes any remaining labeling, shipping and administrative work needed to close. Del Monte’s Sleepy Eye plant began operating in 1930 and produces more cases of peas and corn than any of the company’s other plants.“
+          FOX9 has the info, with visuals, on MnDOT’s attempts to avoid flooding on I-35W: “The first-of-its-kind project involves half-a-dozen large, underground tanks right along the 35W northbound lanes. The hope is that once completed, the tanks will store excess storm water the freeway drainage system can’t handle and thus keep the roadway clear.”
+          Ashley Lauren at the Minnesota Spokesman-Recorder talks to Twin Cities filmmaker Lee Jordan about his latest project, a documentary on Juneteenth: “His cinematic mission has been to bring forth insightful, thought-provoking and truthful information about Black history. Jordan wants to shine a light on the monumental African Americans who helped create the fabric of American history. ‘By finding your own thread in the American tapestry and following and seeing where it leads you … that helps you be able to tell your story,’ said Jordan.”
+          Renée Jean at the Williston Herald tracks the trade war in North Dakota, where farmers are feeling it the worst: “North Dakota already has the equivalent of an eight-lane super highway to China when it comes to soybeans. ‘We have all the terminals and railway capacity, and we have the export terminals in the Pacific Northwest that can handle soybeans quickly and efficiently,’ [executive director of the North Dakota Soybean Growers Association Nancy] Johnson said. ‘So we obviously are the most interested in looking that direction.'”
+          Brady Slater at the Duluth News Tribune outlines MnDOT’s plans to rebuild a cemetery disturbed by a bridge replacement project: “The hillside cemetery was disturbed by the start of the Highway 23 bridge replacement project over Mission Creek. That project has long since been discontinued and will start from scratch following the end of rehabilitation efforts at the cemetery, where all displaced dirt will be returned, the slope fortified and the cemetery boundaries defined by the state archaeologist.”"
+          },
+          {
+          "category": "Top business headlines",
+          "author": "Tim Rogers",
+          "title": "Uber Likes Us! They Really Like Us! But Hang On … - D Magazine",
+          "description": "What the heck is NTCOG talking about?",
+          "url": "https://www.dmagazine.com/frontburner/2019/08/uber-likes-us-they-really-like-us-but-hang-on/",
+          "urlToImage": "https://assets.dmagstatic.com/wp-content/uploads/2019/02/The-Epic--768x512.png",
+          "publishedAt": "2019-08-20T19:32:00Z",
+          "content": "It’s official. Uber is opening an office in Deep Ellum that will eventually employ 3,000 people. 
+          The company will have 400 people in place by year’s end. The mayor, the county judge, the governor, the Dallas Regional Chamber — everyone is super pumped about 
+          the decision to give Uber $36 million in incentives to set up shop. So good on us. I hope this works out. I’ll put aside for now my concerns about whether the company will ever turn a profit. 
+          Never mind the 400 employees who were laid off in July. Course correction. It’s all good.
+          Except wait a second here. One passage in the DMN story about the news caught my attention. It’s this:
+          Michael Morris, the director of transportation for the North Central Texas Council of Governments, proposed committing $10 million to $15 million to improve transportation in and around Uber’s office. 
+          Among the ideas, he suggested improving nearby sidewalks and bike connections, turning land under Interstate 345 into recreational or parking space …
+          Pardon? Improving sidewalks and bike connections sounds good. But more surface-level parking? These people work at Uber. Why would they get excited about parking lots? How does that make any sense?
+          And recreation space under the highway? You mean like the land grab that Royce West’s kid is attempting by building soccer fields? Despite what we are learning about pollution created by cars? 
+          A huge study was published just last week showing that exposure to ground-level ozone, fine particulate matter, nitrogen oxide, and black carbon — you know, car stuff — is basically like smoking a pack of cigarettes every day. 
+          Why take up smoking when you can move to Dallas and play under our highways? Great incentive.
+          I don’t know why Morris, the COG transportation director, said what he did. But what he should have said was: “Uber’s move to the edge of Deep Ellum makes it even more imperative that we tear down I-345, 
+          the elevated highway that practically abuts their new office. Developing that dead space, restitching the fabric of Deep Ellum and downtown — we can use Uber’s move as a fulcrum to lift this project to the top of our to-do list. 
+          I propose committing $10 million to $15 million to make it happen.”"
+          },
+          {
+          "category": "Top business headlines",
+          "author": nil,
+          "title": "Accounting Fraud Watch: Disney's Magic (Accounting) Kingdom and Ex-SEC Chief 'Suspicious' of GE Report - Going Concern",
+          "description": "Our pal Francine McKenna at MarketWatch broke a pretty big news story today regarding an accountant who blew the whistle on Walt Disney Co. Disney whistleblower told SEC the company inflated revenue for years [MarketWatch] According to the whistleblower, Sand…",
+          "url": "https://goingconcern.com/accounting-fraud-watch-disneys-magic-accounting-kingdom-and-ex-sec-chief-suspicious-of-ge-report/",
+          "urlToImage": "https://goingconcern.com/wp-content/uploads/2019/08/Mickey-Mouse-Fantasia.jpg",
+          "publishedAt": "2019-08-20T19:30:00Z",
+          "content": "Our pal Francine McKenna at MarketWatch broke a pretty big news story today regarding an accountant who blew the whistle on Walt Disney Co.
+          Disney whistleblower told SEC the company inflated revenue for years [MarketWatch]
+          According to the whistleblower, Sandra Kuba, a former senior financial analyst in Disney’s revenue operations department who worked for the company for 18 years, 
+          employees working in the parks-and-resorts business segment systematically overstated revenue by as much as $6 billion in 2008-09 by exploiting weaknesses in the company’s accounting software.
+          Kuba’s whistleblower filings, which have been reviewed by MarketWatch, outline several ways employees allegedly boosted revenue, including recording fictitious revenue for complimentary 
+          golf rounds or for free guest promotions. Another alleged action Kuba described in her SEC filing involved recording revenue for $500 gift cards at their face value even when guests paid a discounted rate of $395.
+          Kuba has also alleged that employees sometimes recorded revenue twice for gift cards, both when guests bought the gift card and when it was used at a resort. Sometimes, revenue was recorded even though a gift 
+          card was given to a guest for free following a customer complaint, for instance, according to the whistleblower’s allegations.
+          Kuba told Francine that she has met with officials from the SEC on several occasions to discuss her claims. Disney calls her accusations “utterly without merit” and “unsubstantiated” and “definitely not supercalifragilisticexpialidocious.” 
+          Ex-SEC chief: Markopolos targeting GE for a short-seller and not as a whistleblower ‘suspicious’ [CNBC]
+          Harvey Pitt, who was chairman of the SEC during the Enron scandal, had lots of things to say on CNBC yesterday about forensic accountant and Madoff whistleblower Harry Markopolos and his report on General Electric’s $38 billion accounting fraud.
+          On Markopolos’ motives:
+          “One of the ways you can test Markopolos’ bona fides, however, is the fact that the SEC has a whistleblower provision. And if he had brought all of his data to the SEC first, he would reap potentially up to 30% of the potential recovery that 
+          the SEC might obtain in connection with this case,” Pitt told CNBC.
+          “Instead what he did was go public, blast the company without giving the company a chance even to address his concerns,” Pitt said. “Those are factors that make this look suspicious.”
+          On Markopolos disclosing that he conducted the research into GE at the behest of a hedge fund, which he has refused to name:
+          “Until the SEC and the DOJ unravel the fundamental question of whether General Electric’s accounting was appropriate, I think Markopolos becomes, to some extent, a secondary issue,” said Pitt, acknowledging that GE is under investigation by 
+          the Justice Department and the Securities and Exchange Commission over its accounting practices.
+          On GE audit committee chair Leslie Seidman’s comments that she stands behind the company’s financial reporting:
+          “Seidman used to work for FASB, which sets the accounting standards. These are not people who are ignorant of the critical facts,” Pitt said, adding that any suggestion that “they somehow either were not smart enough to figure out these problems” or 
+          “refused to see the issues they knew about” would take a lot to prove."
+          },
+          {
+          "category": "Top business headlines",
+          "author": nil,
+          "title": "YouTube Plans to End Targeted Ads on Videos Aimed at Kids - Bloomberg",
+          "description": nil,
+          "url": "https://www.bloomberg.com/news/articles/2019-08-20/youtube-plans-to-end-targeted-ads-to-kids-to-comply-with-ftc",
+          "urlToImage": "https://static.videomaker.com/wp-content/uploads/2018/06/youtube-crowd-uproar-protest-ss-19201920-800x450.jpg",
+          "publishedAt": "2019-08-20T19:18:00Z",
+          "content": "To satisfy regulators, YouTube officials are finalizing plans to end “targeted” advertisements on videos kids are likely to watch, according to three people familiar with the discussion. The move could immediately 
+          dent ad sales for the video giant -- though not nearly as much as other proposals on the table.
+          The Federal Trade Commission is looking into whether YouTube breached the Children’s Online Privacy Act (COPPA). The agency reached a settlement with YouTube, but has not released the terms. It is not clear if YouTube’s changes 
+          to ad targeting are a result of the settlement. The plans could still change, said the people, 
+          who asked not to be identified citing an open investigation. A spokeswoman for YouTube declined to comment. A spokeswoman for the FTC declined to comment. The agency is expected to levy a multimillion-dollar fine.
+          Since targeted, or “behavioral” ads, rely on collecting information about the viewer, COPPA effectively bars companies from serving them to children under 13 without parental permission. These commercial messages that rely on 
+          mountains of digital data, such as web-browsing cookies, are integral to the business of Alphabet Inc.’s Google, YouTube’s owner.
+          YouTube has long maintained that its primary site is not for children. (The company says kids should use YouTube Kids app, which does not use targeted ads.) But nursery rhymes and cartoon videos on the main site have billions of views. 
+          The platform’s many issues with children’s content-- horrific imagery, problems that led to disabling comments-- have troubled its video creators, worried parents and empowered rivals.
+          Getting rid of targeted ads on children’s content could hit Google’s bottom line -- but this solution would be far less expensive than other potential remedies that aim to placate regulators.
+          In April 2018, a slew of consumer groups complained to the FTC that YouTube regularly collected information about minors to use in targeted advertising. Once the FTC picked up the case, these groups suggested that the agency force YouTube 
+          to move all kids’ videos to its designated app for children, YouTube Kids. Joseph Simons, the FTC chairman, has floated another idea. He asked the complainants in a July 1 call whether they would be content with YouTube disabling ads on 
+          these videos, Bloomberg News reported earlier.
+          YouTube’s new proposal is even less drastic.
+          Right now, YouTube sells two different types of video ads, broadly speaking. One simply pairs the context of a video with a commercial message. So, a YouTube clip about basketball might have an ad from Adidas. The other type uses an array of digital signals. 
+          With these ads, marketers can reach viewers in a demographic group, such as homeowners or new parents, based on Google’s vast data troves -- websites people visit, searches they make and so on.
+          YouTube doesn’t disclose ad sales or prices, but most digital ads are more lucrative when paired with targeting data. Other tech giants, such as Apple Inc., have tried to cull back data-collecting tools in services that kids use. Loup Ventures, 
+          a research firm, estimates YouTube’s revenue from children’s media between $500 million and $750 million a year. Paring back targeted ads would dent that revenue, although Google has the ability to make its contextual ads more compelling to mitigate the damage, 
+          said Doug Clinton, a Loup Ventures analyst. He pegged the potential impact of YouTube curbing targeted ads at 10% of its overall intake from kids’ videos-- so about $50 million. “That would be the worse case, in my mind,” he said.
+          It’s not clear how YouTube would deliver this targeting ban with the thousands of video channels with whom it splits ad sales. It’s also unclear how YouTube would define which videos are “directed at children” and which aren’t.
+          One certainty: This proposal is unlikely to please complainants. In a July letter to the FTC, the groups argued that bans on YouTube ad targeting would be difficult to enforce. Removing the feature from select kids’ videos doesn’t guarantee that 
+          YouTube stops tracking web habits if children watch other clips, said Josh Golin from Campaign for Commercial-Free Childhood, a complainant. “Is Google still going to be collecting all the data and creating marketing profiles?” he said. “That wouldn’t be satisfactory either.”
+          Jeff Chester, executive director of Center for Digital Democracy, another complainant, said that if the FTC settlement only forced YouTube to curb targeting, his group would likely challenge the decision."
+          },
+          {
+          "category": "Top business headlines",
+          "author": "Andy Meek",
+          "title": "Huawei’s founder just sent a desperate but brutal memo to workers - BGR",
+          "description": "When he was a younger man, Huawei’s billionaire founder Ren Zhengfei joined China’s People’s Liberation Army as an engineer, at one point heading out with the army for China&#8217…",
+          "url": "https://bgr.com/2019/08/20/huawei-ban-ren-zhengfei-memo-battle-mode/",
+          "urlToImage": "https://boygeniusreport.files.wordpress.com/2019/07/webp.net-resizeimage-34.jpg?quality=98&strip=all",
+          "publishedAt": "2019-08-20T18:48:00Z",
+          "content": "When he was a younger man, Huawei’s billionaire founder Ren Zhengfei joined China’s People’s Liberation Army as an engineer, at one point heading out with the army for 
+          China’s frigid north as part of a crew tasked with building a synthetic fiber factory.
+          That background no doubt inspired the overtly military-themed tone of a desperate memo Zhengfei distributed internally at the company on Monday as the US ban against it lingers, 
+          with the company founder warning that workers need to band together in “commando squads” to survive this “live or die moment.” The overarching message was that employees of the company, 
+          which is the subject of a now stepped-up ban as of Monday, need to redouble their efforts if Huawei is to survive. Workers need to “either form a ‘commando squad’ to explore new projects — in 
+          which case they could be promoted to company commander if they do well,” Zhengfei wrote in the memo. “Or they can find jobs in the internal market. If they fail to find a role, their salaries will be cut every three months.” 
+          Zhengfei sent out the memo on the same day US officials announced the addition of more than 40 more Huawei units to the existing blacklist, while also extending by three months a reprieve that allows Huawei to keep buying 
+          components from the US — essentially allowing the company time to wean itself away from the US. “If you cannot do the job, then make way for our tank to roll,” Zhengfei’s memo reads at one point, per Reuters. 
+          “And if you want to come on the battlefield, you can tie a rope around the ‘tank’ to pull it along. Everyone needs this sort of determination!”
+          Huawei employs almost 190,000 people globally and is the second-largest smartphone vendor in the world after Samsung, but unfortunately, the Chinese company finds itself caught in the larger 
+          crossfire of an ongoing trade dispute between the US and China. Huawei’s consumer division, the unit that sells products including smartphones, accounted for almost half of the company’s revenue in 2018, 
+          and while that division has historically been a reliable profit center for the company, it’s been hammered hard by the US sanctions.
+          The founder’s memo laid out the challenges in stark terms. The first half of this year “looked good,” but mostly because Chinese clients “were sympathetic,” 
+          a sentiment that Huawei can’t exactly count on to make up for lost international business. The founder’s plan includes putting more power in the hands of ground-level workers and trimming the company’s 
+          fat and any unnecessary workers and layers of management. “In 3-5 years time, Huawei will be flowing with new blood,” the memo declares. “After we survive the most critical moment in history, a new army would be born. To do what? Dominate the world.”"
+          },
+          {
+          "category": "Top business headlines",
+          "author": "https://www.theindychannel.com/tom-maccabe",
+          "title": "Hancock County's Elanco acquires animal health rival - WRTV Indianapolis",
+          "description": "In a deal worth more than $7 billion, Greenfield-based Elanco Animal Health is acquiring one of its chief rivals.",
+          "url": "https://www.theindychannel.com/news/local-news/hancock-countys-elanco-acquires-animal-health-rival",
+          "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/28437ec/2147483647/strip/true/crop/170x89+29+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F6e%2Fd8%2F788824c948c29ddada644f5bf4e8%2Felanco.PNG",
+          "publishedAt": "2019-08-20T18:47:00Z",
+          "content": "GREENFIELD—In a deal valued at over $7 billion, Greenfield-based Elanco Animal Health has announced plans to acquire one of its chief rivals, Bayer AG's animal health business.
+          What this could mean to Hancock County and Greenfield was not immediately clear. Elanco's global headquarters has about 800 employees and is located off I 70 near the State Road 9 interchange, 
+          about 25-miles from Indianapolis. The company has two other Indiana facilities, in Clinton and Terre Haute, with total statewide employment of 1,265.
+          We don’t expect immediate impact from this transaction given closing isn’t anticipated until mid-2020, said Elanco spokesperson Colleen Parr Decker. Elanco has been growing in central Indiana over 
+          the past number of years. We anticipate this move will best position the company for long-term success.
+          In a press release Tuesday from Elanco, the company said the deal strengthens and accelerates Elanco's innovation, portfolio and productivity strategy, creating the second largest animal health leader by global revenue. 
+          The transaction will double Elanco's Companion Animal business, advancing the company's international portfolio mix transformation and creating a balance between its Food Animal and Companion Animal segments.
+          Joining Elanco and Bayer Animal Health strengthens and accelerates our IPP strategy, transforms our portfolio with the addition of well-known pet brands, brings an increased presence in key emerging markets, 
+          expands innovation, and accelerates our margin expansion journey, said Jeffrey Simmons, president and chief executive officer of Elanco. The move combines our long-standing focus on the veterinarian while meeting pet owners' 
+          changing expectation of pet care and access to products.
+          The deal is subject to government approval."
+          },
+          {
+          "category": "Top business headlines",
+          "author": nil,
+          "title": "Autonomous vehicle company Waymo to test in SW Florida rain - Fox 4",
+          "description": "Google autonomous vehicle spinoff Waymo says it will start testing on public roads in Florida to better experience heavy rain.",
+          "url": "https://www.fox4now.com/news/local-news/autonomous-vehicle-company-waymo-to-test-in-southwest-florida-rain",
+          "urlToImage": "https://ewscripps.brightspotcdn.com/dims4/default/1be8278/2147483647/strip/true/crop/640x336+0+72/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsharing.fox4now.com%2Fsharescnn%2Fphoto%2F2018%2F11%2F13%2FGettyImages-631235572_1542124972734_103108271_ver1.0_640_480.jpg",
+          "publishedAt": "2019-08-20T18:23:00Z",
+          "content": "MOUNTAIN VIEW, Calif. (AP) - Google autonomous vehicle spinoff Waymo says it will start testing on public roads in Florida to better experience heavy rain.
+          The Mountain View, California, company says tests will begin this month in the Miami area and include highway driving to Orlando, Tampa and Fort Myers. The Florida test vehicles will be driven by humans. 
+          They'll collect data with laser and radar sensors. Heavy rain can affect image quality.
+          Waymo says Miami is one of the wettest cities in the U.S. during summer the months of hurricane season.
+          Waymo already is testing in multiple areas including the San Francisco and Phoenix areas as well as suburban Detroit and Seattle.
+          The company has delayed a full-scale driverless ride-hailing service in the Phoenix area."
+          },
+          {
+          "category": "Top business headlines",
+          "author": "AJ Willingham, CNN",
+          "title": "Brands are beefing about who has the best chicken sandwich, and it's a mess - CNN",
+          "description": "Welcome to 2019, when everything is made up and brands fight on Twitter about which has the best chicken sandwich.",
+          "url": "https://www.cnn.com/2019/08/20/us/chick-fil-a-popeyes-chicken-sandwich-wendys-trnd/index.html",
+          "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/180828175235-04-strange-nfl-stadium-foods-closed-on-sunday-chicken-sandwiches-3-super-tease.jpg",
+          "publishedAt": "2019-08-20T18:20:00Z",
+          "content": "Welcome to 2019, when everything is made up and brands fight on Twitter about which has the best chicken sandwich.
+          If you didn't know, many fast food franchises offer chicken sandwiches. Some people prefer the pickle-crowned Chick-fil-A original. Others opt for Wendy's or Church's or whatever they need to buy at the next highway exit so they can use the restroom. It's not complicated. It's a sandwich, and people have their opinions.
+          However, we live in a time of endless, churning rancor, and at no point should we have expected that even our chicken would be spared. Over the past 36 hours, a feedback loop of sassy brand tweets from fast food chains has caused major upheaval among the chicken sandwich factions.
+          When recounting the Great Chicken Sandwich War to our grandchildren, our Boston Tea Party, our assassination of Archduke Franz Ferdinand, will be Popeyes' announcement of a new chicken sandwich. The joyous occasion was sullied by a subsequent Chick-fil-A subtweet, which Popeyes was quick to respond to. Imagine future historians piecing together this complex political web.
+          But wait! Fast-food Twitter's resident rabble-rouser, Wendy's, had to have her say. Popeyes responded, but the chain's biscuits ended up falling to friendly fire.
+          Bojangles' and Shake Shack also engaged in some light saber-rattling, as did some lesser-known chicken forces. It was quite the battle royale. For some reason, Boston Market even entered the fray, trying to take a swipe at Chick-fil-A's new mac and cheese offering. You're fighting with the wrong weapons, Boston Market!
+          As cute as these exchanges are, they still have an uncanny Black Mirror quality to them, like when you get two Amazon Echoes to talk to each other. The more productive theater of the Chicken Sandwich War has played out among Twitter's paladins, with random users dragging Bojangles' and invoking the unassailable opinions of the ultimate chicken sandwich deciders: their grandmothers.
+          Like all serendipitous social media fascinations, there is a spark of academic possibility amid the chicken insults. After all, a chicken sandwich can represent so much: regional preferences, class divisions, cultural traditions.
+          Yes, one could pack plenty of socioeconomic insight into the Chicken Sandwich Discourse if it were given a chance to rise above the faux-squabbling throng of fast food social media directors. But one does not want to think about chicken sandwiches that much.  "
+          },
+          {
+          "category": "Top business headlines",
+          "author": "Rachel Premack, Business Insider",
+          "title": "Truckers voted for Trump in droves. Now they say his trade war is 'killing' their ability to make a living. - INSIDER",
+          "description": "Truck drivers overwhelmingly supported Donald Trump in 2016. Now they're pulling back, blaming Trump for a \"depression.\"",
+          "url": "https://www.insider.com/truckers-donald-trump-trade-war-taxes-2019-8",
+          "urlToImage": "https://amp.insider.com/images/5a673591ec1ade392f0cbac8-2732-1366.jpg",
+          "publishedAt": "2019-08-20T18:18:16Z",
+          "content": "Morris Coffman has been a truck driver for 35 years. And he's been a conservative for even longer than that — his whole life.
+          That said, Coffman told Business Insider, [Trump] is absolutely a moron. His idiotic ideas will tank the economy even further.
+          Truckers, like Coffman, lean conservative. A Verdant Labs analysis of Federal Elections Commission data found that nearly three-quarters of truck drivers are Republican — 
+          one of the most conservative jobs in America, along with surgeons and farmers. And truck drivers supported Trump in droves, according to an Overdrive magazine survey from 2016. About 75% said they planned to vote for Trump, up from 66% who supported Sen. Mitt Romney, the Republican presidential nominee in 2012. But a sharp downturn in the trucking industry and a slew of tax changes have hampered their ability to make a living. And many connect those two trends to Trump's economic policies.
+          He has not affected our business in a positive way, said one truck driver who asked to be quoted anonymously for fear their small business might suffer. He's killing our business. 
+          If consumers aren't buying, then there is no demand. This really isn't about my political leanings — it's pure business. Trump's tax reworking in 2017 led to many truck drivers having to pay hundreds in taxes this year, 
+          thanks to a change in per-diem laws. Dennis Bridges, an accountant who specializes in doing taxes for truckers, told Mother Jones in April that 75% of his clients saw an unusually large tax payment, and about 20% had to fork over more than $5,000.
+          That might've been bearable in 2018, when trucking capacity was tight, the industry was raking in cash, and truckers saw their pay jump. But now the trucking bloodbath, as Coffman and other truckers describe current transportation conditions, 
+          has meant low rates and low pay for truckers. Trucking has been in a recession since late 2018.  2,500 truck drivers have lost their jobs in 2019 as the transportation 'bloodbath' rolls on. Here's the full list of bankrupt trucking companies.
+          Transport research groups reported that the volume of trucks purchased in July fell to its lowest level in nearly 10 years. The number of loads needing to be moved in the spot market tumbled by 37% this July compared to one year ago, and rates 
+          have fallen by as much as 18%. I have witnessed many ups and downs in the industry but nothing like this, Coffman told Business Insider. Many, many owner-operators and drivers have either lost equipment or lost a job in the last year.
+          The Cass Freight Index says year-over-year trucking volumes have slipped for eight consecutive months. In June, factory-activity growth was its slowest since October 2016, according to the Institute for Supply Management. That means manufacturers 
+          didn't receive as many orders and there were fewer things to move. Truckers say the dip in manufacturing numbers — which they say are tied to Trump's trade war — is one reason there are so few jobs.
+          The truth about the rates being so low is Trump's trade policies, JL Sims, a truck driver, told Business Insider. Manufacturers are scared. Last month's manufacturing jobs numbers finally began to reflect the reduced production. 
+          Everyone looks at the unemployment rate and thinks, mistakenly, that the economy is in great shape. Manufacturing tells the real story. Analysts in trucking are hesitant to make the same sort of connections, however.
+          DAT Solutions senior analysts Mark Montague and Peggy Dorf previously told Business Insider that the downturn in global trade has affected only certain regions of the US trucking industry. Experts have said an exceptionally vibrant 2018 may be the bigger 
+          reasons for the downturn in trucking. Last year, trucking was incredibly profitable, with record-low bankruptcies, remarkably high rates, eight-month-long wait lists for new trucks, and huge bumps in trucker pay.
+          I view it as the market correcting itself, Cowen's Jason Seidl previously told Business Insider. We basically put too much capacity out there in the marketplace, and you saw that by the rates dropping very hard. The market can only take so much of that, so it corrects itself. 
+          And this is the market just correcting itself. Whatever the cause of the downturn, truckers are a key demographic for any politician to target. The segment of truckers called owner-operators, for instance — who are independent, rather than company drivers — 
+          are fiercely engaged with politics on the national level. Nearly 90% are registered voters, according to the Owner-Operator Independent Drivers Association, compared to about 78% of the general population. More than half have contacted an elected official.
+          Trump has previously catered to truckers, pledging to slash taxes to help their businesses. America first means putting American truckers first, he said at a 2017 trucker event.
+          But truckers, including conservative ones, don't believe Trump has lived up to his promise.
+          You can not bully your way to a good economy, Coffman said."
+          },
+          {
+          "category": "Top business headlines",
+          "author": "Sylvan Lane",
+          "title": "Bank watchdogs approve rule to loosen ban on risky Wall Street trades | TheHill - The Hill",
+          "description": "Two federal bank regulators voted Tuesday to approve a significan...",
+          "url": "https://thehill.com/policy/finance/458117-bank-watchdogs-approve-rule-to-loosen-ban-on-risky-wall-street-trades",
+          "urlToImage": "https://thehill.com/sites/default/files/wallstreet_stockmarket.jpg",
+          "publishedAt": "2019-08-20T18:15:36Z",
+          "content": "Two federal bank regulators voted Tuesday to approve a significant rollback of a controversial ban on risky trades passed in the aftermath of the 2008 financial crisis. 
+          The Federal Deposit Insurance Corporation (FDIC) and the Office of the Comptroller of the Currency (OCC) on Tuesday adopted a weakened version of the so-called “Volcker Rule,” which bans banks from making high-risk bets with their own assets. While the OCC and FDIC are but two of five agencies that must sign off on the new Volcker Rule, their approval of the proposal is the first step in a massive lobbying victory for some of the largest U.S. banks.
+          The Volcker Rule was one of several provisions of the 2010 Dodd-Frank Wall Street reform law designed to ban risky and overly complex investments that helped crash the global financial system in 2008. 
+          While advocates for banks have fought to loosen several aspects of Dodd-Frank in the nine years since its passage, firms with mammoth trading desks such as Goldman Sachs have paid particular attention to the Volcker Rule.
+          Named after its chief advocate, former Federal Reserve Chairman Paul Volcker, the rule bans banks from certain “proprietary” trades, or investments using the bank’s own capital. Industry advocates insisted that while banks supported stricter limits on risk, the Volcker Rule was too complex and burdensome to be effective.
+          “The new Volcker Rule finalized today is recognition that the original rule was overly complex and unworkable,” said Greg Baer, president and CEO of the Bank Policy Institute, a research and advocacy group representing 17 of the largest banks and financial firms.
+          “The changes in the new rule will help reduce the incidental damage the original rule has done to responsible banking activity and legitimate market making activity, and the massive and needless compliance costs it imposed.”
+          But advocates for strict bank regulations said the Volcker rewrite effectively guts the rule and does nothing to prevent the build-up of risk that led to the 2008 financial crisis.
+          “As the threats from leveraged lending and global uncertainty increase, greedy Wall Street banks and Trump regulators are determined to put the financial system and working families in danger,” said Sen. Sherrod Brown (D-Ohio), ranking Democrat on the Senate Banking Committee.
+          “Trump regulators continue to open a Pandora’s box of risky trading and speculation at the expense of American taxpayers”
+          Rep. Maxine Waters (D-Calif.), chairwoman of the House Financial Services Committee, said the revisions “will not only put the U.S. economy at risk of another devastating financial crisis, but it could potentially leave taxpayers at risk of having to once again foot the bill for unnecessary and burdensome bank bailouts.” Financial regulators offered a variety of delays and exemptions from the Volcker Rule as banks pressed for broader changes, but the industry had all but given up on major fixes until Trump’s 2016 election.
+          Trump has since stocked bank regulators with predominantly Republican appointees, who have advanced several proposals to tailor financial rules defended by their Obama-era counterparts.
+          The new rule would scrap a requirement for banks to prove that trades enacted to make markets for clients’ speculative investments and efforts underwrite stock offerings comply with regulation as long as the firms follow certain risk mitigation requirements.
+          The revision would also exempt banks below certain asset thresholds from the rule, create three levels of increasing compliance requirements for banks based on size and complexity, and allows banks to use a looser standard to calculate risk for certain investments. 
+          Regulators and industry advocates supporting the Volcker rollback called the revision a moderate tailoring of the rule designed to provide clearer, more effective standards for banks.
+          FDIC Chairwoman Jelena McWilliams, who was appointed by Trump, said the new rule “will provide more clarity, certainty, and objectivity around the Volcker Rule, while tailoring the requirements to focus on those banks that conduct the overwhelming majority of trades.”"
+          },
+          {
+          "category": "Top business headlines",
+          "author": "Catie Keck",
+          "title": "Generic Version of Life-Saving EpiPen for Children Is Finally Hitting the Shelves - Gizmodo",
+          "description": "Teva Pharmaceutical Industries, an Isreali drug maker, has announced that a generic version of EpiPen for kids is now available in pharmacies at $300 for a two-pack of the life-saving treatment.",
+          "url": "https://gizmodo.com/generic-version-of-life-saving-epipen-for-children-is-f-1837406301",
+          "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--Y7DryKvc--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/sii91m38kqy3gt9mjsey.jpg",
+          "publishedAt": "2019-08-20T17:40:00Z",
+          "content": "Teva Pharmaceutical Industries, an Isreali drug maker, has announced that a generic version of EpiPen for kids is now available in pharmacies at $300 for a two-pack of the life-saving treatment.
+          The EpiPen is used to deliver a dose of epinephrine for people who are experiencing a life-threatening allergic reaction. According to the company, the generic version of Mylan’s EpiPen Jr comes in two doses: 0.15 mg for children who weigh between 33 and 66 pounds, and 0.3 mg for kids who weigh 66 pounds or more. The company last year launched the generic version of the higher-dose EpiPen, which was also priced at $300.
+          ”We’re pleased to provide access to Epinephrine Injection (Auto-Injector) in two strengths for patients who may experience life-threatening allergic emergencies,” Teva’s Brendan O’Grady, EVP, and Head of North America Commercial said in a statement. “We will continue working to ensure availability of both strengths in the US and plan to accelerate production to meet the urgent need for this medicine.”
+          The U.S. Food and Drug Administration last year approved the generic versions of EpiPen and EpiPen Jr after years of price-gouging by Mylan, which in 2007 acquired the product—originally priced at $57—and was charging an eye-popping $600 for a two-pack of the epinephrine auto-injector devices by 2016.
+          Following the FDA’s approval of a generic version of the treatment, former Commissioner Scott Gottlieb said in a statement at the time that the decision meant “patients living with severe allergies who require constant access to life-saving epinephrine should have a lower-cost option.”
+          The approval also came amid an ongoing shortage of EpiPen treatments due to complications experienced by Mylan’s supplier Pfizer. Grappling with the issue at the start of the school year last year, Mylan convinced the FDA to extend the expiration dates on some of its EpiPen devices by four months after the company was able to show that the treatments would still be stable and effective.
+          In another bit of EpiPen news, Illinois last week passed legislation—which will go into effect on Jan. 1—requiring insurance companies cover the costs of epinephrine injectors for individuals 18 years old or younger.
+          “With steady increases in food allergies and other serious allergic conditions, families are relying on EpiPens more than ever before,” State Senator Julie Morrison said of the move. “We should be doing everything we can to expand access to affordable lifesaving drugs and medicines. No child with a serious allergy should be without an epinephrine injector because they cannot afford one.”"
+          },
+          {
+          "category": "Top business headlines",
+          "author": nil,
+          "title": "181 Top CEOs Have Realized Companies Need a Purpose Beyond Profit - Harvard Business Review",
+          "description": "The Business Roundtable’s new letter could mark a turning point.",
+          "url": "https://hbr.org/2019/08/181-top-ceos-have-realized-companies-need-a-purpose-beyond-profit",
+          "urlToImage": "https://hbr.org/resources/images/article_assets/2019/08/Aug19_20_96572481.jpg",
+          "publishedAt": "2019-08-20T17:24:20Z",
+          "content": "On August 19 the Business Roundtable issued an open letter titled “Statement on the Purpose of a Corporation.” One of the preeminent business lobbies in the United States, the Business Roundtable (BR) includes the CEOs of leading U.S. companies from Apple to Walmart. Sandwiched between the spare title and 181 signatures was a one-page declaration that ended as follows: “Each of our stakeholders is essential. We commit to deliver value to all of them, for the future success of our companies, our communities and our country.”
+          On its own, this sentence is indistinguishable from the anodyne commentary that fills the annual reports of many Business Roundtable members. For those actively following this topic, however, it represents a very public rebuke of the Milton Friedman worldview that guides business decisions behind closed doors. Friedman, the renowned University of Chicago economics professor, penned a famous 1970 New York Times essay, “The Social Responsibility Of Business Is to Increase Its Profits,” that helped launch a half century of “shareholder capitalism.” In this worldview, the business of business is business, and the sole focus of the CEO is to maximize the profits of that business.
+          The new statement by the Business Roundtable explicitly counters this view. Corporations are, according to the statement, accountable to five constituencies, of which shareholders are only one (customers, employees, suppliers, and communities are the others). In that sense it is a classic articulation of “stakeholder capitalism,” prevalent in Europe today and in the U.S. during the immediate postwar period. So while the statement itself is not notable, that it has the backing of CEOs representing nearly 30% of total U.S. market capitalization is.
+          The primary criticism of stakeholder capitalism is that any purpose other than shareholder profits results in a lack of focus and, ultimately, corruption. This critique logically follows from the view that CEOs can be self-serving arbiters of social value and would, if given the opportunity, divert resources to their own enrichment under the guise of “purpose.” In his 2019 letter to CEOs, Larry Fink, the CEO of BlackRock, disagreed with this assumption, stating in bold lettering: “Purpose is not the sole pursuit of profits but the animating force for achieving them. Profits are in no way inconsistent with purpose — in fact, profits and purpose are inextricably linked.”
+          This debate — whether purpose and profits work together or are fundamentally at odds with each other — can be informed by empirical research. And the findings of our ongoing research initiative on corporate purpose support the views of Larry Fink and now of the Business Roundtable: Purpose and profit tend to go together. Using more than 1.5 million employee-level observations across thousands of companies, we quantified purpose as the aggregate sense of meaning and impact felt by employees of a corporation. If the company has a strong corporate purpose, our research shows, its employees will feel greater meaning and impact in their jobs. This view reflects the opening sentence in the BR report: “Americans deserve an economy that allows each person to succeed through hard work and creativity and to lead a life of meaning and dignity” (emphasis ours).
+          In our data we find that companies with high levels of purpose outperform the market by 5%–7% per year, on par with companies with best-in-class governance and innovative capabilities. They also grow faster and have higher profitability. However, the link between purpose and profitability is present only if senior management has been successful in diffusing that sense of purpose further down in the organization, especially in middle management, and in providing strategic clarity throughout the organization on how to achieve that purpose.
+          Our work also could help explain the obstacles companies face in moving away from such an exclusively shareholder-focused perspective. A company’s listing status and investor base is one such hurdle. We find lower levels of purpose in publicly listed companies, relative to private firms. Importantly, this pattern is driven by public companies with concentrated or activist shareholders. One may think we are picking up on a reverse effect, that activist shareholders choose underperforming companies that also have lower purpose, but this is not what is going on in our data. Instead, activist shareholders acquire large stakes of public companies, and then purpose subsequently declines among hourly and middle-ranked employees. To us this indicates the importance of firms’ strategically managing their shareholder bases and aligning their long-term strategies with the types of investors that would be supportive of it.
+          Incentives are another factor. We find that purpose declines when there is a larger gap between the pay of CEOs and median workers and between the performance-based pay of middle- and lower-level workers. Both can result from employees’ feeling that value creation is allocated unfairly within the firm.
+          Leadership is yet another one. We find that firms where the CEOs were promoted internally have a higher sense of purpose. Rising through the ranks seems to be an important variable when considering preserving the purpose of the organization. Finally, strategic choices, such as mergers and acquisitions, are also an important factor. We find that M&A tends to cause a decrease in sense of purpose, consistent with the idea that most M&A activity does not include enough due diligence on how it will affect employees and firm culture.
+          All these patterns are important to the discussion of the role of purpose in corporations and society. We live in an age where production is increasingly concentrated among large companies and large capital providers. With this greater market power comes expectations of a larger social role, whether that role is the choice of the CEOs or not.
+          What the impact of this one letter from the Business Roundtable will be is hard to know. On the one hand, it might be a cynical response to election-year rhetoric and policy proposals that worry the member companies of this powerful lobbying group. On the other hand, it may reflect a deeper response of national leaders to the falling social mobility, toxic polarization, and reduced trust in traditional institutions that we are grappling with today. Societal shifts seldom come suddenly. They often manifest as the gradual erosion of support for one worldview and the rise in support of another. And with this letter, we may be seeing incremental steps in that direction.
+          The authors would like to acknowledge their partnership with the Great Places to Work Institute on this research initiative, and specifically the support of Ed Frauenheim and Marcus Erb at the Institute."
+          },
+          {
+          "category": "Top business headlines",
+          "author": "Makena Kelly",
+          "title": "The Justice Department is working with states on tech investigation, antitrust chief says - The Verge",
+          "description": "Antitrust chief Makan Delrahim’s comments came during an interview at a Tech Policy Institute conference in Colorado August 20th. When asked if Congress should update current antitrust law to more sufficiently govern the tech industry, Delrahim told reporters…",
+          "url": "https://www.theverge.com/2019/8/20/20814033/justice-department-makan-delrahim-tech-facebook-google-antitrust-law-states",
+          "urlToImage": "https://cdn.vox-cdn.com/thumbor/-N3XzP7aiqjCQWuddC7h3RpzX7o=/0x251:3500x2083/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19056449/972632674.jpg.jpg",
+          "publishedAt": "2019-08-20T17:13:16Z",
+          "content": "The Justice Department is working alongside state attorneys general to investigate whether tech platforms like Facebook and Google are stifling competition in the industry, the department’s antitrust chief, Makan Delrahim, said.
+          The statement came only a day after The Wall Street Journal reported that a group of states would be moving forward with an antitrust investigation into the tech sector that could be formally announced later this month. That new state-led probe would put more pressure on tech companies, some of which are already under investigation for potentially anti-competitive behavior by the Justice Department and the Federal Trade Commission.
+          The FTC’s own antitrust investigation into Facebook could finish up as soon as next year, FTC chair Joe Simons said on Monday. “Any significant case that I’m trying to emphasize,” Simons said. “I would want to be out before the election.” Delrahim’s comments came during an interview at a Tech Policy Institute conference in Colorado on Tuesday. When asked if Congress should update its current antitrust law to more sufficiently govern the tech industry, Delrahim told reporters, “I don’t think so at this time. I think the laws we have are quite flexible. I think we just have to have proper, timely and aggressive enforcement of the antitrust laws.”
+          His comments counter some of what Democrats in the House of Representatives have said in recent months. Earlier this year, the House Judiciary Committee’s panel on antitrust opened an investigation into major tech companies like Facebook, Google, and Amazon in hopes of identifying how current law could be updated to better control the tech sector.
+          “After four decades of weak antitrust enforcement and judicial hostility to antitrust cases,” the House Judiciary antitrust chairman David Cicilline (D-RI) said in a statement at the time, “it is critical that Congress step in to determine whether existing laws are adequate to tackle abusive conduct by platform gatekeepers or whether we need new legislation to respond to this challenge.”
+          The Justice Department opened up its “broad” review of the tech sector in July, but little has bubbled to the surface regarding what exactly the officials are investigating. Delrahim suggested that the department is still requesting and documents and that it “might be issuing compulsory process on some third parties who may or may not need it.”
+          Delrahim also touched on whether antitrust law could be used to address concerns Republicans have voiced over the past few months regarding alleged “conservative bias” on platforms. “It depends if it’s a competition question,” Delrahim told reporters. “If you have more competition, consumers may have different outlets to go to when a particular quality of a company may not be to their liking.”"
+          }
 ]
 news.each {|news| News.create(news)}
 
