@@ -984,7 +984,529 @@ news = [
           “After four decades of weak antitrust enforcement and judicial hostility to antitrust cases,” the House Judiciary antitrust chairman David Cicilline (D-RI) said in a statement at the time, “it is critical that Congress step in to determine whether existing laws are adequate to tackle abusive conduct by platform gatekeepers or whether we need new legislation to respond to this challenge.”
           The Justice Department opened up its “broad” review of the tech sector in July, but little has bubbled to the surface regarding what exactly the officials are investigating. Delrahim suggested that the department is still requesting and documents and that it “might be issuing compulsory process on some third parties who may or may not need it.”
           Delrahim also touched on whether antitrust law could be used to address concerns Republicans have voiced over the past few months regarding alleged “conservative bias” on platforms. “It depends if it’s a competition question,” Delrahim told reporters. “If you have more competition, consumers may have different outlets to go to when a particular quality of a company may not be to their liking.”"
-          }
+          },
+          {
+            "category": "Apple",
+            "author": "David Murphy",
+            "title": "How to Jailbreak Your iOS 12.4 iPhone or iPad",
+            "description": "Jailbreaking your iPhone—removing Apple’s restrictions that prevent you from installing any apps on your device that you want or messing with settings Apple otherwise locks down—isn’t for everyone. It can be a risky process to begin with, and doing it voids y…",
+            "url": "https://lifehacker.com/how-to-jailbreak-your-ios-12-4-iphone-1837374022",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--JJmQmiK5--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/ik2dtflt4c1ibplmz72r.jpg",
+            "publishedAt": "2019-08-19T18:20:00Z",
+            "content": "Jailbreaking your iPhone—removing Apple’s restrictions that prevent you from installing any apps on your device that you want or messing with settings Apple otherwise locks down—isn’t for everyone. It can be a risky process to begin with, and doing it voids your warranty, but it’s a great way to extend the life of an older device or something you don’t carry around for everyday use.
+            Apple has made the process a lot more difficult over the years, which is why the recent revelations that there is a somewhat-easy jailbreak for iOS 12.4 (the latest version of Apple’s iOS) is pretty exciting. At least, you now have a small window to jailbreak your updated device before Apple releases iOS 12.4.1 to fix an iOS 12.2 vulnerability it accidentally unpatched—hence the resurrected jailbreak technique.
+            You’ll be using the popular unc0ver tool to jailbreak your device. And you’ll want to follow along to one of the many video tutorials that have popped up for iOS 12.4, as jailbreaking can be a little head-scratching if you’ve never done it before. Start by making sure you’re running iOS 12.4, which you can check via your device’s Settings > General > About screen. The jailbreak also only appears to work for devices using an A7–A11 chips, so, you won’t be able to perform the hack on your newer iPhone XS, XS Max, or XR, nor the 2019 iPad Mini or iPad Air, which all use A12 chips.
+            Assuming your device is eligible, you’ll want to download Cydia Impactor and the latest version of the Undecimus .IPA. Unzip and run Cydia Impactor, and then plug your iPhone or iPad into your Windows PC or Mac. Make sure your computer “trusts” your device, or vice versa, if you haven’t allowed that already.
+            Drag the .IPA you downloaded into the Undecimus app, and then enter your Apple ID and password. Once the jailbreak installs onto your device, pull up Settings on your device, tap on General, and tap on Device Management (which should be under Profile and VPN). Tap on your Apple ID and tap the option to “trust” that same email address.
+            From there, turn off Siri (via the top three options in your Settings app’s Siri & Search section), turn on Airplane Mode, and then use your device’s buttons to power it down. Power it back on. Once it loads, launch the unc0ver app. Tap the big blue “Jailbreak” button. Cross your fingers. When prompted to reboot your device, do that, and then launch the unc0ver app and hit the Jailbreak button (again). Repeat this process one more time when your device restarts, which should install the unofficial app store Cydia on your device.
+            I haven’t used this jailbreak myself, so I can’t confirm first-hand about anything else you’ll need to do to ensure it keeps working. As iClarified writes for earlier versions of iOS:
+            This is a semi-tethered jailbreak so you will need to launch unc0ver and tap Jailbreak each time you reboot.
+            If you don’t have a developer account you will need to re-sideload the unc0ver app every seven days.
+            We never said jailbreaking was easy. However, this is the price you pay for hacking your iPhone or iPad to run whatever you want. If you’re having trouble getting the jailbreak to work, I recommend checking out the incredibly healthy community over at /r/jailbreak, which might be able to answer any questions you have (assuming someone else hasn’t also encountered any bugs you’re seeing)."
+            },
+            {
+            "category": "Apple",
+            "author": "Alice Bradley",
+            "title": "How to Stop Feeling Like an Impostor, With Psychologist Jessamy Hibberd",
+            "description": "In this episode of The Upgrade, we’re discussing impostor syndrome, the psychological phenomenon wherein people question their successes and have an internalized fear of being discovered as a fraud. Read more...",
+            "url": "https://lifehacker.com/how-to-stop-feeling-like-an-impostor-with-psychologist-1837374240",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--DvjGw8pn--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/ip7icvy3xiqlkqddfm6p.jpg",
+            "publishedAt": "2019-08-19T18:15:00Z",
+            "content": "In this episode of The Upgrade, we’re discussing impostor syndrome, the psychological phenomenon wherein people question their successes and have an internalized fear of being discovered as a fraud.
+            We hear from Lifehacker’s staff writer Nick Douglas, who explains why he keeps something called a “brag file.” We’ll also chat with clinical psychologist Jessamy Hibberd, author of the book The Impostor Cure. 
+            And our producer takes to the streets to find out how people deal with their own feelings of inadequacy (spoiler alert: some of them don’t have any). Listen to The Upgrade above or find us in all the usual places 
+            where podcasts are served, including Apple Podcasts, Google Play, Spotify, iHeartRadio, Stitcher, and NPR One. Please subscribe, rate, and review. Every week we talk about one tiny thing making a big difference in our lives. 
+            For Alice, it’s the chrome extension TabSnooze. For Melissa, it’s the library app Libby. Do you have an upgrade you need to tell the world about? Send an email or voice memo to upgrade@lifehacker.com. We might just share your message on the podcast."
+            },
+            {
+            "category": "Apple",
+            "author": "Josh Ocampo",
+            "title": "How to Dispose of a Broken Pair of Headphones",
+            "description": "On Amazon, a pair of headphones by a manufacturer called HiFiMan costs $2,250. According to reviews, of which there are 28 supposed buyers, one commenter said his pair broke and that he wouldn’t buy another pair again. (His review mentions that this was his s…",
+            "url": "https://lifehacker.com/how-to-dispose-of-a-broken-pair-of-headphones-1837372883",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--h3x_ROQB--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/crfsydk4qfyitaptciiy.jpg",
+            "publishedAt": "2019-08-19T21:00:00Z",
+            "content": "On Amazon, a pair of headphones by a manufacturer called HiFiMan costs $2,250. According to reviews, of which there are 28 supposed buyers, one commenter said his pair broke and that he wouldn’t buy another pair again. (His review mentions that this was his second set from the company.)
+            Last week, we wrote about how to get rid of valuable electronic waste like your used Xbox and Playstation gaming consoles. If your headphones have stopped working, and even a repair shop can’t come to the rescue, it’s important to dispose of them the right way; headphones, like consoles, are complicated to recycle because they must be disassembled to be repurposed. Before you throw out your old pair of headphones, which may or may not cost a few thousand dollars, research your options so you can avoid adding to the problem of electronic waste. Send them to a facility that will recycle them
+            Typically, headphones are made of three components which include the speakers (that often contain magnets), a casing that covers those speakers, and a cord. Depending on the exact brand and model, there might be aluminum or copper wires, as well as foam or rubber around the pads around your ears, as Recycle Nation writes. Meanwhile, Airpods and its case are mostly made of various types of plastic and metal.
+            If you have non-working headphones, your first step before choosing to recycle them on your own is to check with the manufacturer. They may accept them and recycle the pair on your behalf. (Apple will recycle your broken Airpods and other Apple-branded products, for example.) Also, it’s good to check with the manufacturer to see if your headphones are still under warranty; it won’t solve your trash problem, but at least you’ll have the pair replaced for free.
+            If your manufacturer doesn’t offer a recycling program, do some research for nearby big-box retailers. Best Buy stores, for instance, will accept used headphones for recycling (or for trade-in, if they’re still working). Look for recycling kiosks just inside the store or just refer to the customer service if you’re unable to locate them.
+            Otherwise, use Earth 911's search locator to find nearby electronic waste drop-off locations. Search for “Audio Equipment,” your zip code, and results for nearby facilities will appear. Going through the effort of driving to a facility might not be worth it for a single pair of headphones, so it would be a good opportunity to assemble other electronics you want to dispose of, too. (Maybe you have a non-working gaming console or pair of speakers taking up too much space in your living room.
+            Otherwise, mail your headphones to recycling programs like those at JLab Audio; just enter your email, fill out a form, send in your headphones or earbuds, and they’ll recycle it on your behalf. They’ll also send you a code to receive 30% off any order of new headphones over on their website.
+            How to maintain the quality of your headphones
+            If your pair of earbuds are on their last leg and adhered together with only duct tape, there are a few things you can do to extend their lifespan (and to avoid purchasing a new pair time and time again).
+            As Gizmodo writes, you should take basic precautions, like avoiding too hot or cold temperatures or yanking out the cable to remove them—pull the end instead. Also, avoid submerging them in liquids and keep away from places with high humidity. And how you store them is important, too. “An easy way to make your earbuds last longer is by wrapping them up properly,” u/n00bcrusher wrote on a Reddit thread. “About 90% of the time earbuds stop working is because we don’t wrap them properly and the wire on the inside just splits in half.”
+            As this video from the Verge demonstrates, to avoid your headphones from becoming tangled and possibly stop working altogether, hold out three fingers and wrap the cord around them; toward the end of the wire, begin to wrap down the middle so it doesn’t come loose. (It should look like a bow by the time you’re done.)
+            And if you think your headphones might be worth salvaging, find an electronics store that might able to repair them, though it could cost more than to replace them depending on your pair.
+            Instead, if you’re able to, invest in a good pair of headphones like those from Sennheiser or Sony any other brand over the cheap ones you might find at a drug store; you might end up spending more to replace those cheap headphones. But don’t buy a pair that cost you $2,250. That’s just dumb."
+            },
+            {
+            "category": "Apple",
+            "author": "Brendan Hesse",
+            "title": "Here's Every Device You Can Use to Stream Disney+",
+            "description": "Disney+ is almost here. We know many important details about Disney’s standalone streaming service—including how much it’ll cost and what you’ll be able to watch —and the final piece of the puzzle was just revealed: all the devices you can use to stream Disne…",
+            "url": "https://lifehacker.com/heres-every-device-you-can-use-to-stream-disney-1837378152",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--1RrClQvp--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/xfdhhxnxjemwrawq9k1c.jpg",
+            "publishedAt": "2019-08-19T20:30:00Z",
+            "content": "Disney+ is almost here. We know many important details about Disney’s standalone streaming service—including how much it’ll cost and what you’ll be able to watch—and the final piece of the puzzle was just revealed: all the devices you can use to stream Disney+ at launch.
+            And as you’ll see from the following list, there are some notable omissions. Here’s everything that will support Disney+ when the service launches on November 12:
+            Apple TV
+            Android devices, including Android TV
+            Chromecast
+            iOS and iPadOS
+            PlayStation 4 and PlayStation 4 Pro
+            Roku devices, including smart TVs with the Roku TV OS
+            Web browsers via disneyplus.com
+            Xbox One consoles, including the Xbox One S and One X
+            Notice what’s missing? Amazon products. No Fire TV devices or Kindle Fire tablets will support the service, at least at launch. The Nintendo Switch is absent from the list as well, 
+            meaning that Hulu and YouTube are still the only streaming platforms available on Nintendo’s latest console.
+            It’s always possible that Disney+ could expand to Amazon and Nintendo’s products in the future, but for now, that doesn’t seem to be part of Disney’s plan for its new service.
+            That said, Ultra HD streaming does seem to be part of the plan—at least for select content that supports UHD 4K and HDR. You’ll need a strong enough internet connection and devices that can manage 
+            that resolution, of course, but Disney+ won’t charge you extra to access the best video quality you can get.
+            Disney+ will cost $6.99 monthly or $69.99 annually, or you can bundle Disney+ with ESPN Plus and the basic Hulu service for just $12.99 a month. If you’re curious about other features included in Disney+, 
+            or how the service stacks up to competitors like Hulu and Netflix, check out our comparison guide and our round-up of all the shows and movies that will be streamable when the platform launches later this year."
+            },
+            {
+            "category": "Apple",
+            "author": "Edgar Alvarez",
+            "title": "Disney+ will have apps for iOS, Apple TV, Android and Xbox One",
+            "description": "The debut of Disney's highly anticipated streaming service, Disney+, is almost here. But, leading up to the November 12th launch date, the company is starting to share more details about it. Today we're learning about how you'll be able to watch content on Di…",
+            "url": "https://www.engadget.com/2019/08/19/disney-plus-ios-apple-tv-android-xbox-one-canada-netherlands-australia-new-zealand/",
+            "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fcrop%3D1600%252C1036%252C0%252C0%26quality%3D85%26format%3Djpg%26resize%3D1600%252C1036%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2019-08%252F3e72b2b0-c22a-11e9-8ffe-1260ec5d3b15%26client%3Da1acac3e1b3290917d92%26signature%3D29d63991c5eef4788429bc9942a56b5a65be2cf7&client=amp-blogside-v2&signature=5fbe78d254ee5548e55242944be72a02d367ec9c",
+            "publishedAt": "2019-08-19T13:00:00Z",
+            "content": "The debut of Disney's highly anticipated streaming service, Disney+, is almost here. But, 
+            leading up to the November 12th launch date, the company is starting to share more details about it. Today we're learning about how 
+            you'll be able to watch content on Disney+, which includes new original series like The Mandalorian, every season of The Simpsons and Disney's 
+            entire movie library. And while we knew Disney was planning to bring Disney+ to your favorite smart TVs, phones, laptops, tablets and gaming consoles, 
+            the only devices it had actually named were Roku and Sony's Playstation 4. Now, in addition to those, Disney's making it official that Disney+ will 
+            support iOS, Apple TV, Android, Android TV, Google Chromecast and Xbox One at launch.
+            On Apple devices in particular, Disney says, people can subscribe to its streaming service via in-app purchase, which will make the sign-up process quite 
+            simple for customers. The fact that Disney+ will have apps on all major platforms when it arrives shouldn't come as a surprise, considering the digital 
+            footprint of other Disney applications such as Hulu and ESPN+. In the US, Disney+ will be available standalone for $6.99 per month, or $12.99 in a bundle 
+            that includes Hulu (with ads) and ESPN+ -- a deal that's going to be hard for people to ignore, and that just so happens to be the exact same price as 
+            Netflix's standard plan. Speaking of, the US isn't the only country getting Disney+ on November 12th. Disney has announced that the service will be 
+            available on the same day in Canada and the Netherlands, for a monthly fee of $8.99CAD (or $89.99CAD per year) and €6.99 (or €69.99 per year), respectively. 
+            But that's not it: On November 19th, Disney+ is also set to launch in Australia ($8.99AUD per month, $89.99AUD per year) and New Zealand ($9.99NZD per month, $99.99NZD per year). 
+            The arrival of Disney+ to these countries marks the beginning of Disney's global rollout plans for its streaming service, with the company expecting to be live in most major global markets within the first two years.
+            We'll likely learn even more about Disney+ later this week, when the D23 Expo kicks off on August 23rd in Anaheim, California."
+            },
+            {
+            "category": "Apple",
+            "author": "Lily Hay Newman",
+            "title": "You Can Jailbreak Your iPhone Again (But Maybe You Shouldn’t)",
+            "description": "Apple reintroduced a previously fixed bug in iOS 12.4, which has led to a jailbreak revival.",
+            "url": "https://www.wired.com/story/ios-jailbreak-new/",
+            "urlToImage": "https://media.wired.com/photos/5d5af2b0cdb91100085b250e/191:100/pass/security_apple_1138155587.jpg",
+            "publishedAt": "2019-08-19T19:53:49Z",
+            "content": "AT THIS POINT, Apple has locked iOS down enough that a full jailbreak—unlocking a device to install whatever you want on it—of current 
+            releases is extremely rare. When such a capability does exist, it's usually kept quiet and sold for millions of dollars by exploit brokers. But now, 
+            thanks to an apparent Apple gaffe, the latest version of iOS can be jailbroken at this very moment. There's even code to do it on Github.
+            As first reported by Motherboard, researchers discovered over the weekend that in its recent iOS 12.4 release, Apple had accidentally rolled back a 
+            patch that fixed a bug from iOS 12.3. As a result, it's possible to exploit the vulnerability to jailbreak iOS 12.4, making it the first current-version iOS 
+            jailbreak to be publicly disclosed in years.
+            It’s really a surprise to see, says Will Strafach, a longtime iOS jailbreaker and founder of Sudo Security Group. It's been so long since an up-to-date 
+            firmware could be jailbroken. But now that Apple knows, it won’t be for long. I expect an update within a few days. Apple did not return a request from 
+            WIRED for comment. Jailbreaking allows iOS users to add apps and other functions that Apple wouldn't normally permit to their iPhones. iOS has rigid limitations 
+            that are at least partly meant to protect users from malicious apps, but that also preserve Apple's control over the ecosystem. As a result, jailbreaking erodes 
+            some system protections, but it also allows users to break free from Apple's constraints.
+            Hacker Pwn20wnd posted a public version of the jailbreak on Monday that iOS users are already using to redesign the look of their iOS home screens and install unapproved apps. 
+            Researchers have warned, though, that jailbreaking potentially makes a device less secure, undermining protections that keep apps from reading each other's data, 
+            and opening the iPhone to potential attacks. An unscrupulous developer could even add functionality to an App Store-approved app that would trigger a jailbreak when a user installs it.
+            This is rather inexcusable, as it puts millions of iOS users at risk, says Patrick Wardle, principal security researcher at the Mac management firm Jamf. 
+            And the irony, as others have already noted, is that since Apple doesn't allow us to downgrade to old versions, we're really kind of sitting ducks.
+            Sudo Security's Strafach says that in detailed scans of the App Store he hasn't seen any such malicious behavior cropping up so far. But the threat remains, 
+            as does the risk that attackers might use other paths to compromise devices—tainted third-party apps, Apple's enterprise distribution certificates, or other remote exploits.
+            As a jailbreaking fan, though, Strafach also sees opportunities for exploration and insights that outweigh the risks. And he notes that as iOS has matured, 
+            jailbreaks have gotten harder to weaponize when they do crop up. But it's still not something to undertake lightly. The bigger significance of the incident relates to 
+            longstanding tensions between Apple and the security research community. The company announced earlier this month that it was finally launching a Mac bug bounty, after 
+            introducing an iOS program in 2016. And Apple even said this month that it will distribute special iPhones that are less restrictive than their consumer counterparts to security researchers. 
+            But the company is also in the process of suing the mobile security testing firm Corellium for copyright infringement, because Corellium offers a virtual iOS build that researchers 
+            can test on remotely. Both Wardle and Strafach point out that Corelliums tool could have been used to catch the mistakenly reintroduced vulnerability in iOS 12.4.
+            This shows that Apple continues to struggle with security—even on iOS which is clearly their priority, Wardle says. And this was uncovered by an independent security researcher, 
+            which illustrates the value such researchers add. Apple's more communicative approach with their new bug bounty program is good, but their attempts to shut down researcher tools like Corellium are bad.  
+            Whether you take the risk of jailbreaking your iPhone today or not, it seems like lately Apple is the one living on the edge."
+            },
+            {
+            "category": "Apple",
+            "author": "Chris Welch",
+            "title": "Disney+ will stream on these devices at launch",
+            "description": "Disney has confirmed its first global launches for the company’s upcoming Disney+ subscription service, and it outlined which devices will be able to access it on day one.",
+            "url": "https://www.theverge.com/2019/8/19/20811513/disney-plus-launch-devices-iphone-ipad-apple-tv-roku-android-subscription",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/D10GCp7DCqilPtZE17efE_5wJJA=/0x136:2256x1317/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19020008/Screen_Shot_2019_08_18_at_10.23.04_PM.png",
+            "publishedAt": "2019-08-19T13:00:00Z",
+            "content": "Disney today confirmed its first global launches for the company’s upcoming Disney+ subscription service, and it outlined which devices and platforms will be able to access it on day one. The service is set to launch in the United States on November 12th for $6.99 per month (or $69.99 paid annually). Canada, the Netherlands, Australia, and New Zealand will be able to start streaming Disney+ in November. The company has said it aims to offer Disney+ in most major global markets within two years of its initial launch. It has also said a $12.99-per-month trio bundle of Disney+, Hulu, and ESPN+ is coming.
+            “Disney+ will launch in Canada and the Netherlands in tandem with the US on November 12th, priced at $8.99CAD per month (or $89.99 per year) and €6.99 per month (or €69.99 per year), respectively,” Disney announced in a press release. “The following week, Disney+ will launch in Australia and New Zealand on November 19th, priced at $8.99AUD per month (or $89.99 per year) and $9.99NZD per month (or $99.99 per year), respectively.”
+            More importantly, Disney also confirmed that it has reached global agreements with other companies that will let consumers access Disney+ on many of the devices they already use every day.
+            At launch, you’ll be able to stream Disney+ on these platforms and products:
+            Apple TV (tvOS), Android mobile devices, Android TV, Chromecast, Desktop web browsers, iPad (iPadOS), iPhone (iOS), PlayStation 4, Roku streaming players, Roku TV, Xbox One,
+            Amazon’s Fire TV lineup is the glaring omission from this list — at least for now. There’s always a chance it’ll be added by the time Disney+ goes live. Amazon Fire tablets will also seemingly be left without Disney+. It might be possible to sideload the app onto unsupported devices somehow, but that hasn’t been confirmed and there are no guarantees.
+            Disney says customers will be able to subscribe to the service directly on several platforms, including iOS. So yes, Apple will be getting a cut of those subscriptions. Disney also plans to integrate its content with the Apple TV app so that movies, originals, and shows will appear there among other suggested things to watch.
+            A Disney spokesperson told The Verge that Disney has nothing to announce regarding “channel” marketplaces like Apple TV Channels or Amazon Prime Channels. I wouldn’t bet on Disney giving Apple (or anyone) extra control over its hugely important service; allowing Disney+ to be streamed entirely within the Apple TV app would be a nice convenience for the customers who want it, but I don’t see it happening. At least you’ll be able to subscribe to the service quickly and easily without having to open a web browser to do so.
+            We’ll likely see and hear more about Disney+ this week at Disney’s D23 conference. The app will feature dedicated sections for each of Disney’s major brands, support offline downloads, and stream select content in 4K HDR."
+            },
+            {
+            "category": "Apple",
+            "author": "Brian Heater",
+            "title": "Trump and Tim Cook talked easing tariffs again",
+            "description": "On Friday night, the President once again tweeted about Apple. This time, however, things were a bit more positive. “Having dinner tonight with Tim Cook of Apple,” he wrote in advance of the meeting. “They will be spending vast sums of money in the U.S. Great…",
+            "url": "http://techcrunch.com/2019/08/19/trump-and-tim-cook-talked-easing-tariffs-again/",
+            "urlToImage": "https://techcrunch.com/wp-content/themes/techcrunch-2017/images/opengraph-default.png",
+            "publishedAt": "2019-08-19T15:08:05Z",
+            "content": "On Friday night, the president once again tweeted about Apple . This time, however, things were a bit more positive. “Having dinner tonight with Tim Cook of Apple,” he wrote in advance of the meeting. “They will be spending vast sums of money in the U.S. Great!”
+            The pair had dinner at Trump’s golf club in Bedminster, N.J. On Sunday, the president offered a debrief of the meeting after 10 days at the club, telling a small gathering of reporters, “I had a very good meeting with Tim Cook  […] Tim was talking to me about tariffs, 
+            and one of the things, he made a good case, is that Samsung is their number one competitor and Samsung is not paying tariffs because they’re based in South Korea. And it’s tough for Apple to compete with a very good company that’s not.”
+            It’s not the first time Cook has expressed concern of the penalties of tariffs in a meeting with Trump, though the mention of Samsung appears to have struck a chord with the president. The executive’s concerns have also been echoed by 
+            representatives from a number of different industries that have argued that Trump’s tariffs unfairly penalize goods produced by U.S. companies. A week ago, the United States Trade Representative (USTR) delayed tariffs for certain electronics, 
+            which Trump noted was done in order to keep prices down for the holidays.
+            In late July, Trump took to Twitter to hold the specter of tariffs over Apple, in response to reports that its Mac Pro desktop would no longer be produced in the U.S. “Apple will not be given Tariff wavers, or relief, for Mac Pro parts that are made in China,” he tweeted. “Make them in the USA, no Tariffs!”
+            Apple, meanwhile, recently touted investments involved in “creating and supporting 2.4 million US jobs across all 50 states.”"
+            },
+            {
+            "category": "Apple",
+            "author": "Anthony Ha",
+            "title": "Watch the trailer for the Apple TV+ drama ‘The Morning Show’",
+            "description": "Apple is giving viewers their first extended look at “The Morning Show,” a drama starring Jennifer Aniston, Reese Witherspoon and Steve Carell. Previously, all that we’d seen from the show were a few brief clips in a broader promo for Apple’s upcoming subscri…",
+            "url": "http://techcrunch.com/2019/08/19/apple-morning-show-trailer/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/08/TheMorningShow_AppleTV.jpeg?w=601",
+            "publishedAt": "2019-08-19T14:12:52Z",
+            "content": "Apple  is giving viewers their first extended look at “The Morning Show,” a drama starring Jennifer Aniston, Reese Witherspoon and Steve Carell.
+            Previously, all that we’d seen from the show were a few brief clips in a broader promo for Apple’s upcoming subscription service TV+, 
+            followed by an ominous teaser trailer that was literally just shots of a TV control room, accompanied by audio clips where people talked about how incredibly 
+            important the news business is.
+            This trailer dials down the Aaron Sorkin vibe and sets up a story where Aniston and Carell are longtime hosts of a morning TV show — but Carell gets fired, 
+            so a search for fresh talent leads the producers to a younger reporter played by Reese Witherspoon.
+            While the story and characters appear to be fictional, they draw on the real-world drama depicted in Brian Stelter’s book “Top of the Morning.”
+            “The Morning Show” is scheduled to debut sometime this fall on Apple TV+. This will likely be one of the first titles on the service (which still doesn’t 
+            have an announced price or launch date), but Apple has a lot more content in the works."
+            },
+            {
+            "category": "Apple",
+            "author": "Darrell Etherington",
+            "title": "MIT built a better way to deliver high-quality video streams to multiple devices at once",
+            "description": "Depending on your connection and the size of your household, video streaming can get downright post-apocalyptic – bandwidth is the key resource, and everyone is fighting to get the most and avoid a nasty, pixelated picture. But a new way to control how bandwi…",
+            "url": "http://techcrunch.com/2019/08/19/mit-built-a-better-way-to-deliver-high-quality-video-streams-to-multiple-devices-at-once/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/08/optimized-video.gif?w=600",
+            "publishedAt": "2019-08-19T15:33:18Z",
+            "content": "Depending on your connection and the size of your household, video streaming can get downright post-apocalyptic — bandwidth is the key 
+            resource, and everyone is fighting to get the most and avoid a nasty, pixelated picture. But a new way to control how bandwidth is distributed across 
+            multiple, simultaneous streams could mean peace across the land — even when a ton of devices are sharing the same connection and all are streaming 
+            video at the same time.
+            Researchers at MIT’s Computer Science and Artificial Intelligence Lab created a system they call “Minerva” that minimizes stutters due to buffering, 
+            and pixelation due to downgraded stream, which it believes could have huge potential benefits for streaming services like Netflix and Hulu that 
+            increasingly serve multiple members of a household at once. The underlying technology could be applied to larger areas, too, extending beyond the house 
+            and into neighborhoods or even whole regions to mitigate the effects of less than ideal streaming conditions.
+            Minerva works by taking into account the varying needs of different delivery devices streaming on a network — so it doesn’t treat a 4K Apple TV the 
+            same as an older smartphone with a display that can’t even show full HD output, for instance. It also considers the nature of the content, which is 
+            important because live-action sports require a heck of a lot more bandwidth to display in high quality when compared to say a children’s animated TV show.
+            Video is then served to viewers based on its actual needs, instead of just being allocated more or less evenly across devices, and the Minerva system 
+            continually optimizes delivery speeds in accordance with their changing needs as the stream continues.
+            In real-world testing, Minerva was able to provide a quality jump equivalent to going from 720p to 1080p as much as a third of the time, and eliminated 
+            the need for rebuffing by almost 50%, which is a massive improvement when it comes to actually being able to seamlessly stream video content continuously. 
+            Plus, it can do all this without requiring any fundamental changes to network infrastructure, meaning a streaming provider could roll it out without 
+            having to require any changes on the part of users."
+            },
+            {
+            "category": "Apple",
+            "author": "Steve O'Hear",
+            "title": "HPE Growth backs WeTransfer in €35M secondary funding round",
+            "description": "WeTransfer, the Amsterdam-headquartered company that is best know for its file-sharing service, is disclosing a €35 million secondary funding round. The investment is led by European growth equity firm, HPE Growth, with “significant” participation from existi…",
+            "url": "http://techcrunch.com/2019/08/19/wetransfer-cash/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/08/WeTransfer-Team.jpg?w=600",
+            "publishedAt": "2019-08-19T08:00:46Z",
+            "content": "WeTransfer, the Amsterdam-headquartered company that is best known for its file-sharing service, is disclosing a €35 million secondary funding round.
+            The investment is led by European growth equity firm, HPE Growth, with “significant” participation from existing investor Highland Europe. Being secondary funding — meaning that a number of shareholders have sold all or a portion of their holding — no new money has entered WeTransfer’s  balance sheet.
+            We are also told that Jonne de Leeuw, of HPE, will replace WeTransfer co-founder Nalden on the company’s Supervisory Board. He joins Bas Beerens (founder of WeTransfer), Irena Goldenberg (Highland Europe) and Tony Zappalà (Highland Europe).
+            The exact financial terms of the secondary funding, including valuation, aren’t being disclosed. However, noteworthy is that WeTransfer says it has been profitable for six years.
+            “The valuation of the company is not public, but what I can tell you is that it’s definitely up significantly since the Series A in 2015,” WeTransfer CEO Gordon Willoughby tells me. “WeTransfer has become a trusted brand in its space with significant scale. Our transfer service has 50 million users a month across 195 countries, sharing over 1.5 billion files each month.”
+            In addition to the wildly popular WeTransfer file-sharing service, the company operates a number of other apps and services, some built in-house and others it has acquired. They include content-sharing app Collect (claiming 4 million monthly users), sketching tool Paper (which has had 25 million downloads) and collaborative presentation tool Paste (which claims 40,000 active teams).
+            “We want to help people work more effectively and deliver more impactful results, with tools that collectively remove friction from every stage of the creative process — from sparking ideas, capturing content, developing and aligning, to delivery,” says Willoughby.
+            “Over the past two years, we’ve been investing heavily in our product development and have grown tremendously following the acquisition of the apps Paper and Paste. This strengthened our product set. Our overarching mission is to become the go-to source for beautiful, intuitive tools that facilitate creativity, rather than distract from it. Of course, our transfer service is still a big piece of that — it’s a brilliantly simple tool that more than 50 million people a month love to use.”
+            Meanwhile, Willoughby describes WeTransfer’s dual revenue model as “pretty unique.” The company offers a premium subscription service called WeTransfer Plus, and sells advertising in the form of “beautiful” full-screen ads called wallpapers on Wetransfer.com.
+            “Each piece of creative is fully produced in-house by our creative studio with an uncompromising focus on design and user experience,” explains the WeTransfer CEO. “With full-screen advertising, we find that our users don’t feel they’re simply being sold to. This approach to advertising has been incredibly effective, and our ad performance has far outpaced IAB standards. Our advertising inventory is sought out by brands like Apple, Nike, Balenciaga, Adobe, Squarespace, and Saint Laurent.”
+            Alongside this, WeTransfer says it allocates up to 30% of its advertising inventory and “billions of impressions” to support and spotlight up-and-coming creatives, and causes, such as spearheading campaigns for social issues.
+            The company has 185 employees in total, with about 150 in Amsterdam and the rest across its U.S. offices in LA and New York."
+            },
+            {
+            "category": "Apple",
+            "author": "Victoria Song",
+            "title": "Apple's Borked iOS Update Leads to New Jailbreak and Vulnerable iPhones",
+            "description": "If you updated to iOS 12.4, you might want to think twice about the apps you download. Apple has unpatched a vulnerability with the latest update, and hackers have already used the opportunity to release the jailbreak for up-to-date iPhones in years, accordin…",
+            "url": "https://gizmodo.com/apples-borked-ios-update-leads-to-new-jailbreak-and-vul-1837374615",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--1C3EaaPm--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/h6hymgpte3cy3cae6llu.jpg",
+            "publishedAt": "2019-08-19T18:49:00Z",
+            "content": "If you updated to iOS 12.4, you might want to think twice about the apps you download. Apple has unpatched a vulnerability with the 
+            latest update, and hackers have already used the opportunity to release the first jailbreak for up-to-date iPhones in years, according to a 
+            Motherboard report.
+            Apple, unfortunately, reintroduced a bug that was fixed in the iOS 12.3 update. As a result, all iPhones running iOS 12.4 can now be jailbroken. 
+            Pwn20wnd—the security researcher behind the unc0ver tool—released a public jailbreak for iOS 12.4 earlier today on Github. While jailbreaking was 
+            still doable beforehand, it’s been a while since you could do it on iPhones running the latest version of iOS. A Twitter search reveals that plenty 
+            of users have already confirmed they’re successfully running Pwn20wnd’s jailbreak. The flip side is the same bug enabling the jailbreak also means 
+            all updated iPhones are a bit more vulnerable to hacking. More specifically, security researchers told Motherboard that bad actors could take 
+            advantage of the unpatched bug to create spyware on Phones. It’s likely that Apple is already working on a fix that will be released with iOS 12.4.1—especially 
+            since it was a bug that had already been previously patched. Gizmodo reached out to Apple but did not immediately receive a response.
+            In the meantime, users running iOS 12.4 who have zero interest in jailbreaking their iPhones should take extra care downloading apps. Apple may have stricter 
+            guidelines regarding what apps are allowed in its App Store, but as security researcher Stefan Esser noted on Twitter, the public jailbreak means “any such 
+            app could have a copy of the jailbreak in it.”"
+            },
+            {
+            "category": "Apple",
+            "author": "Adam Clark Estes",
+            "title": "So What Did Amazon Do to Piss Off Disney This Time?",
+            "description": "Disney just announced plans to roll out its new streaming service in November. Executives announced that Disney+ will be available on platforms and devices made by Apple, Google, Microsoft, Sony, and Roku. Missing from that list is Amazon, with whom Disney ha…",
+            "url": "https://gizmodo.com/so-what-did-amazon-do-to-piss-off-disney-this-time-1837374037",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--AkP2J1c_--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/ijzhz440yrv80k8lj5qw.jpg",
+            "publishedAt": "2019-08-19T17:50:00Z",
+            "content": "Disney just announced plans to roll out its new streaming service in November. Executives announced that Disney+ will be available 
+            on platforms and devices made by Apple, Google, Microsoft, Sony, and Roku. Missing from that list is Amazon, with whom Disney has had an on-again-off-again 
+            slap fight for the past few years. This ongoing feud means that if you love Mickey Mouse and own a Fire TV, you’re sort of screwed.
+            It’s unclear how or why negotiations between Amazon and Disney broke down, but the beef between the two companies is well documented. Amazon has historically 
+            been the instigator, too. As far back as 2014, the online retailer has repeatedly blocked Disney and Marvel titles from pre-orders, delayed shipping DVDs, or 
+            otherwise restricted sales. Around the same time, Amazon used similar tactics against Warner Brothers movies as well as titles from the Hachette Book Group. 
+            Experts suspected that Amazon was trying to put the squeeze on studios and publishers in an effort to negotiate better contract terms.
+            Amazon kept doing this to Disney, though. In 2018, reports emerged that Amazon was restricting sales of Star Wars: The Last Jedi Blu-ray discs to Prime 
+            members only. For a time, that product was listed as “out of stock,” although plenty were for sale at Target or Best Buy. The last time Amazon blocked its 
+            titles, Disney simply pointed people to these big-box retailers. Within a year, most of the recent releases in the Star Wars and Marvel universes were Prime 
+            member exclusives. It makes you wonder if Amazon was trying to bully Disney again or simply bully its own superhero-loving customers into paying for Prime 
+            memberships.
+            Who knows what to make of Disney boxing Amazon out of the Disney Plus launch. There’s a chance that it’s yet another contract dispute that’s left Fire TV 
+            customers without full access to Disney, Marvel, Star Wars, and National Geographic content. (Those are the big five Disney brands included in the service.) 
+            It’s also entirely possible that Disney and Amazon will sort all this out before November.
+            That said, if you’re not a Fire TV owner, and you love Disney content, you can look forward to paying for a new streaming service soon! Disney+ will be 
+            available on November 12 for $7 a month or $70 a year in the United States. The service will launch the same day in Canada and the Netherlands, and it will 
+            go live in Australia and New Zealand on November 19. Once again, Disney+ will be available on a ton of devices and platforms including Apple TV, iOS, Google 
+            Chromecast, Android, Android TV, Microsoft Xbox One, Sony PlayStation 4, Roku set-top boxes, and Roku TVs."
+            },
+            {
+            "category": "Apple",
+            "author": "Whitney Kimball",
+            "title": "Why These Social Networks Failed So Badly",
+            "description": "Sixteen years ago, the sun set on Web 1.0, and we embarked by the light of our smartphones to 24/7 connectivity, down a road paved with corporate blunders, littered with yesterday’s top 8 friends, scrubbed n00ds, trashed chiptune tracks, bomb threats, and dow…",
+            "url": "https://gizmodo.com/why-these-social-networks-failed-so-badly-1836996164",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--SdrqI4Vl--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/daewnyiteyk69lcffncm.png",
+            "publishedAt": "2019-08-19T13:41:00Z",
+            "content": "Sixteen years ago, the sun set on Web 1.0, and we embarked by the light of our smartphones to 24/7 connectivity, down a road paved with 
+            corporate blunders, littered with yesterday’s top 8 friends, scrubbed n00ds, trashed chiptune tracks, bomb threats, and downy unicorn costumes. 
+            Comedic treasures were born and abandoned by parent companies; screaming crowds running through billowing tear gas from police vanished behind 
+            defunct video players. Devs dreamed of love, artists of postmodern interfaces, and unknowns of entertainment careers. Netizens injured themselves 
+            for stunts, by accident, and on purpose. We submitted to our overlord Mark Zuckerberg and the army of influencers. And so many rubber ducks wailed. 
+            “Their obituaries tell us what we already know–that your feed could look a lot more interesting, more avant-garde, joyous, local, intimate, kinky, 
+            weird, and hilarious–and yes, scarier and even more hateful than it does now.” Lots of corporations (mostly Google) have competed with Facebook for 
+            the social media colonies, and their attempts aren’t missed; but Facebook’s monopoly also beat out the divey-er venues and communal spaces which 
+            elevated their members to five minutes of fame and triple platinum albums without sponcon. Their obituaries tell us what we already know–that your 
+            feed could look a lot more interesting, more avant-garde, joyous, local, intimate, kinky, weird, and hilarious–and yes, scarier and even more hateful 
+            than it does now–thanks to varying degrees of censorship, cross-platform embeds, aesthetic customization, technopanic, and algorithm-free zones. 
+            It’s not to say that without Facebook, the whole internet would be more like a local farmer’s market or a punk venue or an art gallery or comedy club or a 
+            Narnia fanfic club, just that those places are harder to find these days. It’s 2003, and the future is a white guy in a wide-collar button-down behind a 
+            Honda CR-V of laptops (a Dell, possibly?) in a 250 pixel-wide frame. That’s Friendster founder Jonathan Abrams, featured in an SF Weekly story by Lessley 
+            Anderson. In it, she describes the strange experience of opening your laptop onto the world of social media, and Friendster’s exciting premise that all 
+            people are connected by six degrees of separation:
+            “Your induction into Friendster starts out innocently enough: You receive an e-mail invitation from a friend. It doesn’t cost anything to join, so you give 
+            it a whirl. You answer questions about your profession, favorite books, movies, music, and other interests, then upload a digital photo of yourself.
+            Thumbnail versions of your friends’ photos appear on your profile page like a collection of trading cards. Clicking on their pictures takes you to their 
+            pages, where you can see all of their friends, and so on. Even with only a few friends, you find that — through friends of friends — you suddenly have access 
+            to a social network of thousands of people.” Friendster, which Abrams is believed to have conceived as a dating site, reportedly signed up three million 
+            users in its first three months; copycats Myspace, Ringo.com, and Orkut followed. “Thumbnail versions of your friends’ photos appear on your profile page 
+            like a collection of trading cards.” Friendster’s conceptual vastness, connecting all people on the internet, could have been its downfall; in attempts to 
+            reach even more people, Fakesters like “Homer Simpson” and “Jesus” popped up for the sole purpose of amassing friend collections, and friend groups became 
+            more and more diluted.
+            By the New York Times’s and Abrams’s own account, though, hubris killed Friendster. A group of venture capitalists persuaded Abrams to turn down a $30 
+            million offer from Google and then ran it into the ground with novel features rather than keeping the creaky site functioning smoothly. Pages just didn’t load.
+            Friendster was largely considered dead by 2006. In 2009, it was redesigned and acquired by a Malaysian payments company for a reported $40 million; in 2011, 
+            it deleted all of its user profiles and announced a do over as a social gaming platform; in 2015, Friendster announced that it was “taking a break.” It 
+            never returned, and many of its early users reportedly defected to Myspace. We outgrew our side-swipe bangs, burned our diaries, and moved into Facebook’s 
+            collegial suburbs. But why?
+            In 2008, two years after reportedly surpassing Google as the most-visited website in the United States, Facebook eclipsed Myspace’s monthly user count. 
+            In 2011, when Myspace announced it was laying off half its staff, the New York Times attributed its decline to “fickle consumers and changing tastes”; 
+            a corporate “culture clash”; litter of celebrity promotion and pop-up ads; and Facebook’s standardized utilitarian interface–meaning that prefab profiles 
+            with names stylings like John Doe versus jdoe1234 were appealing to people. Forbes attributes Facebook’s generic design and its slow expansion through 
+            universities (with school email address verifications) and 13+ age policy to a perception that Facebook was a “safe space,” which would have incidentally 
+            coincided with a technopanic created by news reports of pedophilia. Social media scholar danah boyd performed an extensive study finding that racism also 
+            played a part, with upper-middle class white users deciding to wall off into exclusive groups.
+            It is true that Myspace withered after News Corporation bought it for $580 million in 2005. Hefty layoffs followed in 2009 and 2011; it was sold and 
+            bought and sold and bought again for a fraction of the price. In 2011, just like Friendster, CEO Mike Jones announced that they would no longer try to 
+            rival Facebook in social networking and described their new strategy as a “social entertainment” site like Huffington Post, whatever that means. In March, 
+            the company admitted that they’d lost practically all of their user data pre-2016. LinkedIn lists 393 current employees at the company, down from 1,300 in 2009.
+            That is too bad because today there’s no parallel. Myspace was originally designed so that you could go down a rabbit hole of bands’ pages, finding who 
+            influenced each other from their friends and posts, making it easy for non-coastal local bands to get followings and book shows. Those unknowns certainly 
+            aren’t coming up on your algorithmically-sorted feed. Bebo wouldn’t be on the list, if not for a stunning bit of maneuvering at the outset of the corporate 
+            crusade to blindly colonize social media at any expense. Which made spouses Xochi and Michael Birch wealthy beyond a start-up’s wildest dreams. In 2008, AOL 
+            bought Bebo for $850 million in what Gawker called “the best social-network cashout to date.” Wired wrote in 2013 that Bebo “was never, not for one bright 
+            shining moment, ever regarded as a leading network,” more a “tool to exploit big clueless corporate suitors.”
+            Despite its impressive 2005 debut, hitting one million users nine days after its launch, Bebo did indeed fail to distinguish itself; in 2010, AOL sold it 
+            to a private equity fund for $10 million; in 2013, Birch bought it back for $1 million and announced a planned relaunch which didn’t take off.
+            Then they donated the leftovers to Myspace Tom in solidarity.
+            Not really, but they have reportedly given millions to charity:water and shepherded it to philanthropists of Silicon Valley. They made a fancy members-only 
+            post-gentrification-New York club in San Francisco which was considered lame. And then the Queen awarded them both OBEs. One of many failed attempts to 
+            thwart Facebook, OpenSocial was conceived by an “alliance” between Google, Myspace, and struggling social networks to combat Facebook’s amassment of games 
+            and apps by independent developers. The OpenSocial software presumably would attract more developers with standardized API to distribute apps across all sites. 
+            It’s still around, but it’s mostly described now in the past tense. Reddit product strategist Jason Costa wrote in 2017 that the various languages across sites’ 
+            containers would have been a headache for developers who had to rewrite their programs for each network; in 2010, Brian Balfour, co-founder of the gaming platform 
+            Viximio, wrote for Adweek that the project had fizzled out mainly due to lack of follow-through. Nobody knows of ConnectU because it’s the Facebook that never 
+            was; nobody references it as the misfortunate underdog because it’s not the Facebook we need.
+            Mark Zuckerberg’s classmates Cameron Winklevoss, Tyler Winklevoss, and Divya Narendra accused him of stealing their idea for an exclusive Harvard 
+            student/alumni dating network “ConnectU,” which they’d thought up in 2002. They alleged that they’d asked him to finish programming ConnectU, and that 
+            instead of delivering as promised, Zuckerberg delayed ConnectU and launched Facebook.
+            The ConnectU guys went on to try a few more ideas, like ConnectHi for high schoolers and Social Butterfly, a ConnectU feature which would allow you to 
+            integrate your connections from outside networks like Facebook. In 2007, at which point Facebook had 31 million users, they sued Facebook for a laundry 
+            list of allegations including misappropriation of trade secrets, copyright infringement, and fraud. The complaint argues that ConnectU’s original Harvard-only 
+            base of “well-educated students and alumni” would have been an “attractive demographic for many advertisers,” which is true, but not exactly heartbreaking.
+            The Guardian reported in 2009 that Facebook paid up to $65 million in cash and shares. Divya Narendra defends Facebook on TV now, and the Winklevoss brothers
+            are Bitcoin billionaires. They’re all on Facebook. Imagine a craigslist for burners, and you had tribe.net, a site for both unloading queen-size bed frames 
+            and fostering community groups for (mainly) the Bay Area Burning Man crowd and “proud freaks” called “tribes.” The site, founded by Zynga founder Mark Pincus, 
+            doesn’t seem to have cracked a million users, but it was a sanctum for worshippers of sailor flesh, wheat-free enthusiasts, and wolven clans for elves who are also wolves.
+            In 2005, tribe announced that it was barring sexually explicit and offensive content, amidst the Justice Department’s crackdown on internet porn, and a reported 
+            advertiser scare. A “Terms of Use Guy” appeared to surveil and report “offensive content.” With him went the smart girls’ porn club, and eventually, the users.
+            In 2006, Pincus blogged that new management, or “a big stupid masthead” had commandeered control of the site, that he was reclaiming control and 
+            “returning the tribe to users.” In 2008, while Pincus’s other company Zynga was building an empire of games on Facebook (like FarmVille), he told SF 
+            Weekly that he was keeping tribe up because it “serves a really valuable role in the community”–but the same piece notes that tribe’s homepage was down, 
+            and by 2017, tribe announced that it was “working out options” for a new site host.
+            Neglect is not good for a social network. In 2018, a reddit conspiracy group with a very elaborate Clinton Foundation theory posted verifiable Wayback 
+            Machine screenshots of pedophilic threads from the “sick n’ twisted” tribe circa 2016, which has stuck, still, to tribe.net’s Google results. Now that 
+            it’s 2010, your auditorium of Facebook friends includes a guy you met at a bar and various other...acquaintances. This was the impetus for the 
+            50-friends-only mobile app Path, which co-founders David Morin (of Facebook) and Shawn Fanning and Dustin Mierau (of Napster) based on the findings of 
+            anthropologist Robin Dunbar, that people can generally have between 40 and 60 close friends and family. (According to the New York Times, Dunbar’s research 
+            was “a popular topic of discussion” amongst social network developers at the time.) In 2012, Path broadened the friend limit to 150, aka “Dunbar’s Number,” 
+            representing a person’s maximum number of stable relationships. Path called itself a “personal network.”
+            Path was “red-hot”, reaching 1.5 million downloads in the first three weeks; after three months, the founders reportedly declined a $100 million offer 
+            from Google, and by 2013 it was reportedly valued at $500 million. A year after Facebook had just dethroned Myspace, Path was a bonafide Facebook “competitor.”
+            Path lost some of its vibey goodwill in 2012, when it admitted to the then-taboo practice of pulling contacts from users’ phone books, including 
+            those of its early adopters under the age of 13, resulting in an $800,000 FTC fine. In 2014, on the brink of failure, Path increased the friend limit to 500. 
+            In 2015, the Korean communications company Daum Kakao bought Path for an undisclosed sum. In 2018, Path shut down.
+            In 2012, Kirsten Bischoff, co-founder of the micro social network HATCHEDit, warned that Path could easily become another “excellent tool that was ahead of 
+            its time,” unable to compete with Facebook’s exploding user base–at that point, gaining about 50 million active monthly users per quarter. Six years later, 
+            Bischoff’s prediction came true in a eulogy by Gizmodo’s Harrison Weber.
+            Path had some other good ideas: a text service with a person on the other end who would call your local businesses to answer questions like whether a 
+            restaurant has reservations or Home Depot has a part. And you can still experience a small portion of Path today on Facebook, which has a near-identical 
+            version of Path’s “Reactions.” The app for college students that quickly turned into a Black Mirror episode. Yik Yak, the anonymous messaging app designed 
+            by frat brothers Tyler Droll and Brooks Buffington with campuses in mind, allowed users to broadcast posts within a five-mile radius without creating a 
+            username. It soon became a scourge on 1,600 schools, terrorized by Yik Yak-borne threats: bomb threats which led to multiple lockdowns and evacuations, a 
+            threat of a “Virginia Tech 2.0,” threats by white students to kill black students, threats to rape and “euthanize” feminist students, and general cruelty 
+            and mockery encouraging suicide. Several schools banned it, subpoenas and court orders were issued, federal complaints were filed against schools, and Yik Yak 
+            had to disable the app near high schools and middle schools altogether.
+            Yik Yak briefly dominated the tide of anonymous messaging apps like Whisper, Secret, and Formspring; in September 2014, it peaked the third-most-downloaded 
+            iOS app with 1.8 million monthly downloads. By the same time the following year, it had shrunk to 125,000 per month. It finally shut down in 2017. Ello was 
+            the Rem Koolhaas building of social media, in all of its elite minimalist beauty. Seven self-described “well-known artists and designers” of the studio 
+            Berger & Föhr manifested an invite-only anti-Facebook, its bare white walls uncluttered by ads, intended for high-resolution photos and dainty sans-serif text. 
+            The boutique network happened to coincide with growing anxiety around Facebook’s invasive ad targeting, and they launched in 2014 with the edict “You Are Not a 
+            Product”–although the trade-off was that you had to be accepted. Sign-up requests surged a few months later with Facebook’s “real name” policy crackdown and 
+            ensuing LGBTQ exodus. At its peak, one Ello co-founder reported that they were getting 34,000 invite requests per hour.
+            So many people wanted to join that Ello frequently had to put requests on hold to handle the volume, and it was buggy. That’s not surprising, since 
+            Ello was still in beta mode and manned by a team of designers who weren’t collecting ad revenue or subscription fees as it was going viral. At the time, 
+            UX product designer Bona Kim wrote that broken functions, a squirrelly style sheet, incompatibility with mobile, and unclear hierarchy of information at 
+            the expense aesthetic “simplicity” made it maddeningly unusable.
+            Fair enough — from the beginning, Ello said that they never intended to be a Facebook replacement.
+            They’ve since redesigned to with a more accessible aesthetic which reads like a fashion brand. You can sign up without an invite now, though. 
+            Google tried and tried and tried and tried and tried, but it can’t get a social network going. After it attempted to buy Friendster for $30 million, 
+            Google launched Orkut, shortly after Myspace and just before Facebook. And like so many social media founders, Orkut’s eponymous Google software engineer 
+            Orkut Büyükkökten seems to have dreamed it up as a dating site, or, describing it to the New Yorker in 2004: “a good matrix for romance.” Since I was never 
+            on the site, I defer to the New Yorker’s description:
+            “New Orkut members fill out pastel-blue forms: favorite TV shows, career skills, perfect first date, bedroom contents. They upload photographs of themselves 
+            in alluring or alarming poses. They find “Communities” to join: Photography (3,449 members), Belgian Beer (114 members), Kosher Roommates (“for coping or 
+            recovering roommates of Kosher adherents”; 3 members). If the right Community doesn’t exist, they’re free to found a new one. They can rate their friends, 
+            relying on an ancient system of hieroglyphs—smiley faces, ice cubes, and hearts, which stand, respectively, for trustworthiness, coolness, and sexiness.“ 
+            “They can rate their friends, relying on an ancient system of hieroglyphs—smiley faces, ice cubes, and hearts, which stand, respectively, for trustworthiness, 
+            coolness, and sexiness.” Over the next decade, Orkut never took off in the US but was huge in Brazil and India, at one point, claiming 27 million members 
+            to Facebook’s 4.2 million. Orkut ostensibly fulfilled the same basic needs, but observers/analysts/users attributed Facebook’s dominance to a number of 
+            factors: Facebook had more games, the feed, the like button or notifications, a more “professional” look, mutual friends , and cultivated a following 
+            of international students and “professionals” who brought Facebook back to India. In 2011, Facebook reportedly surpassed Orkut in Brazil. In his farewell 
+            post, Büyükkökten wrote that Orkut had “a community of 300 million members” and invited them to move to his new network, “hello.”
+            As for Google... Google’s next stab was a dreary jumble of boxes evoking a digital fulfillment center. By all accounts, it was an attempt to integrate 
+            features that Facebook, LinkedIn, and the iPhone have cornered (like location sharing and automatic cloud storage for photos), but—with dropdown menus 
+            organizing your people into “friends,” “family,” and “acquaintances,” further catalogued into the even more confusing “circles”—it felt like an 
+            unimaginative robot’s idea of socializing. Or, as Google+ UI designer Morgan Knutson called it in a postmortem tweetstorm, a ”god forsaken piece of shit.”
+            In a lengthy thread, Morgan described siloed teams under corporate bureaucracy which conceptualized networking as “the social graph”:
+            “Vic [Gundotra’s] product vision was fear-based. ‘Google built the knowledge graph, and Facebook swooped in and built the social graph. 
+            If we don’t own the social graph then we can’t claim to have indexed ALL the world’s data.’” Plus, it was more overtly unsettling than Facebook 
+            in the same way that your gmail avatar started popping up in the upper right hand corner of YouTube and your Chrome browser. That’s because, as 
+            the New York Times reported in 2014 (even then, calling it a “ghost town”), Google Plus was basically an attempt to collect a central dataset for all 
+            of the stuff you were doing across all Google services; at one point, you couldn’t set up a gmail account or comment on YouTube without setting up Google 
+            Plus. In the words of Google Plus project management VP Bradley Horowitz, it “gives Google that common understanding of who you are.”
+            On October 8th, 2018, the same day the Wall Street Journal reported that Google Plus had exposed hundreds of thousands of user data for years, Google 
+            announced that it would shut down the service in August due to “low usage and engagement.” Additional data was exposed from 5.2 million accounts during 
+            a November software update, and Google started deleting profiles in April.
+            Maybe this time?? The video-sharing app Vine was less of a social network and more of a microblogging platform like its owner, Twitter, but for a while, 
+            Vine dominated the internet’s imagination, and its links populated all networks. The six-second loop format generated a new medium for comedy and activism, 
+            most memorably, for work by creators of color.
+            In 2015, writing about the full-blown cultural universe created by black Viners, journalist Hannah Giorgis observed that the Twitter-embeddable fast-paced 
+            loops meant you saw a lot more people, faster, in a rhythmic format conducive to “percussive precision” that’s lost in longer YouTube vlogs. “And six 
+            seconds isn’t necessarily enough time to give backstory, to explain your punch line (or yourself) to viewers who don’t already have the context they need 
+            to understand,” she added. That description goes as much for a cultural sensation started with a child ballerina dancing to “do it for the vine!” as it 
+            does for Jus Reign’s parody questions about his turban, backwards handsprings through a Krispy Kreme, and singing on a counter at WalMart. 
+            The speed and ease of posting six-second clips, before the invention of Periscope and Instagram video, also made it a critical tool for activists. 
+            Protests erupted around the country after St. Louis city alderman Antonio French posted police surrounding Michael Brown’s body on Vine; the subsequent 
+            nationwide uprising was Vined and compiled into an all-Vine documentary. The 2013 bombing outside the U.S. Embassy in Turkey, anti-refugee hostility in 
+            Europe, the enormity of the Umbrella Movement, and 2013 protests in Brazil–all Vined.
+            And a potato flew around a room, the Apple Store woman yelled, and artists created art. Logan Paul was also there.
+            Then Vine shut down. Generally journalists gleaned that it just couldn’t compete with all the other similar video services; 
+            Vine’s owner Twitter had just undergone a round of layoffs, and Facebook and Instagram were just unrolling video functions. A former 
+            executive told the Verge that “Instagram video was the beginning of the end.” Vine gave users advance notice and tools to download their stuff, 
+            but it left a generation of stories riddled with dead links."
+            },
+            {
+            "category": "Apple",
+            "author": "Chia-Chia Lin",
+            "title": "The Season When Fruit Consumes Us",
+            "description": "Every summer, writes Chia-Chia Lin, the trees in her yard become heavy with ripe fruit — apples, pears and plums — and life becomes a race to capture their abundance.",
+            "url": "https://www.nytimes.com/2019/08/19/t-magazine/chia-chia-lin-summer-fruit.html",
+            "urlToImage": "https://static01.nyt.com/images/2019/08/14/t-magazine/14tmag-rites/14tmag-rites-facebookJumbo.jpg",
+            "publishedAt": "2019-08-19T17:01:41Z",
+            "content": "Summer brings with it a certain set of rites and rituals — and everyone’s are personal and unique. 
+            For our summer-long ode to the season, T has invited writers to share their own. Here, the writer Chia-Chia Lin describes the fruit 
+            blitz her family experiences every year.
+            My husband gorges on bursting plums over the sink — five or six at a time, several times a day. He’s trying his best to help me. 
+            Summer is a fraught time for both of us.
+            Crowded into our small backyard are seven fruit trees: apples, pears, three kinds of plums. The trees are old, their branches brittle, 
+            but they’re brazenly fertile in their golden years. If left unpicked, fruit will thud to the grass every minute or two, like a slow, hard pulse. 
+            I can’t stand the sound: the ruthless ticking, the reminder of what I haven’t accomplished. Overnight, raccoons will host bacchanals; in the morning, 
+            every fallen fruit will be missing exactly one bite, and there will be paw prints in the soft plums. The air smells of fermentation.
+            My discomfort with wastefulness is lodged deep, a vestigial organ. At night, when my desk work is done and my son is sleeping, I sweat over bubbling, 
+            spitting jams in the kitchen. Inside the oven are plum cobblers, apple pies, pear muffins, apple rings. Once, my hand-cranked apple peeler sent me to 
+            urgent care. It’s a frantic season, with deadlines dictated by the speed of decay. I give my homely creations away, but I know they might end up in the 
+            trash; everyone is trying to eat less sugar. We invite children over — they love plucking things from trees — but I worry about their hauls. Will they be 
+            tossed for blemishes? My poor, ugly, old-fashioned fruit. Sometimes I fantasize about the trendier Californian fruits, the persimmons and figs and pluots. 
+            These months, I’m often on the ladder, harvesting. Through the leaves I have a view into neighbors’ yards. It’s the season of spying. The houses here are 
+            small and close; just a few feet off the ground, I can see five backyards. Our favorite neighbors are adding an extension — they have two adult sons who 
+            can’t move out, this being the Bay Area, and I watch as three generations of their family slowly hand-dig a new foundation and put up framing by themselves. 
+            Behind us, a young couple — newer to the neighborhood than we are — has torn out their yard to install garden beds. To make room for their chosen crops, 
+            they’ve cut down a plum tree. Both my parents and in-laws have tried to move here, to a 700-square-foot house like ours, but their life savings and paid-off 
+            houses in other states are insufficient trade. Half this neighborhood is digging in, rooting itself deeper in order to stay. The other half — including me — 
+            plays a part in its “transition.” On the ladder, I’m eye-level with a thousand pounds of fruit. Soon it will rain down. I am living in abundance.
+            Community harvest organizations will pick your fruit and bring it to shelters, but I get the sense they’re overloaded. One website encourages me to 
+            share my bounty with friends and neighbors. “Consider preserving,” it says. In fact, I have. I’ve lost sleep over my canning methods and possible 
+            contamination. Every year, I revisit my anxieties about preserving fruit, preserving our yard, preserving our community, or at least not poisoning it. 
+            My husband scoops half a jar of jam onto his toast.
+            Planes fly very low here, and a train rattles our windows from a block away. Our lot, with its view of enormous, deafening vehicles, is a dreamland 
+            for my 1-year-old son. He is always outside. He drops sugar plums into his sand bucket. This summer, before I knew he could even climb, I turned around 
+            and saw him beaming on the highest rung of the ladder. He wobbled atop our paradise."
+            },
+            {
+            "category": "Apple",
+            "author": "Miller Kern",
+            "title": "Best back-to-school sales this week: MacBook, Tile, Herschel, and more",
+            "description": "We can already hear the school bells ringing, drawing this summer to a close. While you might not be able to enjoy pool days and ice cream shop visits anymore, there are still some fun treats in store during this season. We're talking about back-to-school sal…",
+            "url": "https://mashable.com/shopping/deal-aug-19-best-back-to-school-sales/",
+            "urlToImage": "https://mondrian.mashable.com/2019%252F08%252F19%252F1a%252F07361013682749abb4d2f2878ce3ff46.1c58f.jpg%252F1200x630.jpg?signature=Adm-T6QXA8rqNDQYS_zcF5UARzs=",
+            "publishedAt": "2019-08-19T17:35:00Z",
+            "content": "We can already hear the school bells ringing, drawing this summer to a close. While you might not be able to enjoy pool days and ice cream shop visits anymore, there are still some fun treats in store during this season. We're talking about back-to-school sales.
+            Brands like PhoneSoap, Tile, and Cratejoy are offering some sweet discounts to kick off the new school year. While these kinds of deals are nice, we're aware that you need actual school supplies as well.
+            Sales can crop up for random items taking up real estate on your back-to-school list and it can be tough to know if you're getting the best deal. We've done that work for you and found some of the best sales on school supplies, electronics, and dorm essentials.
+            Check back every Monday for an updated list of back-to-school deals.
+            ~Supplies~
+            As much as you want to hold onto your backpack from last year, you probably need to upgrade to a new one with fewer holes and pen markings. While you're at it, make sure to buy all the essentials that go in a backpack, like notebooks, binders, pencils, and more."
+            },
+            {
+            "category": "Apple",
+            "author": "Marcus Gilmer",
+            "title": "Spotify's Premium Family Plan lets parents block explicit content",
+            "description": "Spotify's \"Premium Family Plan\" is now family friendly. The company announced on Monday that it's adding an \"Explicit Content Filter\" to the family plan, enabling parents to prevent their kids from listening to songs with bad words and adult situations Amazin…",
+            "url": "https://mashable.com/article/spotify-family-plan-explicit-filter/",
+            "urlToImage": "https://mondrian.mashable.com/2019%252F08%252F19%252F09%252F3ca49ce18be0462193d8f5e9897d2edc.d0f88.jpg%252F1200x630.jpg?signature=R8O2Jig8s2Ope1_K75yjALe8TdM=",
+            "publishedAt": "2019-08-19T14:45:55Z",
+            "content": "Spotify's Premium Family Plan is now family friendly.
+            The company announced on Monday that it's adding an Explicit Content Filter to the family plan, enabling parents to prevent their kids from listening to songs with bad words and adult situations 
+            Amazingly, this wasn't an option before, even though the Family Plan has been available for years. Now to hear swear words, your kids will have to go, well, just about anywhere else on the internet.
+            Spotify is adding a few other options to the Premium Family Plan, as well, including the Family Mix, which the company describes as a personalized playlist packed with songs the whole family enjoys. So, 100 Billy Joel songs? Got it!"
+            }
 ]
 news.each {|news| News.create(news)}
 
