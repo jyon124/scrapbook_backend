@@ -1506,6 +1506,430 @@ news = [
             The company announced on Monday that it's adding an Explicit Content Filter to the family plan, enabling parents to prevent their kids from listening to songs with bad words and adult situations 
             Amazingly, this wasn't an option before, even though the Family Plan has been available for years. Now to hear swear words, your kids will have to go, well, just about anywhere else on the internet.
             Spotify is adding a few other options to the Premium Family Plan, as well, including the Family Mix, which the company describes as a personalized playlist packed with songs the whole family enjoys. So, 100 Billy Joel songs? Got it!"
+            },
+            {
+            "category": "TechCrunch",
+            "author": "David Teten",
+            "title": "Why are revenue-based VCs investing in so many women and underrepresented founders?",
+            "description": "David Teten Contributor Share on Twitter David Teten is a Venture Partner with HOF Capital. He was previously a Partner for 8 years with HOF Capital and ff Venture Capital. David writes regularly at teten.com and @dteten. More posts by this contributor Revenu…",
+            "url": "https://techcrunch.com/2019/08/20/why-are-revenue-based-vcs-investing-in-so-many-women-and-underrepresented-founders/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/08/GettyImages-912367752.jpg?w=585",
+            "publishedAt": "2019-08-20T23:06:47Z",
+            "content": "This guest post was written by David Teten, Venture Partner, HOF Capital. You can follow him at teten.com and @dteten. This is part of an ongoing series on revenue-based investing VC that will hit on:
+            Revenue-based investing: A new option for founders who care about control
+            Who are the major revenue-based investing VCs?
+            Should your new VC fund use revenue-based investing?
+            Why are revenue-based VCs investing in so many women and underrepresented founders?
+            Should you raise equity venture capital or revenue-based investing VC?
+            A new wave of revenue-based investors are emerging who are using creative investing structures with some of the upside of traditional VC, but some of 
+            the downside protection of debt.
+            I’ve been a traditional equity VC for 8 years, and I’m researching new business models in venture capital. As I’ve learned about this model, I’ve been 
+            impressed by how these venture capitalists are accomplishing a major social impact goal… without even trying to.
+            Many are reporting that they’re seeing a more diverse pool of applicants than traditional equity VCs — even though virtually none have a particular focus 
+            on women or underrepresented founders. In addition, their portfolios look far more diverse than VC industry norms.
+            For context, revenue-based investing (“RBI”) is a new form of VC financing, distinct from the preferred equity structure most VCs use. RBI normally requires 
+            founders to pay back their investors with a fixed percentage of revenue until they have finished providing the investor with a fixed return on capital, 
+            which they agree upon in advance. For more background, see “Revenue-based investing: A new option for founders who care about control“.
+            I contacted every RBI venture capital investor I could identify, and learned:
+            John Borchers, Co-founder and Managing Partner of Decathlon Capital, reports that “37% of our portfolio companies would be considered ‘impact’ qualified 
+            companies. This includes companies that would meet most institutional definitions for impact investing (women, minority, and veteran owned/run businesses, 
+            including LMI (“Low to Moderate Income”) and CRA (“Community Reinvestment Act”) qualified companies. While we do lots of work in these areas due to the 
+            attractive opportunity set, we are not an impact investor, and impact qualification is not a criterion that we use in evaluating or funding companies. 
+            On an organic basis, 13% of our portfolio companies are women-owned or run businesses, while 19% of the companies we work with are minority-owned or run. 
+            When you look at the composition of the entire founding or executive teams, the number of companies with either a woman or minority in management jumps 
+            even higher and is north of 50%.”
+            Indie.VC reports, “…50% of the teams we’ve funded are led by female founders and nearly 20% are led by black founders.”
+            Lighter Capital reports that they’ve funded companies in 30 states, including well established startup hubs and less mature ecosystems.
+            According to Derek Manuge, CEO of Corl, in the past 12 months, 500+ companies have applied to Corl for funding. Of the ones who received capital, 
+            “30% were led by women, and 40% were led by executives of non-Caucasian or of mixed ethnic origin.”
+            Feenix Partners reports that “35% of our portfolio companies have either a female or minority (non-Caucasian) CEO or Owner.
+            Michelle Romanow, co-founder and CEO of Clearbanc, says that “We have funded eight times more women than the venture capital industry average – probably 
+            because we’re not doing meetings, which is an amazing accomplishment, and that’s not because we do different sourcing or anything else. It was just because 
+            we looked at data.” (Note that Clearbanc has a somewhat different business model than the RBI VCs I list here.)
+            Founders First Capital is the only RBI VC I’ve identified with a specific focus on underrepresented founders. Kim Folsom, Co-Founder, reports that as of 
+            August 2019, Founders First’s portfolio was 80% women and 55% women of color; 70% people of color; 20% military veterans; and 71% located in low/moderate 
+            income areas. 85% of their companies have under $1m in annual revenues. I can also announce exclusively that according to Kim Folsom, “Founders First 
+            Capital Partner (F1stcp) has just secured a $100M credit facility commitment from a major institutional impact investor. This positions F1stcp to be the 
+            largest revenue-based investor platform addressing the funding gap for service-based, small businesses led by underserved and underrepresented founders.”
+            By contrast, according to PitchBook Data, since the beginning of 2016, companies with women founders have received only 4.4% of venture capital deals. 
+            Those companies have garnered only about 2% of all capital invested. This is despite the fact that the data says that in fact you’re better off investing 
+            in women.
+            Paul Graham observes, “many suspect that venture capital firms are biased against female founders. This would be easy to detect: among their portfolio 
+            companies, do startups with female founders outperform those without?
+            A couple months ago, one VC firm (almost certainly unintentionally) published a study showing bias of this type. First Round Capital  found that among its 
+            portfolio companies, startups with female founders outperformed those without by 63%.” Why are RBI investors investing disproportionately in women & underrepresented founders, and vice versa: why do these founders approach RBI investors? 
+            I’d argue it’s not that RBI is so unbiased and attractive; it’s that traditional equity VC is biased structurally against some women and underrepresented 
+            founders.
+            The Boston Consulting Group and MassChallenge, a US-based global network of accelerators, partnered to study why “women-owned startups are a better bet”. 
+            Through their analysis and interviews, BCG identified three primary reasons why female founders are less likely to receive VC funds.
+            The study used multivariate regression analysis to control for education levels and pitch quality to conclude that gender was a statistically significant factor. 
+            I argue that these 3 reasons are much less applicable for RBI investors than for conventional VCs.
+            Less need for a belief in breakthrough technology. From the study: “More than men, women founders and their presentations are subject to challenges and 
+            pushback. For example, more women report being asked during their presentations to establish that they understand basic technical knowledge. And often, 
+            investors simply presume that the women founders don’t have that knowledge.” However, companies with a focus on early profitability are less likely to 
+            require an investor to believe in complex, hard-to-predict new technology which is hard to diligence. Instead, the company can pitch itself based on a 
+            credible financial projection.
+            Realistic projections. “Male founders are more likely to make bold projections and assumptions in their pitches,” BCG observes, while, “Women, by contrast, 
+            are generally more conservative in their projections and may simply be asking for less than men.” However, to raise RBI a woman founder does not need to 
+            promise a valuation of $1 billion within 5 years. Rent the Runway co-founder and CEO Jennifer Hyman said in a recent interview with CNBC’s Julia Boorstin, 
+            “I haven’t been given the permission or privilege to lose a billion every quarter… I’ve had to bring my company towards profitability…”
+            Concentration in consumer/branded products startups. BCG reports that, “Many male investors have little familiarity with the products and services that 
+            women-founded businesses market to other women”—especially in categories such as childcare or beauty. However, RBI investors report that they see a lot of 
+            proposals for ecommerce and consumer packaged goods geared to mothers. Meghan Cross Breeden, Cofounder of Amplifyher Ventures, observes, “Personal customer 
+            attachment shouldn’t be a factor in investing; the early investors in Snapchat and Facebook weren’t the Gen Z target demo. Rather, I would imagine that one 
+            explanation of women garnering rev-share modes of financing is the prevalence of women-led companies in the consumer/branded goods field, which systemically 
+            is more tangible and revenue driven. Therefore, there’s more revenue to share – as opposed to the typical venture business, which requires capital upfront 
+            before a J curve of growth.”
+            Traditional equity VCs are looking for high-risk, high-reward, “swing for the fences” models. The founders of such companies inherently are taking financial 
+            risk, reputational risk, and career risk.
+            Paul Graham, co-founder of Y Combinator,  said, “few successful founders grew up desperately poor.” Ricky Yean, a serial founder, agrees: “building and 
+            sustaining a company that is “designed to grow fast” is especially hard if you grew up desperately poor”.
+            Most of the founders of the paradigmatic VC home runs were privileged: male, cisgender, well-educated, from affluent families, etc. Think Bill Gates and 
+            Mark Zuckerberg .
+            That privilege makes it easier for them to take very high risk. The average person, worried about students loans and long term employability, quite 
+            rationally is less likely to take the huge risk of founding a company. It’s far safer to just get a job.
+            Investors who back diverse teams can win much higher returns than the industry norm. Both RBI investors and the founders they back will hopefully 
+            benefit from this pattern.
+            For further reading
+            Why are venture capitalists (76% white men) ignoring the future?
+            Don’t hire people you know!
+            Getting Rid of Gender Bias in Venture Capital
+            Gender diversity as a driver of sustainable profitability
+            Companies with more female executives make more money—here’s why
+            Why women-run startups produce more revenue
+            Diversity In Venture Capital: In the U.S., It May Be Getting Worse
+            Note that none of the lawyers quoted or I are rendering legal advice in this article, and you should not rely on our counsel herein for your own decisions. I am not a lawyer. Thanks to the experts quoted for their thoughtful feedback."
+            },
+            {
+            "category": "TechCrunch",
+            "author": "David Teten",
+            "title": "Should your new VC fund use revenue-based investing?",
+            "description": "David Teten Contributor Share on Twitter David Teten is a Venture Partner with HOF Capital. He was previously a Partner for 8 years with HOF Capital and ff Venture Capital. David writes regularly at teten.com and @dteten. More posts by this contributor Revenu…",
+            "url": "https://techcrunch.com/2019/08/20/should-your-new-vc-fund-use-revenue-based-investing/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/08/GettyImages-1062901596.jpg?w=578",
+            "publishedAt": "2019-08-20T23:06:37Z",
+            "content": "ou’re working on launching a new VC fund; congratulations! I’ve been a traditional equity VC for 8 years, and I’m now researching revenue-vased investing and other new approaches to VC. The question I’m asking myself: should a new VC fund use revenue-based investing, traditional equity VC, or possibly both (likely from two separate pools of capital)?
+            Revenue-based investing (“RBI”) is a new form of VC financing, distinct from the preferred equity structure most VCs use. RBI normally requires founders to pay back their investors with a fixed percentage of revenue until they have finished providing the investor with a fixed return on capital, which they agree upon in advance.
+            This guest post was written by David Teten, Venture Partner, HOF Capital. You can follow him at teten.com and @dteten. This is part of an ongoing series on Revenue-based investing VC that will hit on:
+            Revenue-based investing: A new option for founders who care about control
+            Who are the major revenue-based investing VCs?
+            Should your new VC fund use revenue-based investing?
+            Why are revenue-based VCs investing in so many women and underrepresented founders?
+            Should you raise equity venture capital or revenue-based investing VC?
+            From the investors’ point of view, the advantages of the RBI models are manifold. In fact, the Kauffman Foundation  has launched an initiative specifically to support VCs focused on this model. The major advantages to investors are:
+            Shorter duration, i.e., faster time to liquidity. Typically RBI VCs get their capital back within 3 to 5 years."
+            },
+            {
+            "category": "TechCrunch",
+            "author": "Megan Rose Dickey, Ingrid Lunden",
+            "title": "DoorDash acquires autonomous driving startup Scotty Labs",
+            "description": "DoorDash has been on an acquisition tear of late with Scotty Labs as its latest target. Terms of the deal were not disclosed, but this comes after DoorDash acquired Caviar in a deal worth $410 million. Scotty Labs, a tele-operations company that is working on…",
+            "url": "https://techcrunch.com/2019/08/20/doordash-acquires-autonomous-driving-startup-scotty-labs/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2016/05/tcdisrupt_ny16-5271.jpg?w=600",
+            "publishedAt": "2019-08-20T23:00:20Z",
+            "content": "DoorDash  has been on an acquisition tear of late, with Scotty Labs as its latest target. Terms of the deal were not disclosed, but this comes after DoorDash acquired Caviar in a deal worth $410 million.
+            Scotty Labs,  a tele-operations company that is working on technology to enable people to remotely control self-driving cars, raised a $6 million seed round from Gradient Ventures, with participation from Horizon Ventures and Hemi Ventures, last March. The startup had previously worked with Voyage for its self-driving cars in retirement communities.
+            “Our core belief at Scotty has always been that Autonomy + Remote Assistance is the future,” Scotty CEO Tobenna Arodiogbu wrote on Medium. “We have intentionally always considered ourselves to be the anti-hype company and focused intensely on developing core infrastructure and algorithms to ensure the safe deployment of autonomous vehicles.”
+            Meanwhile, DoorDash quietly brought on the two co-founders from Lvl5, another company that had built tech to create high-resolution maps for autonomous driving using crowdsourced imagery and computer vision to merge and process the images. In April, Lvl5 announced it was shutting down after the acquisition.
+            Details of how Scotty Labs and Lvl5 will fit into DoorDash’s business are nonexistent, but you could imagine DoorDash using Scotty’s technologies to remotely control delivery robots or other types of autonomous vehicles.
+            “We’ll share more updates in the near future but for now, we’re really excited to be part of the amazing DoorDash family and looking forward to building something magical together,” Scotty Labs co-founder Tobenna Arodiogbu wrote on Medium.
+            From what we understand, the Lvl5 deal was more of an acqui-hire and did not include any of the maps that were built using the company’s technology. Instead, startup Mapillary obtained that trove of hundreds of millions of images.
+            DoorDash would not comment on what the new hires are working on, but through its robot pilots and partnership with GM, the startup has made no secret of its interest in exploring autonomous technology, specifically looking at how it can improve the cost and efficiency of deliveries, and it would make sense that it would also want to have in-house expertise to own and manage those projects.
+            DoorDash has experimented with delivery robots before. In 2017, DoorDash partnered with both Starship Technologies and Marble to test food delivery via robot. More recently, DoorDash announced a partnership with GM’s Cruise to test self-driving food delivery cars. DoorDash is also beefing up its in-house team of autonomous and navigation specialists.
+            This investment in autonomous tech through its acquisition of Scotty Labs and acqui-hire of the team from Lvl5 comes at a time when DoorDash says it is revamping its policies around driver wages.
+            The enthusiasm and potential of autonomous tech had led to startups creating literally dozens of interesting products that focus on different aspects of this field. But it will take a village to get this tech off the ground, which means that consolidation is inevitable.
+            DoorDash — operating on the principle of economies of scale — has been pretty aggressive in positioning itself as one of those consolidators. We have heard it tried to merge with Postmates. It bought Caviar this summer. And it has raised an absolute ton of money. In May, DoorDash raised a $400 million round, valuing it at $12.6 billion. Meanwhile, DoorDash’s main competitor, Postmates, is gearing up to go public this quarter. Just this month, the company received the first permit to deploy autonomous delivery bots in San Francisco.
+            As technology becomes a key way for the crowded arena of delivery startups to differentiate themselves, investing in its own autonomous tech R&D — by way of picking up some of these disparate startups that may have struggled to survive on their own — is one way for DoorDash to build out that tech cred."
+            },
+            {
+            "category": "TechCrunch",
+            "author": "Brian Heater",
+            "title": "Timbuk2’s Parker is a commuter backpack made for the long haul",
+            "description": "It’s finally Bag Week again! The most wonderful week of the year at TechCrunch. Just in time for back to school, we’re bringing you reviews of bags of all varieties: from backpacks to rollers to messengers to fanny packs. Honestly, I’d thought I’d have grown …",
+            "url": "https://techcrunch.com/2019/08/20/timbuk2s-parker-is-a-commuter-backpack-made-for-the-long-haul/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/08/CMB_7940.jpg?w=600",
+            "publishedAt": "2019-08-20T22:39:07Z",
+            "content": "It’s finally Bag Week again! The most wonderful week of the year at TechCrunch. Just in time for back to school, we’re bringing you reviews of bags of all varieties: from backpacks to rollers to messengers to fanny packs.
+            Honestly, I’d thought I’d have grown out of backpacks by this point in my life. I had a year or two flirtation with messengers, but all roads eventually led back to the over-the-shoulder satchel. As a subway commuter who carries around a laptop at all times, it just works for me.
+            Until recently, however, I never really had much allegiance to any bag companies. I’ve used JanSport and Crumpler and Herschel and have a closet full of promotional bags I’ve accumulated over the years, but any semblance of brand loyalty has been fleeting at best.
+            Last year, however, I fell pretty hard for Timbuk2’s Never Check (as hard as a man can fall for a travel backpack). The carry-on backpack joined me for two weeks in Asia, traveling to a handful of different TechCrunch events. It addressed my travel needs better than any bag I’ve used, and 
+            when I returned to the States, I purchased the company’s Authority Pack for my day to day commute. I like the bag just fine. It’s got a nice assortment of internal pockets, but lacks the kind of versatility I’d gotten used to with the Never Check. Hoping to split the difference, 
+            I asked the company to send its new Parker Commuter Backpack to take for a spin. So far, so good. The bag does a good job delivering much of the Never Check’s amenities on a scale that works for the nearly two or so hours a day I spend commuting in and out of Manhattan.
+            Waterproofing was key to the choice, as well. I’d recently lost use of a work MiFi in a freak torrential downpour. It was stowed away in a zipped-up pocked I thought was sufficiently insulated against the elements. Turns out, however, that a little water behind the display 
+            is a dangerous thing when it comes to a portable Wi-Fi device.
+            The Parker has that part covered with a wax canvas front, including a couple of external pockets with covered zippers. I was a bit surprised how much of the storage space was monopolized by the trio of out-facing pockets. It’s a 180 from the two slim ones on the Authority.
+            Here there are zippers on the top and bottom pouches, with the center and largest pocket snapping together with a magnet. It’s an interesting touch and one I’ve not seen much of in backpacks. It does seem to lack the relative security of a zipper, so you might want to skip storing valuables in there, 
+            but it makes for easy access, which is great for things like keys. I’ve also not had any issue with the three after getting caught in the rain a couple of times. On either side there’s a narrow, but expandable slot for an umbrella and/or water bottle. And like the Never Check, 
+            the primary zipper expands the bag for additional storage. That’s nice for overnights, or those days when you’re bringing groceries back to the apartment.
+            Also, like the Never Check, there’s a nearly hidden zipper on the side rear for slipping a 15-inch laptop in and out. Interestingly, that panel can also be accessed through the main compartment. I’m not in love with that part. I do like the way the Never Check keeps the laptop hidden. 
+            There’s plenty of space inside — more than I generally need day to day. There’s plenty of space for my camera, gym shoes and all of the other crap I lug around, day to day. I could, however, have done with additional pockets inside — spots devoted to things like pens. 
+            That’s a point for the Authority, which also incorporates a mesh net for loose objects.
+            The Airmesh back panel is a nice touch, keeping the wearer’s back a bit cooler, especially during this brutal East Coast August. There are plenty of security straps, as well, for cyclists, though those thankfully remove easily for day to day usage.
+            At $219, the Parker is considerably pricier than the Authority ($129), but it’s got more than enough space and is built to last."
+            },
+            {
+            "category": "TechCrunch",
+            "author": "Kirsten Korosec",
+            "title": "Walmart sues Tesla for negligence after multiple solar panel fires",
+            "description": "Walmart is suing Tesla for breach of contract and gross negligence after rooftop solar panel systems on seven of the retailer’s stores allegedly caught fire, according to a filing. Walmart said the lawsuit, which was filed Tuesday in New York state court, aro…",
+            "url": "https://techcrunch.com/2019/08/20/walmart-sues-tesla-for-negligence-after-multiple-solar-panel-fires/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2010/09/walmart_solarcity153.jpg?w=598",
+            "publishedAt": "2019-08-20T22:27:13Z",
+            "content": "Walmart  is suing Tesla for breach of contract and gross negligence after rooftop solar panel systems on seven of the retailer’s stores allegedly caught fire, according to a filing.
+            Walmart said the lawsuit, which was filed Tuesday in New York state court, arose from years of gross negligence and failure to live up to industry standards by Tesla  and the solar panels it designed, installed and promised to operate and maintain safely on the roofs of hundreds of Walmart stores.
+            Bloomberg was the first to report on the court filing. The lawsuit is aimed at Tesla Energy Operations, a division within the clean energy and electric vehicle automaker that was formerly known as SolarCity .
+            Tesla did not return a request for comment. A Walmart spokesperson said there was nothing else to add beyond the lawsuit filed Tuesday. TechCrunch will update the article if Tesla responds.
+            The lawsuit comes just days after Tesla CEO Elon Musk  announced a new rental offering for solar power in a bid to reboot the flagging renewable energy business. Tesla’s share of the solar market has declined since its merger with SolarCity in 2016. 
+            In the second quarter Tesla deployed only 29 megawatts of new solar installations, while the number one and two providers of consumer solar, SunRun and Vivint Solar, installed 103 megawatts and 56 megawatts, respectively.
+            Walmart has asked Tesla to remove solar panels from all 240 locations where they have been installed as well as pay for damages related to fires that the retailer alleges stem from the panels. The lawsuit points to several fires on the retailer’s rooftops that allegedly stem from Tesla solar panels.
+            The lawsuit states:
+            To state the obvious, properly designed, installed, inspected, and maintained solar systems do not spontaneously combust, and the occurrence of multiple fires involving Tesla’s solar systems is but one 
+            unmistakable sign of negligence by Tesla. To this day, Tesla has not provided Walmart with the complete set of final “root cause” analyses needed to identify the precise defects in its systems that caused all of the fires described above. 
+            The number of defects, however, is overwhelming and plainly indicative of systemic, widespread failures by Tesla to meet the standard of care, as set forth in the governing contracts, as to the solar systems installed at Walmart’s stores.
+            Unsatisfied with Tesla’s actions, Walmart requested in May 2018 that the company disconnect all of the solar panel systems, according to the lawsuit. Tesla complied. However, Walmart alleges that another fire erupted even after the systems were disconnected.
+            In Walmart’s view, numerous problems with the design and installation were propelled by SolarCity’s business model, which relied on “installing as many solar panels as quickly as possible.”
+            SolarCity’s business model was ultimately a bust. Unbeknownst to its customers until public reports later exposed its shoddy practices, SolarCity suffered from “a quality assurance problem,” the lawsuit alleges.
+            Tesla announced plans to merge with SolarCity in 2016 in a controversial all-stock $2.6 billion deal that closed in November of that year."
+            },
+            {
+            "category": "TechCrunch",
+            "author": "Anthony Ha",
+            "title": "YC-backed Stoic is a journaling app with a focus on understanding your feelings",
+            "description": "The process of using the Stoic journaling app is simple: You open the app in the morning and the evening, when you’ll prompted to answer a couple questions and perform a few simple exercises. For example, this evening the app asked me to rate my current level…",
+            "url": "https://techcrunch.com/2019/08/20/y-combinator-stoic/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/08/GettyImages-1024064878.jpg?w=600",
+            "publishedAt": "2019-08-20T22:27:12Z",
+            "content": "The process of using the Stoic journaling app is simple: You open the app in the morning and the evening, when you’ll be prompted to answer a couple of questions and perform a few simple exercises.
+            For example, this evening the app asked me to rate my current level of fulfillment and to identify what made me smile today, while also pointing me to guided exercises like journaling and breathing.
+            Stoic is part of the current batch of startups at Y Combinator  (it’s taking the stage today at Demo Day). Founder Maciej Lobodzinski told me that his goal is to help users understand the different factors influencing their mental and emotional state.
+            “The core of the app is: We have this insight and we see what influences your mood and what you feel,” Lobodzinski said. He suggested that this is very different from the “super transactional” idea embedded in my other mental health and wellness apps, 
+            where “you pay for my app and you feel better.” In his view, “You should feel how you feel. It’s okay, how you feel, but you should know why you are feeling this way.”
+            So once there are a couple of weeks of data in the app, you should be able to look back and see how you were feeling on a certain day, and if there were activities that made you feel more or less fulfilled. Over time, Lobodzinski hopes to add more 
+            insights about “what influenced you, why you feel this way, why you are productive.” As the name implies, Stoic is inspired by Lobodzinski’s interest in classical Stoic philosophy (he’s not the first to suggest that the approach has direct 
+            applications in the tech industry), and the app even includes quotes from Stoic philosophers.
+            “It’s an extremely practical framework,” he said. “When I talk to users, there are entrepreneurs, investors, traders — people who found out about the app because they were looking for how to deal with their stress …
+            If you are stressed with your everyday life and you can get the advice of the emperor of Rome, who dealt with much more serious things, it’s amazing how much better you can feel after that.”
+            At the same time, users have the option to receive quotes from different schools of thought — not just Stoicism but also Buddhism, Taoism and Catholicism. For some users, their app experience won’t be explicitly 
+            focused on Stoicism, but Lobodzinski said that even then, it forms the “spine” of the app’s approach.
+            The basic app is free, but Stoic charges $27.99 per year for a premium version that includes iCloud syncing and additional content."
+            },
+            {
+            "category": "TechCrunch",
+            "author": "Mark Minevich",
+            "title": "The American AI Initiative: A good first step, of many",
+            "description": "When the global economy starts to feel the shift ushered in with mass-adoption of AI, the United States needs to be leading the charge as opposed to chasing the pack.",
+            "url": "https://techcrunch.com/2019/08/20/the-american-ai-initiative-a-good-first-step-of-many/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/07/GettyImages-622242270.jpg?w=711",
+            "publishedAt": "2019-08-20T22:00:48Z",
+            "content": "The path to general AI — and possibly superintelligence — is being paved before our eyes. And with the proliferation of an AI-driven society, 
+            the social and economic value of such technology is also on the rise. In turn, harnessing and leveraging such technology needs to extend beyond the interests of venture capitalists, 
+            investment groups and entrepreneurs — and also be a priority on a geopolitical scale.
+            When the global economy starts to feel the shift ushered in with mass-adoption of AI, the United States needs to be leading the charge as opposed to chasing the pack.
+            If the U.S. is to compete on a global level, they’ll face an arms race of sorts from a litany of nations that are already doubling-down on the massive advantages 
+            that come with national AI proficiency. In fact, 18 different countries have launched national AI strategies, with government funding ranging from $20 million to almost $2 billion.
+            A first step in the right direction was taken by the Trump administration recently when the president signed an executive order launching the American AI Initiative. 
+            This policy will funnel federal funding and resources toward AI-specific research while also implementing U.S.-led international AI standards. Additionally, the program will call for new research 
+            into increasing AI literacy in American workers.
+            Unfortunately, there are no specifics around what exactly this new program actually looks like in practice, and there is no additional research being dedicated toward AI development. 
+            There are no timelines for implementation of these initiatives, only a vague goal of roughly six-ish months before a detailed plan is rolled out. Jason Furman, a Harvard professor 
+            who helped draft the Obama administration’s report on AI, said that the plan had “all the right elements” but was also “aspirational with no details and is not self-executing.” Yet, 
+            the importance of government involvement in AI R&D cannot be overstated. If we remain on the path we’re on, one where large technology companies and VC firms are funding the bulk of 
+            AI research, the country would only see pockets of growth around the largest technology companies and the regions of the country would continue to stagnate. We would not be able to 
+            work on major moonshot projects and collectively pool our resources for the greater good across all regions of the U.S. All innovations would be tightly controlled by technology 
+            companies and adoption rates would not move up and actually make a difference in the way we utilize AI. This would result in a marginal talent pool, and new developments would be 
+            those of technology innovators — not problem-solvers. Everything would be driven by its contribution to business and not its contribution to society at-large.
+            So, government involvement matters, yet the administration can’t be solely responsible for catalyzing the change needed by the American workforce — it falls on us as well. So that begs the question…
+            How can the private sector build on what the federal government has put in place?
+            The program focuses on five key pillars: Research and development, infrastructure, governance, workforce and international engagement. Like Furman said, those concepts are well and good, but they 
+            remain vague and still clearly undefined. But, even if the administration’s program isn’t hitting the ground running, that doesn’t mean that you and I can’t push the ball in the right direction. 
+            So, how can we as a workforce help execute on the program? What do we need to do to enact the ideals that the federal government is focused on in AI?
+            Focus on building AI-literacy in American workers
+            Until the American workforce itself is concerned with being AI-first, we will see challenges in implementation, adoption and deployment, and AI literacy will be largely confined to the areas 
+            in which it’s already being heavily used (automation, customer service, insights, engagement, etc.).
+            Additionally, these industries aren’t even using AI to actually solve problems or improve society, they are largely using it as an autopilot. And if AI is being used simply to automate processes for tech companies, 
+            then we’re missing out on the opportunity to use it to its full advantage to solve actual sociological issues around hunger, poverty and healthcare.
+            And the focus needs to extend beyond the workforce and into the classroom. All STEM programs in American schools need AI-based coursework. Universities need AI-based programs and intelligence labs, 
+            such as MIT, for example, where roughly 25% of faculty conduct research on intelligence in labs like the MIT-IBM Watson AI Lab, the Robust Robotics Group and the Laboratory for Information and Decision Systems (LIDS).
+            Our academic institutions and research centers would continue to strive as centers of excellence around the world, meaning that the best and brightest minds would continue to be attracted and would keep our talent pool stocked. 
+            Our universities would increase enrollment for AI/digital experts, as those roles would be the golden mature standard.
+            Startups need to swarm and work closely with federal AI strategy
+            While I hate to use cliches, this is a “teamwork makes the dream work” situation. Aligning the startup community with government strategy would allow innovation and social good to walk hand-in-hand when it comes to AI development. 
+            This would lead in new space technologies, create new innovation for society in food, energy and health, and create a lifestyle that balances efficiency and leisure. It also would allow American corporations to go after dispersion 
+            and breakthrough innovation. From a government perspective, this means continuing to provide open and structured data sets for the public to use while still protecting the sensitive information that keeps our citizens safe. 
+            Providing these data sets is the first step, but making others aware through education campaigns is also important
+            Make AI all-inclusive
+            Much the same way that IT experts, coders and web/app developers had to learn to work side-by-side with business owners, marketers and production-level employees across the business ecosystem over the last two-and-a-half decades, 
+            we must bridge the “gap” between AI experts, technologists and leading technology companies and solutions owners, general SMBs and corporate America to develop an inclusive and universally understandable AI strategy.
+            The advancement of machine learning models, specifically deep learning, relies on the ingestion of data — structured or unstructured. The sharing of this data, from people involved in day-to-day problems and solutions to 
+            technologists who are concerned with the big picture, is the key to developing innovative and inclusive AI solutions. A better AI future built on diverse data sets requires both parties to work collaboratively.
+            Data is officially the most valuable commodity on earth and the countries that win the race to harness and use it to its maximum value and efficiency are going to position themselves favorably around the globe. 
+            And if America is to win the race, it will take the buy-in of the collective public, private and government entities in our country. If we are to move past improving our viewing patterns on Netflix and start 
+            solving the brass-tax issues in our country’s society, it will come as a result of the convergence of government, society and business."
+            },
+            {
+            "category": "TechCrunch",
+            "author": "Devin Coldewey",
+            "title": "Researchers look into keeping autonomous vehicles from becoming mobile vomitoriums",
+            "description": "If you're like me, and I'm just going to assume most of you are, motion sickness is a serious consideration on any car trip where you're not driving. So what are we supposed to do in self-driving vehicles? Researchers are finally looking into this question wi…",
+            "url": "https://techcrunch.com/2019/08/20/researchers-look-into-keeping-autonomous-vehicles-from-becoming-mobile-vomitoriums/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/08/u-m_motionsickness.jpg?w=696",
+            "publishedAt": "2019-08-20T21:57:33Z",
+            "content": "If you’re like me, and I’m just going to assume most of you are, motion sickness is a serious consideration on any car trip where you’re not driving. 
+            So what are we supposed to do in self-driving vehicles? Researchers are finally looking into this question with an experiment designed to see just what makes 
+            people like us so sick.
+            The study, at the University of Michigan, was undertaken because the researchers realized that if millions of people can’t read or do work in autonomous 
+            vehicles, that massively reduces the draw of using them in the first place. And it turns out there has been almost no investigation of why certain people 
+            get motion sickness in this context, what makes it better or worse, and so on.
+            “Very few studies have been conducted in cars; instead, a lot of the work has been done for sea and air transportation modes, performed in driving simulators 
+            or on motion platforms,” explained lead investigator for the project, Monica Jones, in a university news release. “A lot of scales that exist in the 
+            literature are based on nausea. If we design to a vomiting response, we have really missed the mark on autonomous vehicles.”
+            Basically the cars should be designed around making people actually comfortable, not stopping just short of losing their lunch. What does that even consist 
+            of? That’s what these initial experiments are meant to explore.
+            The team collected 52 people from a variety of demographics and had them sit in the car while it navigated the university’s Mcity  Test Facility, a sort 
+            of mock urban environment meant for exactly this kind of work. The drive involved the usual turns, stops and accelerations you would experience being 
+            driven around a city, and participants were asked to perform some basic tasks on an iPad and answer questions posed by a researcher in the car. I can tell 
+            you I’m feeling queasy just thinking about taking part. They were observed for indications of discomfort and were told to report any such feelings — and of 
+            course let the researchers know if they needed to stop. Sensors watched for changes in temperature or perspiration, among other things.
+            The early findings (PDF) are not exactly surprising, but they’re a start. It may not be front page news that people using a gadget while in a self-driving 
+            car tended to feel more sick. But no one has ever actually studied this, so if we’re going to treat it seriously one way or the other, it needs to be 
+            directly observed. And indeed there were other factors that cropped up as well. Younger people reported higher motion sickness levels, for instance. 
+            Why? When?
+            “Passenger responses are complicated and have many dimensions,” said Jones. And to measure those responses the team built up a database of thousands of 
+            measurements and observations that extend beyond a simple “misery scale,” but include context and other types of pain or discomfort.
+            This is just the beginning of what is sure to be a longer-term study of how to make self-driving vehicles as inclusive — and popular — as possible. 
+            Certainly if they get to the bottom of it, I (and all of you out there like me) will be much more likely to use an AV for my daily commute."
+            },
+            {
+            "category": "TechCrunch",
+            "author": "Zack Whittaker",
+            "title": "MoviePass exposed thousands of unencrypted customer card numbers",
+            "description": "Movie ticket subscription service MoviePass has exposed tens of thousands of customer card numbers and personal credit cards because a critical server was not protected with a password. Mossab Hussein, a security researcher at Dubai-based cybersecurity firm S…",
+            "url": "https://techcrunch.com/2019/08/20/moviepass-thousands-data-exposed-leak/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/08/moviepass.jpg?w=600",
+            "publishedAt": "2019-08-20T21:00:05Z",
+            "content": "Movie ticket subscription service MoviePass  has exposed tens of thousands of customer card numbers and personal credit cards because a critical 
+            server was not protected with a password.
+            Mossab Hussein, a security researcher at Dubai-based cybersecurity firm SpiderSilk, found an exposed database on one of the company’s many subdomains. 
+            The database was massive, containing 161 million records at the time of writing and growing in real time. Many of the records were normal computer-generated 
+            logging messages used to ensure the running of the service — but many also included sensitive user information, such as MoviePass customer card numbers.
+            These MoviePass customer cards are like normal debit cards: they’re issued by Mastercard and store a cash balance, which users who sign up to the subscription 
+            service can use to pay to watch a catalog of movies. For a monthly subscription fee, MoviePass uses the debit card to load the full cost of the movie, which 
+            the customer then uses to pay for the movie at the cinema.
+            We reviewed a sample of 1,000 records and removed the duplicates. A little over half contained unique MoviePass debit card numbers. Each customer card record 
+            had the MoviePass debit card number and its expiry date, the card’s balance and when it was activated.
+            The database had more than 58,000 records containing card data — and was growing by the minute.
+            We also found records containing customers’ personal credit card numbers and their expiry date — which included billing information, including names and 
+            postal addresses. Among the records we reviewed, we found records with enough information to make fraudulent card purchases.
+            Some records, however, contained card numbers that had been masked except for the last four digits.
+            The database also contained email address and some password data related to failed login attempts. We found hundreds of records containing users’ email 
+            addresses and presumably incorrectly typed passwords — which was logged — in the database. We verified this by attempting to log into the app with an email 
+            address and password that didn’t exist but only we knew. Our dummy email address and password appeared in the database almost immediately.
+            None of the records in the database were encrypted.
+            Hussain contacted MoviePass chief executive Mitch Lowe  by email — which TechCrunch has seen — over the weekend but did not hear back. It was only after 
+            TechCrunch reached out Tuesday when MoviePass took the database offline.
+            It’s understood that the database may have been exposed for months, according to data collected by cyberthreat intelligence firm RiskIQ, which first detected 
+            the system in late June.
+            We asked MoviePass several questions — including why the initial email disclosing the security lapse was ignored, for how long the server was exposed and its 
+            plans to disclose the incident to customers and state regulators. When reached, a spokesperson did not comment by our deadline.
+            MoviePass has been on a roller coaster since it hit mainstream audiences last year. The company quickly grew its customer base from 1.5 million to 2 million 
+            customers in less than a month. But MoviePass took a tumble after critics said it grew too fast, forcing the company to cease operating briefly after the 
+            company ran out of money. The company later said it was profitable, but then suspended service, supposedly to work on its mobile app. It now says it has 
+            “restored [service] to a substantial number of our current subscribers.”
+            Leaked internal data from April said its customer numbers went from three million subscribers to about 225,000. And just this month MoviePass reportedly 
+            changed user passwords to hobble access for customers who use the service extensively.
+            Hussein said the company was negligent in leaving data unencrypted in an exposed, accessible database.
+            “We keep on seeing companies of all sizes using dangerous methods to maintain and process private user data,” Hussein told TechCrunch. “In the case of 
+            MoviePass, we are questioning the reason why would internal technical teams ever be allowed to see such critical data in plaintext — let alone the fact that 
+            the data set was exposed for public access by anyone,” he said.
+            The security researcher said he found the exposed database using his company-built web mapping tools, which peeks into non-password protected databases 
+            that are connected to the internet, and identifies the owner. The information is privately disclosed to companies, often in exchange for a bug bounty.
+            Hussein has a history of finding exposed databases. In recent months he found one of Samsung’s development labs exposed on the internet. He also found an 
+            exposed backend database belonging to Blind, an anonymity-driven workplace social network, exposing private user data."
+            },
+            {
+            "category": "TechCrunch",
+            "author": "Devin Coldewey",
+            "title": "Waxed canvas bags from Waterfield, Manhattan Portage, Saddleback and more",
+            "description": "It's Bag Week again! And here for your consideration are a handful of bags from a variety of makers who specialize (or dabble) in waxed canvas, my favorite material. It's natural, it's durable, and it looks great — what's not to like?",
+            "url": "https://techcrunch.com/2019/08/20/waxed-canvas-bags-from-waterfield-manhattan-portage-saddleback-and-more/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/08/waxed-joshuvela-6060024.jpg?w=600",
+            "publishedAt": "2019-08-20T20:27:22Z",
+            "content": "It’s finally Bag Week again! The most wonderful week of the year at TechCrunch. Just in time for back to school, we’re bringing you reviews of bags of all varieties: from backpacks to rollers to messengers to fanny packs.
+            This year, like last year, I decided to focus on a specific niche in the bag community: waxed canvas. Last year I reviewed a handful of bags from Ona, Filson and other purveyors of fine waxed goods. But there are many more to choose from, so I’ve collected a second handful and used them all for long enough to get a sense of their strengths and weaknesses.
+            Waxed canvas is a wonderful material. The natural fibers infused with wax provide water resistance, structure, protection and a great look that only gets better with time as you use it. It’s my favorite material and it should be yours too. Only trouble is, it can be expensive. But keep in mind that these bags are the kind that you take with you for a decade or two.
+            For this post I focused on laptop bags, but later in the festivities I’ll have a couple more waxed bags more in the “messenger” style, so keep your eyes peeled. Pros:
+            Solid medium-weight material and construction
+            Good padding and leather protective layer
+            Surprising amount of space and pockets
+            Cons:
+            Somehow lacks panache
+            Leather thongs instead of metal zipper pulls not for everyone
+            Store link
+            Of all the bags I’ve looked at for this roundup, this one is perhaps the most straightforward, in that it isn’t convertible, super-heavy, super-light, blue or anything like that. It’s just a solid all-purpose laptop bag made of waxed canvas and leather, and as such makes for a sort of baseline with which to compare everything else. The Bolt’s canvas isn’t as thick as that on other Waterfield bags, since it’s lined and padded on the inside. It still has a nice finish, though, and the leather base and trim are similarly high quality. The strap is, like the other bags from the company, nylon, where I would prefer canvas, but the grippy leather shoulder pad included is among the most practical and comfortable I’ve used.
+            Where the Bolt excels is not in sheer space, since it’s rather a compact bag (you can choose a larger size if you prefer), but in feeling that space is used well. There are snap pockets in the front and a larger zip one as well for quick access, all protected by a small flap but still easy to get at. On the back is a flap pocket and luggage strap so it can sit safely atop your roller bag.
+            And opening up the main compartment through its weather-proof zipper, the bag accordions open pleasantly to reveal laptop, tablet, notebook and other slots all easily accessible. I even like the color in there!
+            I only wish it inspired a little more love. It’s not a bad-looking bag by any means, but it feels very pedestrian — few stylistic choices seem to have been made. It’s practical but not individual. To some that won’t matter — this is a solid bag. But it lacks a certain je ne sais quois that the company has to spare in its other bags. Pros:
+            Great material and construction
+            Compact but not microscopic
+            Cons:
+            Awkward to carry without strap
+            Not a lot of room in there (by design, but still)
+            Store link
+            Sometimes you’re just going out with a tablet or laptop and book, and don’t feel like taking a whole messenger-style bag or briefcase. This little guy is sort of halfway between a laptop sleeve and a bag, and if you don’t mind its purselike nature, it’s a perfect companion for those more minimal trips.
+            The laptop compartment is snug and well-padded. The outside has a slip pocket with some nooks for pens and the like, big enough to fit an 8.5×11″ notebook or not-too-thick book. Just don’t try putting groceries or anything in there. Closure is a magnetic snap that feels secure enough, but I’d just as soon have something a little more physical. I’d like to mention that the closure strap looks a little sloppy in the photos above, but it’s really not like that in general use and will wear in nicely. And although it feels great to carry this light little guy with the shoulder strap (which stows away decently well), carrying it like a sleeve or clutch isn’t so hot — a small handle or strap would make this much better.
+            I’d recommend this to anyone who has a larger bag for trips but doesn’t want to pack and unpack it every time they want to step out to the coffee shop. This would work well as a sub-bag or laptop sleeve if you have lots of room in the big one. Pros:
+            Excellent lighter material that will age well
+            Straightforward style and solid straps
+            Great giant brass zippers
+            Cons:
+            Which side’s the front?
+            Unstructured interior can make stowage and retrieval annoying
+            Store link
+            Coming from a shop more known for totes and lightweight, fashionable gear for everyday urban living, this one is heavy duty for them but light compared with some others in this roundup. Its style is subtle and straightforward, but high quality.
+            The material is a lighter weight and color canvas with a crispy feel that will very quickly show patterns of use as, for example, one front pocket is habitually used for a book or keys. Empty it is possibly the lightest waxed bag I’ve used, which of course makes it good for anyone trying to stay minimal. The simple leather straps are sturdy and comfortable, though their springy, upright nature does mean they occasionally interfere with access. I love the huge brass zipper and pulls, though I could do without the leather bits (you can remove them). I didn’t like the plain natural canvas strap at first, but it, like other aspects of the bag, has grown on me.
+            The simplicity of the design is good, but it also leads to some problems. Unless you look closely it can be hard to tell which side is the front — only the zipper flap and small label hint at it. Something to secure or differentiate the front or rear pockets, even as simple as removing the divider in the back, would be welcome.
+            Inside has three divisions, but the billowing, unstructured canvas plus the limited zip-top entrance can make stowage and retrieval a little awkward, more so than a flap-top bag, anyway. A tighter compartment for a laptop or tablet would be great in here rather than having it swim in a big undifferentiated section. There’s also no padding, so I’d recommend keeping your device in its own case (this also helps it fill out the space). Pros:
+            Classy messenger/briefcase crossover style
+            Lovely blue color
+            Great handle, closure and straps
+            Cons:
+            Not particularly waxy or robust
+            Steel and brass? Sacrilege
+            Interior material not for everyone (also has a tacky watermark)
+            Store link
+            Waxed canvas is normally tan or brown, but that’s just tradition. I like the forest green of the Croots bag from last year or the Saddleback one below, but the rich navy blue of this Manhattan Portage Token bag is also excellent. The material is very light, with a fine weave and barely any wax. That means it probably won’t show the characteristic scuffs and patterns that give this type of bag its personality. (You can always wax it yourself.)
+            This bag, with its half-flap and top handle, straddles the line between laptop bag and briefcase. It’s not particularly thick but has lots of room for big documents, laptops and other long items. Its structure means it’ll stay relatively svelte even when full — this won’t get lumpy. The leather straps and trim are a nice chocolate color and complement the blue well. It’s not heavy or stiff, and the shoulder strap in particular is very pliable — though so long I had to knot it to keep the extra out of the way (fortunately it looks cool that way). The snap closure can be a little tricky to get right by feel, but attaches solidly. The handle, which folds flat but pops up when you need it, is genius — probably the best handle of all the bags in this roundup, though not quite as robust as the Saddleback (but what is?).
+            The interior isn’t to my liking. The red nylon watermarked with a branded pattern seems sort of gauche compared to the refined outside, and at the same time it feels like this choice of material should have allowed for more small pockets. It should help keep things dry, though, which is good considering the thinness of the waxed canvas layer.
+            Pros:
+            Convertible style makes it a good companion for conventions, business trips, etc.
+            Plenty of handles and exterior pockets
+            Cons:
+            Not the best of both worlds (but not the worst either)
+            Straps make it feel bulky and lumpy if not stowed carefully
+            When I’m at CES or some other big show where I do a lot of walking but need to carry my basic loadout everywhere, I often wish I could transform my laptop bag into a backpack or vice versa. The Saratoga accomplishes this, and while it ends up compromising both forms as a result, it also fundamentally scratches an important itch.
+            The material is a soft-feeling canvas that doesn’t feel very rugged but is showing a nice wear pattern already. The weather-sealed zippers are good news for anyone who wants to take this out in the rain, but there are just too many of them. Six on the exterior, five visible on the front side! This thing jingles like a festive little elf. The back of the bag is a large pocket in which the pack straps sit, providing extra padding while they’re in there. You pull them out and clip them onto some unobtrusive little D-rings, and boom, it’s a backpack. Doing the reverse is a little harder, as you need to make sure the straps don’t bunch up in their pouch.
+            I would have much preferred a more elegant pocket solution, not least because some of the pockets don’t make much sense while in one or the other configuration. And the leather bottom, while great in briefcase mode, makes it seem a little lopsided in backpack mode. Obviously these are drawbacks inherent to the switchable design, which brings its own benefits, but they’re worth considering. I might have liked a single big pocket on the front that can be opened from the side or top, and sub-pockets within.
+            The interior, while it’s the same watermarked red nylon as the one above, is populated with tons of little pockets and useful stashes that helpfully all close independently, meaning there’s no need to re-pack when you’re going from one mode to the other.
+            (I can’t seem to find this for sale any more — but keep your eyes open if you like it.) Pros:
+            Pockets! So many pockets!!
+            Cons:
+            Maybe too many pockets
+            Store link
+            I’ll just say right off the bat that this one isn’t for me — I prefer a plainer exterior, and this thing does not have that. On the other hand, for the organized gadget fiend, this might be a fantastic match. The front side is just pocket after pocket. There are two big enough for a small phone, another good for a notebook, pens or a power adapter, and a third with a removable divider that could hold all manner of things small and large. Nothing too bulky will fit in them, but any number of audio recorders, lens filters, earbuds and so on will go in there.
+            Then there are two totally separate full-size compartments, one with more organizing space inside and both with plenty of padding. The simple strap is easy to release and stashes inside nicely.
+            Built like a waxed tank
+            Seriously, this thing is a beast
+            Spacious and handsome
+            Cons:
+            Also heavy as a tank
+            Very basic pockets and interior
+            Price reflects its “for life” nature
+            Store link
+            This bag came with a label on it sporting the company’s motto: “They’ll fight over it when you’re dead.” And I’m inclined to believe it. This is definitely by far the heaviest-duty waxed canvas bag I’ve had the pleasure of reviewing, which may or may not make it to your taste.
+            The olive-colored canvas is very thick and stiff, and waxed all the way through, not just in a layer on the outside. The stitching is industrial-grade and probably uses half a mile of thread. Quarter-inch-thick leather plates stiff as a board protect the back and bottom of the bag, and another serves to connect with the handle. The strap is a kind of folded-over canvas that feels even tougher than the leather. On top is a unique and practical thick leather handle that folds flat if necessary but feels very robust. The muscular materials and construction, however, preclude the inclusion of fine details like small pockets and pen sheaths. Instead there are two major exterior pockets that simply fold over themselves to close up, being held shut by the flap; there’s also room between them and the main compartment. Smaller side pockets under the massy strap hardware are good spots for flashlights but pens may disappear to the bottom.
+            This thing is also heavy as hell. Empty, it weighs as much as another bag with a light load. For some that weight will be reassuring, but for others it’s just too much.
+            Inside the main compartment is plenty of room but little organization; there’s a single flap that will hold a laptop in place (my 13-inch MacBook Pro fits perfectly), and beyond that it’s just a big empty space. This is the only briefcase-style bag that rivals Filson’s (in my last roundup) for overnight capability. This one is definitely going to get your stuff waxy for the first few trips, though.
+            That’s all for today, but keep an eye out for more waxed canvas bags later in Bag Week as well!"
             }
 ]
 news.each {|news| News.create(news)}
