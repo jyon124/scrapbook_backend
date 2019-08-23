@@ -9,6 +9,7 @@ class CreateNews < ActiveRecord::Migration[5.2]
       t.string :publishedAt
       t.text :content
       t.string :category
+      t.integer :viewCount
 
       t.timestamps
     end

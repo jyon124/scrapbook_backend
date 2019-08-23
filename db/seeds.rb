@@ -12,6 +12,7 @@ users.each {|user| User.create(user)}
 
 news = [  
         {
+        "viewCount": 0,
         "category": "bitcoin",
         "author": "Mark Hulbert",
         "title": "Mark Hulbert: The single best investment for the next decade",
@@ -46,6 +47,7 @@ news = [
         So if you were to believe there is a major stock bear market in the cards at some point in the next decade, you might choose real estate just because of its lower risk."
         },
         {
+        "viewCount": 0,
         "category": "bitcoin",
         "author": "https://www.facebook.com/DailyMail",
         "title": "Moment an American cryptocurrency boss is arrested at his luxury apartment in Thailand",
@@ -70,6 +72,7 @@ news = [
         Barksdale has yet to respond to the allegations."
         },
         {
+        "viewCount": 0,
         "category": "bitcoin",
         "author": "ascend-purview",
         "title": "Indicators Flag Economic Worries. How It May Affect Bitcoin",
@@ -95,6 +98,7 @@ news = [
         Therefore during economic turmoil, Investors (Bitcoin maximalist) may be more than likely to bet on Bitcoin price rather holding USD."
         },
         {
+        "viewCount": 0,
         "category": "bitcoin",
         "author": "adam@letstalkbitcoin.com (The LTB Network), The LTB Network",
         "title": "Bitcoin Magazine Podcast - Alex Gladstein and the Moral Case for Lightning",
@@ -108,6 +112,7 @@ news = [
         This episode features Alex Gladstein of the Human Rights Foundation discussing his recent essay The Moral Case for Lightning. We also discuss surveillance capitalism, the Hong Kong protests and how the world might evolve if Lightning payments are adopted by the masses."
         },
         {
+        "viewCount": 0,
         "category": "bitcoin",
         "author": "P. H. Madore",
         "title": "'Bitcoin Jesus' Roger Ver Epically Trolls Lightning Shills",
@@ -135,6 +140,7 @@ news = [
         The last thing the BCH network likely wants is a reputation for easily-stolen goods. The chain has already suffered reorganizations and undergoes regular hard forks."
         },
         {
+        "viewCount": 0,
         "category": "bitcoin",
         "author": "PTI",
         "title": "SC commence hearing on pleas against RBI circular banning cryptocurrency",
@@ -165,6 +171,7 @@ news = [
         Union ministry of Information and Technology."
         },
         {
+        "viewCount": 0,
         "category": "bitcoin",
         "author": "Dave Mark",
         "title": "Bitcoin scammer picks the absolute wrong person to scam",
@@ -178,6 +185,7 @@ news = [
         If this blog is entertaining for you, please consider donating to Bitcoin Venezuela at the following link (donation options are at the top of the page):"
         },
         {
+        "viewCount": 0,
         "category": "bitcoin",            
         "author": "Aashish Aryan",
         "title": "RBI banned cryptocurrency deals on moral grounds: IAMAI to Supreme Court",
@@ -199,6 +207,7 @@ news = [
         Blockchain technology is the backbone on which bitcoin and other virtual currencies operate. Former finance minister Arun Jaitley had earlier said the government doesn’t consider cryptocurrency as legal tender and will take all measures to eliminate payments using them."
         },
         {
+        "viewCount": 0,
         "category": "bitcoin",            
         "author": "Matt Hougan, Contributor, Matt Hougan, Contributor https://www.forbes.com/sites/matthougan/",
         "title": "How Ray Dalio-And A Politicized Fed-Could Catalyze A New Generation Of Bitcoin Investors",
@@ -237,6 +246,7 @@ news = [
         What a time to be alive."
         },
         {
+        "viewCount": 0,
         "category": "bitcoin",  
         "author": "Graham Cluley",
         "title": "Cryptocurrency exchange Binance offers $290,000 bounty to unmask blackmailer",
@@ -263,6 +273,7 @@ news = [
         Binance says it has been in contact with law enforcement agencies about the latest incident and that it will assist the authorities with any investigation."
         },
         {
+        "viewCount": 0,
         "category": "bitcoin", 
         "author": "Lawrence Abrams",
         "title": "New Trojan Records Your Screen When on Sex Related Sites",
@@ -292,6 +303,7 @@ news = [
         Although the Varenyky Trojan had the ability to record these videos, ESET has seen no indication that they have been used in an actual sextortion campaign against the victim or others."
         },
         {
+        "viewCount": 0,
         "category": "bitcoin",  
         "author": "Petar Mikonoss",
         "title": "Things To Remember Before Investing in Crypto",
@@ -323,6 +335,7 @@ news = [
         Choose proper buying and storing platform to save your Crypto."
         },
         {
+        "viewCount": 0,
         "category": "bitcoin",  
         "author": "Cointelegraph By Marie Huillet",
         "title": "Gemini Exchange Added to CME Group’s Pioneering Crypto Benchmarks",
@@ -347,6 +360,7 @@ news = [
         In March, CoinMarketCap announced the launch of two cryptocurrency benchmark indices on Nasdaq Global Index Data Service, Bloomberg Terminal, Thomson Reuters Eikon and Börse Stuttgart."
         },
         {
+        "viewCount": 0,
         "category": "bitcoin",  
         "author": "Martin Young",
         "title": "Exit Scams, State-Sponsored Hacks and a Very Expensive Valentines Day",
@@ -375,6 +389,7 @@ news = [
         Rich Chinese crypto whales today are busy sending the symbolic 520 $BTC to their loved ones as gift."
         },
         {
+        "viewCount": 0,
         "category": "bitcoin",  
         "author": "Martin Young",
         "title": "Bitcoin Network Hash Rate Hits New High Over 80EH/s",
@@ -397,6 +412,7 @@ news = [
         Additionally a golden cross formed on the four hour chart yesterday. When the 50 moving average crosses the slower 200 MA, it is a sign of strengthening uptrend which is likely to lead to further gains in the respective time frame."
         },
         {
+        "viewCount": 0,
         "category": "bitcoin",  
         "author": "Lora Strum",
         "title": "Cryptojacking: The Silent, but Insidious Security Threat",
@@ -437,6 +453,7 @@ news = [
         operations."
         },
         {
+        "viewCount": 0,
         "category": "bitcoin",  
         "author": "Tyler Bailey",
         "title": "Your first trade for Thursday, August 8",
@@ -468,6 +485,7 @@ news = [
         TLRY.O, PCLO.V, WMD.V, ZENA.ALP, EMH.V, FLWR.CXX, IIPR.K, ARNA.O, HEXO.TO, VIVO.V, NRTH.V PKI, XLY.V, YCBD US, ALEF.TO"
         },
         {
+        "viewCount": 0,
         "category": "bitcoin",  
         "author": "Ben Brown",
         "title": "Terrifying Global Currency Crisis Explained in 19 Tweets; Why Bitcoin Matters",
@@ -498,6 +516,7 @@ news = [
         put this theory to the test."
         },
         {
+        "viewCount": 0,
         "category": "bitcoin",  
         "author": nil,
         "title": "New IDC Spending Guide Sees Strong Growth in Blockchain Solutions Leading to $15.9 Billion Market in 2023",
@@ -547,6 +566,7 @@ news = [
         to help IT decision makers to clearly understand the industry-specific scope and direction of blockchain spending today and over the next five years."
         },
         {
+        "viewCount": 0,
         "category": "bitcoin",  
         "author": nil,
         "title": "IDX Insights Launches First \"Smart Beta\" Crypto Index",
@@ -587,6 +607,7 @@ news = [
         managed accounts technology to power SS&C Advent's integrated unified managed account solution."
         },
         {
+          "viewCount": 0,
           "category": "Top business headlines",
           "author": "Brian Schwartz",
           "title": "Mike Pompeo tells business execs, economists that he thinks the China trade war could end by 2020 election - CNBC",
@@ -609,6 +630,7 @@ news = [
           The meeting was organized by the “Committee to Unleash Prosperity,” whose founders include Moore, former Reagan administration economist Art Laffer and former presidential candidate Steve Forbes. Catsimatidis is a member of the group."
           },
           {
+          "viewCount": 0,
           "category": "Top business headlines",
           "author": "Tsvetana Paraskova",
           "title": "US Is Now Largest Oil… And Gas Producer In The World | OilPrice.com - OilPrice.com",
@@ -629,6 +651,7 @@ news = [
           Despite the growth slowdown, the EIA still expects U.S. crude oil production to set record production levels in 2019 and 2020, at 12.3 million bpd and 13.3 million bpd, respectively."
           },
           {
+          "viewCount": 0,
           "category": "Top business headlines",
           "author": "Lora Kolodny",
           "title": "Walmart sues Tesla over solar panel fires at seven stores - CNBC",
@@ -658,6 +681,7 @@ news = [
           Walmart and Tesla did not immediately respond to requests for comment."
           },
           {
+          "viewCount": 0,
           "category": "Top business headlines",
           "author": nil,
           "title": "Home Depot shares surged, but concerns linger - Yahoo Finance",
@@ -676,6 +700,7 @@ news = [
           and home improvement spending which could hurt retailers like Home Depot and Lowe’s, which will report earnings on Wednesday."
           },
           {
+          "viewCount": 0,
           "category": "Top business headlines",
           "author": nil,
           "title": "Why Powell faces a high bar at this week's Fed conference - Yahoo Finance",
@@ -699,6 +724,7 @@ news = [
           Fed Funds Futures prices indicate that most investors are expecting at least two rate cuts this fall: a 95% chance of a 25-basis-point cut at the FOMC’s September meeting, a 73% chance of another 25-basis-point cut at the October meeting, and 44% odds of one more rate cut or none at all in December."
           },
           {
+          "viewCount": 0,
           "category": "Top business headlines",
           "author": "MinnPost staff",
           "title": "Del Monte closes Sleepy Eye facility; layoffs begin Oct. 2 - MinnPost",
@@ -713,6 +739,7 @@ news = [
           Brady Slater at the Duluth News Tribune outlines MnDOT’s plans to rebuild a cemetery disturbed by a bridge replacement project: “The hillside cemetery was disturbed by the start of the Highway 23 bridge replacement project over Mission Creek. That project has long since been discontinued and will start from scratch following the end of rehabilitation efforts at the cemetery, where all displaced dirt will be returned, the slope fortified and the cemetery boundaries defined by the state archaeologist.”"
           },
           {
+          "viewCount": 0,
           "category": "Top business headlines",
           "author": "Tim Rogers",
           "title": "Uber Likes Us! They Really Like Us! But Hang On … - D Magazine",
@@ -736,6 +763,7 @@ news = [
           I propose committing $10 million to $15 million to make it happen.”"
           },
           {
+          "viewCount": 0,
           "category": "Top business headlines",
           "author": nil,
           "title": "Accounting Fraud Watch: Disney's Magic (Accounting) Kingdom and Ex-SEC Chief 'Suspicious' of GE Report - Going Concern",
@@ -766,6 +794,7 @@ news = [
           “refused to see the issues they knew about” would take a lot to prove."
           },
           {
+          "viewCount": 0,
           "category": "Top business headlines",
           "author": nil,
           "title": "YouTube Plans to End Targeted Ads on Videos Aimed at Kids - Bloomberg",
@@ -798,6 +827,7 @@ news = [
           Jeff Chester, executive director of Center for Digital Democracy, another complainant, said that if the FTC settlement only forced YouTube to curb targeting, his group would likely challenge the decision."
           },
           {
+          "viewCount": 0,
           "category": "Top business headlines",
           "author": "Andy Meek",
           "title": "Huawei’s founder just sent a desperate but brutal memo to workers - BGR",
@@ -822,6 +852,7 @@ news = [
           fat and any unnecessary workers and layers of management. “In 3-5 years time, Huawei will be flowing with new blood,” the memo declares. “After we survive the most critical moment in history, a new army would be born. To do what? Dominate the world.”"
           },
           {
+          "viewCount": 0,
           "category": "Top business headlines",
           "author": "https://www.theindychannel.com/tom-maccabe",
           "title": "Hancock County's Elanco acquires animal health rival - WRTV Indianapolis",
@@ -842,6 +873,7 @@ news = [
           The deal is subject to government approval."
           },
           {
+          "viewCount": 0,
           "category": "Top business headlines",
           "author": nil,
           "title": "Autonomous vehicle company Waymo to test in SW Florida rain - Fox 4",
@@ -857,6 +889,7 @@ news = [
           The company has delayed a full-scale driverless ride-hailing service in the Phoenix area."
           },
           {
+          "viewCount": 0,
           "category": "Top business headlines",
           "author": "AJ Willingham, CNN",
           "title": "Brands are beefing about who has the best chicken sandwich, and it's a mess - CNN",
@@ -875,6 +908,7 @@ news = [
           Yes, one could pack plenty of socioeconomic insight into the Chicken Sandwich Discourse if it were given a chance to rise above the faux-squabbling throng of fast food social media directors. But one does not want to think about chicken sandwiches that much.  "
           },
           {
+          "viewCount": 0,
           "category": "Top business headlines",
           "author": "Rachel Premack, Business Insider",
           "title": "Truckers voted for Trump in droves. Now they say his trade war is 'killing' their ability to make a living. - INSIDER",
@@ -907,6 +941,7 @@ news = [
           You can not bully your way to a good economy, Coffman said."
           },
           {
+          "viewCount": 0,
           "category": "Top business headlines",
           "author": "Sylvan Lane",
           "title": "Bank watchdogs approve rule to loosen ban on risky Wall Street trades | TheHill - The Hill",
@@ -932,6 +967,7 @@ news = [
           FDIC Chairwoman Jelena McWilliams, who was appointed by Trump, said the new rule “will provide more clarity, certainty, and objectivity around the Volcker Rule, while tailoring the requirements to focus on those banks that conduct the overwhelming majority of trades.”"
           },
           {
+          "viewCount": 0,
           "category": "Top business headlines",
           "author": "Catie Keck",
           "title": "Generic Version of Life-Saving EpiPen for Children Is Finally Hitting the Shelves - Gizmodo",
@@ -949,6 +985,7 @@ news = [
           “With steady increases in food allergies and other serious allergic conditions, families are relying on EpiPens more than ever before,” State Senator Julie Morrison said of the move. “We should be doing everything we can to expand access to affordable lifesaving drugs and medicines. No child with a serious allergy should be without an epinephrine injector because they cannot afford one.”"
           },
           {
+          "viewCount": 0,
           "category": "Top business headlines",
           "author": nil,
           "title": "181 Top CEOs Have Realized Companies Need a Purpose Beyond Profit - Harvard Business Review",
@@ -970,6 +1007,7 @@ news = [
           The authors would like to acknowledge their partnership with the Great Places to Work Institute on this research initiative, and specifically the support of Ed Frauenheim and Marcus Erb at the Institute."
           },
           {
+          "viewCount": 0,
           "category": "Top business headlines",
           "author": "Makena Kelly",
           "title": "The Justice Department is working with states on tech investigation, antitrust chief says - The Verge",
@@ -986,6 +1024,7 @@ news = [
           Delrahim also touched on whether antitrust law could be used to address concerns Republicans have voiced over the past few months regarding alleged “conservative bias” on platforms. “It depends if it’s a competition question,” Delrahim told reporters. “If you have more competition, consumers may have different outlets to go to when a particular quality of a company may not be to their liking.”"
           },
           {
+            "viewCount": 0,
             "category": "Apple",
             "author": "David Murphy",
             "title": "How to Jailbreak Your iOS 12.4 iPhone or iPad",
@@ -1005,6 +1044,7 @@ news = [
             We never said jailbreaking was easy. However, this is the price you pay for hacking your iPhone or iPad to run whatever you want. If you’re having trouble getting the jailbreak to work, I recommend checking out the incredibly healthy community over at /r/jailbreak, which might be able to answer any questions you have (assuming someone else hasn’t also encountered any bugs you’re seeing)."
             },
             {
+            "viewCount": 0,
             "category": "Apple",
             "author": "Alice Bradley",
             "title": "How to Stop Feeling Like an Impostor, With Psychologist Jessamy Hibberd",
@@ -1019,6 +1059,7 @@ news = [
             For Alice, it’s the chrome extension TabSnooze. For Melissa, it’s the library app Libby. Do you have an upgrade you need to tell the world about? Send an email or voice memo to upgrade@lifehacker.com. We might just share your message on the podcast."
             },
             {
+            "viewCount": 0,
             "category": "Apple",
             "author": "Josh Ocampo",
             "title": "How to Dispose of a Broken Pair of Headphones",
@@ -1041,6 +1082,7 @@ news = [
             Instead, if you’re able to, invest in a good pair of headphones like those from Sennheiser or Sony any other brand over the cheap ones you might find at a drug store; you might end up spending more to replace those cheap headphones. But don’t buy a pair that cost you $2,250. That’s just dumb."
             },
             {
+            "viewCount": 0,
             "category": "Apple",
             "author": "Brendan Hesse",
             "title": "Here's Every Device You Can Use to Stream Disney+",
@@ -1067,6 +1109,7 @@ news = [
             or how the service stacks up to competitors like Hulu and Netflix, check out our comparison guide and our round-up of all the shows and movies that will be streamable when the platform launches later this year."
             },
             {
+            "viewCount": 0,
             "category": "Apple",
             "author": "Edgar Alvarez",
             "title": "Disney+ will have apps for iOS, Apple TV, Android and Xbox One",
@@ -1091,6 +1134,7 @@ news = [
             We'll likely learn even more about Disney+ later this week, when the D23 Expo kicks off on August 23rd in Anaheim, California."
             },
             {
+            "viewCount": 0,
             "category": "Apple",
             "author": "Lily Hay Newman",
             "title": "You Can Jailbreak Your iPhone Again (But Maybe You Shouldn’t)",
@@ -1127,6 +1171,7 @@ news = [
             Whether you take the risk of jailbreaking your iPhone today or not, it seems like lately Apple is the one living on the edge."
             },
             {
+            "viewCount": 0,
             "category": "Apple",
             "author": "Chris Welch",
             "title": "Disney+ will stream on these devices at launch",
@@ -1145,6 +1190,7 @@ news = [
             We’ll likely see and hear more about Disney+ this week at Disney’s D23 conference. The app will feature dedicated sections for each of Disney’s major brands, support offline downloads, and stream select content in 4K HDR."
             },
             {
+            "viewCount": 0,
             "category": "Apple",
             "author": "Brian Heater",
             "title": "Trump and Tim Cook talked easing tariffs again",
@@ -1162,6 +1208,7 @@ news = [
             Apple, meanwhile, recently touted investments involved in “creating and supporting 2.4 million US jobs across all 50 states.”"
             },
             {
+            "viewCount": 0,
             "category": "Apple",
             "author": "Anthony Ha",
             "title": "Watch the trailer for the Apple TV+ drama ‘The Morning Show’",
@@ -1180,6 +1227,7 @@ news = [
             have an announced price or launch date), but Apple has a lot more content in the works."
             },
             {
+            "viewCount": 0,
             "category": "Apple",
             "author": "Darrell Etherington",
             "title": "MIT built a better way to deliver high-quality video streams to multiple devices at once",
@@ -1206,6 +1254,7 @@ news = [
             having to require any changes on the part of users."
             },
             {
+            "viewCount": 0,
             "category": "Apple",
             "author": "Steve O'Hear",
             "title": "HPE Growth backs WeTransfer in €35M secondary funding round",
@@ -1227,6 +1276,7 @@ news = [
             The company has 185 employees in total, with about 150 in Amsterdam and the rest across its U.S. offices in LA and New York."
             },
             {
+            "viewCount": 0,
             "category": "Apple",
             "author": "Victoria Song",
             "title": "Apple's Borked iOS Update Leads to New Jailbreak and Vulnerable iPhones",
@@ -1249,6 +1299,7 @@ news = [
             app could have a copy of the jailbreak in it.”"
             },
             {
+            "viewCount": 0,
             "category": "Apple",
             "author": "Adam Clark Estes",
             "title": "So What Did Amazon Do to Piss Off Disney This Time?",
@@ -1277,6 +1328,7 @@ news = [
             Chromecast, Android, Android TV, Microsoft Xbox One, Sony PlayStation 4, Roku set-top boxes, and Roku TVs."
             },
             {
+            "viewCount": 0,
             "category": "Apple",
             "author": "Whitney Kimball",
             "title": "Why These Social Networks Failed So Badly",
@@ -1443,6 +1495,7 @@ news = [
             but it left a generation of stories riddled with dead links."
             },
             {
+            "viewCount": 0,
             "category": "Apple",
             "author": "Chia-Chia Lin",
             "title": "The Season When Fruit Consumes Us",
@@ -1480,6 +1533,7 @@ news = [
             and saw him beaming on the highest rung of the ladder. He wobbled atop our paradise."
             },
             {
+            "viewCount": 0,
             "category": "Apple",
             "author": "Miller Kern",
             "title": "Best back-to-school sales this week: MacBook, Tile, Herschel, and more",
@@ -1495,6 +1549,7 @@ news = [
             As much as you want to hold onto your backpack from last year, you probably need to upgrade to a new one with fewer holes and pen markings. While you're at it, make sure to buy all the essentials that go in a backpack, like notebooks, binders, pencils, and more."
             },
             {
+            "viewCount": 0,
             "category": "Apple",
             "author": "Marcus Gilmer",
             "title": "Spotify's Premium Family Plan lets parents block explicit content",
@@ -1508,6 +1563,7 @@ news = [
             Spotify is adding a few other options to the Premium Family Plan, as well, including the Family Mix, which the company describes as a personalized playlist packed with songs the whole family enjoys. So, 100 Billy Joel songs? Got it!"
             },
             {
+            "viewCount": 0,
             "category": "TechCrunch",
             "author": "David Teten",
             "title": "Why are revenue-based VCs investing in so many women and underrepresented founders?",
@@ -1601,6 +1657,7 @@ news = [
             Note that none of the lawyers quoted or I are rendering legal advice in this article, and you should not rely on our counsel herein for your own decisions. I am not a lawyer. Thanks to the experts quoted for their thoughtful feedback."
             },
             {
+            "viewCount": 0,
             "category": "TechCrunch",
             "author": "David Teten",
             "title": "Should your new VC fund use revenue-based investing?",
@@ -1620,6 +1677,7 @@ news = [
             Shorter duration, i.e., faster time to liquidity. Typically RBI VCs get their capital back within 3 to 5 years."
             },
             {
+            "viewCount": 0,
             "category": "TechCrunch",
             "author": "Megan Rose Dickey, Ingrid Lunden",
             "title": "DoorDash acquires autonomous driving startup Scotty Labs",
@@ -1642,6 +1700,7 @@ news = [
             As technology becomes a key way for the crowded arena of delivery startups to differentiate themselves, investing in its own autonomous tech R&D — by way of picking up some of these disparate startups that may have struggled to survive on their own — is one way for DoorDash to build out that tech cred."
             },
             {
+            "viewCount": 0,
             "category": "TechCrunch",
             "author": "Brian Heater",
             "title": "Timbuk2’s Parker is a commuter backpack made for the long haul",
@@ -1668,6 +1727,7 @@ news = [
             At $219, the Parker is considerably pricier than the Authority ($129), but it’s got more than enough space and is built to last."
             },
             {
+            "viewCount": 0,
             "category": "TechCrunch",
             "author": "Kirsten Korosec",
             "title": "Walmart sues Tesla for negligence after multiple solar panel fires",
@@ -1692,6 +1752,7 @@ news = [
             Tesla announced plans to merge with SolarCity in 2016 in a controversial all-stock $2.6 billion deal that closed in November of that year."
             },
             {
+            "viewCount": 0,
             "category": "TechCrunch",
             "author": "Anthony Ha",
             "title": "YC-backed Stoic is a journaling app with a focus on understanding your feelings",
@@ -1714,6 +1775,7 @@ news = [
             The basic app is free, but Stoic charges $27.99 per year for a premium version that includes iCloud syncing and additional content."
             },
             {
+            "viewCount": 0,
             "category": "TechCrunch",
             "author": "Mark Minevich",
             "title": "The American AI Initiative: A good first step, of many",
@@ -1767,6 +1829,7 @@ news = [
             solving the brass-tax issues in our country’s society, it will come as a result of the convergence of government, society and business."
             },
             {
+            "viewCount": 0,
             "category": "TechCrunch",
             "author": "Devin Coldewey",
             "title": "Researchers look into keeping autonomous vehicles from becoming mobile vomitoriums",
@@ -1800,6 +1863,7 @@ news = [
             Certainly if they get to the bottom of it, I (and all of you out there like me) will be much more likely to use an AV for my daily commute."
             },
             {
+            "viewCount": 0,
             "category": "TechCrunch",
             "author": "Zack Whittaker",
             "title": "MoviePass exposed thousands of unencrypted customer card numbers",
@@ -1847,6 +1911,7 @@ news = [
             exposed backend database belonging to Blind, an anonymity-driven workplace social network, exposing private user data."
             },
             {
+            "viewCount": 0,
             "category": "TechCrunch",
             "author": "Devin Coldewey",
             "title": "Waxed canvas bags from Waterfield, Manhattan Portage, Saddleback and more",
