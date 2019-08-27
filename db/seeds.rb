@@ -1,9 +1,9 @@
-Highlight.destroy_all
-Scrapbook.destroy_all
-Note.destroy_all
-User.destroy_all
-Scrapbooknews.destroy_all
-News.destroy_all
+# Highlight.destroy_all
+# Scrapbook.destroy_all
+# Note.destroy_all
+# User.destroy_all
+# Scrapbooknews.destroy_all
+# News.destroy_all
 
 users = [
   {name: "Admin", username: "o", img_url: "https://www.shareicon.net/download/2015/08/14/84875_add_512x512.png", password_digest: "123"}
