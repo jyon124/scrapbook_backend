@@ -11,4 +11,10 @@ class NewsController < ApplicationController
       render json: @news
     end
 
+    def update
+      @news = News.find_by(id: params['id'])
+      @news.update(viewCount: params['viewCount'])
+      render json: @news
+    end
+
 end
