@@ -1,14 +1,5 @@
-# Highlight.destroy_all
-# Scrapbook.destroy_all
-# Note.destroy_all
-# User.destroy_all
-# Scrapbooknews.destroy_all
-# News.destroy_all
 
-# users = [
-#   {name: "Admin", username: "o", img_url: "https://www.shareicon.net/download/2015/08/14/84875_add_512x512.png", password_digest: "123"}
-# ]
-# users.each {|user| User.create(user)}
+# 999 All
 
 # news = [  
 #         {
@@ -1998,374 +1989,822 @@
 #             }
 # ]
 
-news = [
-  {
-  "viewCount": 0,
-  "category": "bitcoin",
-  "author": "Tyler Durden",
-  "title": "It's Lightbulb Liberation Day",
-  "description": "It's Lightbulb Liberation Day Authored by Jeffrey Tucker via The American Institute for Economic Research, The Department of Energy is putting down its guns and withdrawing troops in the war on the incandescent bulb that began in 2007. It’s pretty late in the…",
-  "url": "https://www.zerohedge.com/news/2019-09-07/its-lightbulb-liberation-day",
-  "urlToImage": "https://zh-prod-1cc738ca-7d3b-4a72-b792-20bd8d8fa069.storage.googleapis.com/s3fs-public/styles/max_650x650/public/2019-09/lightbulb.jpg?itok=lkBAmFbb",
-  "publishedAt": "2019-09-07T21:10:00Z",
-  "content": "The Department of Energy is putting down its guns and withdrawing troops in the war on the incandescent bulb that began in 2007. It’s pretty late in the day; the last factory to make them in the U.S. shut down in 2010. It’s hard to find them in a store, in which case: thank goodness for Amazon! 
-    Still, the damage can be reversed. Our houses can again be warm and beautiful, and legally. You can turn on the lights in the morning and not have your eyes lacerated by blindingly fake electric “light.” As the Wall Street Journal summed up the current moment: “If you like old-fashioned incandescent light bulbs, you can keep buying them.”As a huge fan of Ayn Rand’s short novel Anthem, the liberation of the light bulb means so much to me. It was published in 1937 but mostly drafted in the 1920s in Russia. In the dystopian story, a cruel government committee comes down hard on a young man who has re-discovered the light bulb. They condemn him for daring to think for himself and presuming to override the planned poverty of the social order. This society ruled by the total state is perfectly happy with its candles, and desires that no steps forward can be taken that are not explicitly approved by the ruling class.
-    Ayn Rand used the example of the light bulb because it is such a great symbol of the power of the human mind. It is within our power to harness the energy that comes from the heavens. “The power of the sky can be made to do men’s bidding,” observes the Anthem protagonist. “There are no limits to its secrets and its might, and it can be made to grant us anything if we but choose to ask.”
-    As Murray Rothbard observed, riffing on Rand’s insight, the light bulb finally freed humanity from having to defer to the earth’s rotations to determine work hours. It allowed night baseball, made our highways safer, and put civilization on a 24/7 basis. The light bulb means much more than what it is in its physical essence. It was the dawn of humankind’s mastery of the world.
-    A few years ago, I was contemplating Rand’s novel and looked up at my ceiling fan. Three glorious incandescent bulbs were lighting up the room in a warm glow. These particular bulbs lacked blue and white frosting. The glass was clear and the curved filament burned like a miniature flame. And yet that flame is caged and is made to be a servant of human dreams and aspirations. The deeper story is about a thoroughly insidious attempt by bureaucracies together with a gaggle of politicians to ban the light bulb as we’ve always known it. In other words, it’s the plot of Anthem lived in real time. 
-    It all began with the Energy Independence and Security Act of 2007, which called for a phaseout of the incandescent bulb by 2012 (variously amended by Congress to push out the deadline). The law banned light bulbs by wattage but not by name. In practice, it meant death for the kind of light we’ve enjoyed since the 19th century.
-    Gone from the shelves were the incandescent bulbs of 100 watts. Then it got worse as 40- and 60-watt incandescent light bulbs were killed off. Factories that once produced them were shut. 
-    Once you dig more deeply, you find something remarkable: there was no scientific basis for this ban at all. Consider the ten-years ago analysis of Howard Brandston, a fellow of the Illuminating Engineering Society of North America and the brains behind the refurbishment of the Statue of Liberty in the 1980s.
-    Brandston argued that the government’s metric of lumens-per-watt was completely bogus. It doesn’t consider the quality of light for a room. It doesn’t consider the costs of making replacements or the environmental danger of more “efficient” bulbs (fluorescent bulbs contain mercury), and doesn’t consider the whole reason we have lightbulbs to begin with: to light up a space. It focuses on one narrow point at the expense of all these broader considerations. “The calculations used by the government and others promulgating or promoting the use of compact fluorescents,” he said, “is strictly mathematical conjecture and has nothing to do with reality.” That rings true to me. So how can the consumer tell which are the best bulbs? Brandston says that a person’s subjective judgment, tempered by a consideration of how long bulbs last, is more than enough. You don’t need bureaucracies and you don’t need experts.
-    But even if the new bulbs are awful, don’t they save energy? Brandston said: “hoping that lighting is going to make a major contribution borders on ridiculous. …We’d be better off promoting occupancy sensors and dimming controls and recommending all dimmers be set to only provide 95 percent of the power to the light sources.” Why did the government do this to us? It fits with everything else about federal policy for the last 60 years. It seems to have put the goal of increasing human misery as a main policy goal. This is why our toilets, faucets, detergent, and washers have been wrecked with water-use controls–even though none of these policies make a significant difference in overall water usage. Just look at what government has done to our bathrooms. 
-    It’s why we are pushed to recycle even though no one has ever demonstrated that the mandates help the environment. It’s why we are taxed on things we want to do like drive cars. It’s why we can no longer medicate ourselves in normal ways without a doctor’s permission. It’s why we must endure hectoring lectures from public officials about fast food, sweets, and our trash generation.
-    What do all these policies have in common? They target things that we enjoy and that make our life better, then force on us inferior products and services. It’s the penance we must do in the interest of the common good — and never mind whether the common good is actually enhanced in real life.
-    Which gets us back to Ayn Rand and the light bulb. She had a prophetic way of seeing the truth about government. She grew up under a regime that promised heaven on earth but ended up making a hell for everyone not part of the ruling class. She saw that governments could not produce imaginative goods and would eventually fall back on celebrating the poverty and destruction they cause — and inventing an ethic of sacrifice for the whole as a means of covering up their crimes. If you don’t go along, you are an enemy of the people.
-    It’s rather incredible that we have come full circle. Just as in Anthem, the U.S. government actually almost banned the light bulb as we’ve known it. Just think about the awesome implications of that and ask yourself why we put up with it.
-    On a personal note, my own dear mother replaced all her incandescents with fluorescents several years ago. I was sitting in her house feeling vaguely irritated by the searing lights in the room—cold and dreary—and had to turn them off.
-    Sitting in the dimly lit room, my thought was: This is what the government has done to us. A great invention from the dawn of modernity is being driven out of use. Do I have to bring my own candles next holiday season?
-    Why should governments be in the position of deciding what technologies can and cannot be used, as if consumers are too stupid to make such decisions for themselves? Who is to decide what is efficient, and what the proper tradeoff should be between the energy expended and the light produced? More fundamentally, why should governments be in the business of picking right and wrong technologies at all?
-    There is a grave cost to regulation and it’s not just about freedom itself. It’s about experimentation and innovation. A vast regulatory apparatus on cell phone technology in 1990 could never have imagined something like a modern smartphone. Regulations on digital commerce in 2000 might have stopped the rise of peer-to-peer services like Uber. Bitcoin is another example of a technology that blasted through the nationalization of money to show us something entirely new. 
-    Indeed, one of the reasons that the digital world was so innovative until a few years ago was precisely because the regulators were not yet caught up with the pace of innovation. That’s probably changing with the new antitrust push. 
-    Regulations on technology freeze the status quo in place and make it permanent. In government, a ban is a ban, something to be enforced, not tweaked according to new discoveries and approaches. Regulatory interventions stop the progress of history by disabling the limitless possibilities of the human imagination.
-    We live in times without much good news in politics. Let’s at least take the weekend to celebrate the embrace of progress, acquiescence to the wisdom of markets, the new freedom found for this hugely important symbol of humankind’s triumph over the poverty of nature."
-  },
-  {
-  "viewCount": 0,
-  "category": "bitcoin",  
-  "author": "Nick Chong",
-  "title": "Crypto Tidbits: PWC Branch Accepts Bitcoin, Ethereum Istanbul Pushed, Apple Talks Cryptocurrency",
-  "description": "Another week, another of Crypto Tidbits. At long last, the Bitcoin price saw some bullish action this week, gaining some 10% over the past seven days according to Coin360.io. While BTC is trading 4% lower from its weekly highs, analysts are starting to believ…",
-  "url": "https://www.newsbtc.com/2019/09/07/crypto-tidbits-pwc-branch-accepts-bitcoin-ethereum-istanbul-pushed-apple-talks-cryptocurrency/",
-  "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2019/09/shutterstock_739595833-1200x780.jpg",
-  "publishedAt": "2019-09-07T21:00:09Z",
-  "content": "Another week, another of Crypto Tidbits. At long last, the Bitcoin price saw some bullish action this week, gaining some 10% over the past seven days according to Coin360.io. While BTC is trading 4% lower from its weekly highs, analysts are starting to believe that the trend for the cryptocurrency market is finally pointing upward again, with the 35% correction seen in July and August seemingly having ended.
-  The fundamentals support the idea that the “bull is back on”, with there being a smattering of positive crypto and blockchain developments observed over the past week. They, along with some not so positive news events, are as follows.
-  Bitcoin & Crypto Tidbits: Bakkt Starts to Custody Bitcoin Ahead of Futures Launch: This week, Bakkt finally launched its Bitcoin custody product, giving institutions a way to securely store their BTC via the new platform. “Today our Warehouse opens for customer bitcoin deposits and withdrawals as we prepare for the Bakkt Bitcoin Daily & Monthly Futures, launching September 23. The availability of physical delivery brings more flexibility in managing bitcoin exposure,” the platform announced in a recent tweet.
-  Ethereum Istanbul Testnet Integration Pushed Back: Sorry Ethereum fans, Istanbul hasn’t happened yet. The upgrade (or at least the testnet iteration), which is expected to bring the popular blockchain a number of improvements and changes, was recently pushed back by the core developer team. According to CoinDesk, Hudson Jameson, a community manager at the Ethereum Foundation, told developers in a call on Friday that Istanbul’s testnet activation date will be pushed to October 2nd from the original tentative September 4th date. According to the developers, the later date is due to an influx of Ethereum Improvement Protocols submitted for review for the upgrade.
-  Federal Reserve Chairman Jerome Powell Drops Comment on Crypto: In a meeting in Switzerland sponsored by the Swiss Institute of International Studies, Federal Reserve Chair Jerome Powell touched on the topic of cryptocurrency. He stated, presumably in response to moves from China to launch a digital currency of its own, that his organization is not “actively considering” its own cryptocurrency. Powell then touched on Libra, remarking that the Facebook-backed project has the ability to become “systematically important very quickly.” Powell didn’t touch on the regulation of Bitcoin.
-  VanEck Launches Institutional-Centric Bitcoin Product: On Tuesday, VanEck Securities Corp. and SolidX Management LLC, two pro-crypto firms that are behind a leading Bitcoin exchange-traded fund (ETF) application, revealed that they were going to be proactive, launching a workaround product. According to Bloomberg, they said that by utilizing a certain rule of a historical securities act, the duo would be able to issue shares in the VanEck SolidX Bitcoin Trust to qualified institutional investors. VanEck’s head of ETF product, Ed Lopez, is hopeful that institutional demand for Bitcoin will materialize in demand for this new “clear” product.
-  China Confirms ‘Deets’ About Centralized Crypto: Speaking of central banks, an official of the People’s Bank of China purportedly stated that the new centralized crypto will be supported across major e-payments platforms, including WeChat Pay and Alipay. Mu Changchun added that the tokens are effectively digital versions of the yuan.
-  Social Media Giant Telegram Continues Blockchain Launch: Social media giant Telegram continues to roll out its own blockchain. The firm recently released the code for running a node for the blockchain, dubbed the Telegram Open Network (TON). Developers can begin launching full nodes, validator nodes, and blockchain explorers for the product, according to a report from CoinDesk.
-  Samsung Launches a Crypto-Centric Iteration of Galaxy Note 10: According to a Wall Street Journal Article published Thursday, South Korean technology behemoth Samsung is launching an iteration of its flagship smartphone — the Galaxy Note 10 — centered around crypto and blockchain. Dubbed the “KlaytnPhone”, a name attributed to the device in reference to social media firm Kakao’s blockchain, the Samsung phone will purportedly only be sold in South Korea. It, the report states, is effectively identical to the stock Note 10. But, it will sport a pre-installed crypto wallet and certain blockchain applications. Also, owners of the device will purportedly be sent some of the Klay cryptocurrency (too bad it’s not Bitcoin, eh?), the currency of Klaytn.
-  Binance Launches USD-Backed Stablecoin: This week, Binance revealed that it would be launching its own flagship stablecoin, Binance USD (BUSD), which is slated to be pegged 1:1 to the U.S. dollar. For now, the stablecoin will be built on Ethereum and will be created by Binance in collaboration with Paxos. The duo claims that they have received approval from the New York State Department of Financial Services (NYDFS), making BUSD available for New York investors.
-  Apple Sees Potential in Cryptocurrency, Yet Unlikely to Take the Plunge Yet: Speaking to CNN, Apple finds cryptocurrency “interesting” — whatever that means. Jennifer Bailey, vice president at Apple Pay, explained in an interview that the topic has “interesting long-term potential”, but added that right now, Apple’s digital payments ecosystem is only focused on “what consumers are using today”. While this statement was short and seemingly forcefully nebulous, Bailey seems to be hinting that should digital assets gain enough traction, Apple may delve into the crypto game.
-  PWC’s Luxembourg Branch Now Accepts BTC: On Monday, PricewaterhouseCoopers (PWC) — one of the “Big Four” companies — revealed that one of its regional divisions, Luxembourg, will be accepting payments made in Bitcoin, marking a small yet positive step forward in the adoption cycle of cryptocurrency."
-  },
-  {
-  "viewCount": 0,
-  "category": "bitcoin",
-  "author": "Cointelegraph By Joeri Cant",
-  "title": "Crypto News From the German-Speaking World: Sept. 2–8 in Review",
-  "description": "From Cointelegraph auf Deutsch: Germany announces additional crypto regulations, Switzerland adds a new blockchain hub and Austrian scammers use fake celebrity ads",
-  "url": "https://cointelegraph.com/news/crypto-news-from-the-german-speaking-world-sept-28-in-review",
-  "urlToImage": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85ZDM4MTA2MjFmYzM3YTUxZGI1NGY3ZGZmZTAyNDhlOS5qcGc=.jpg",
-  "publishedAt": "2019-09-07T20:57:00Z",
-  "content": "The German-speaking world continues to see lots of developments in the crypto industry, with the German government clarifying proposed regulations, Switzerland adding a new blockchain hub, while Bitcoin (BTC)-scammers are using Austrian celebrities in fake crypto ads.
-  Here is the past week of crypto and blockchain news in review, as originally reported by Cointelegraph auf Deutsch.
-  German government explains proposed regulations for crypto wallets and exchanges
-  Cointelegraph auf Deutsch reported on Sept. 3, that, in reply to a request by the Free Democratic Party, the German Federal Government announced further details on planned regulations for cryptocurrency exchanges and wallet providers. The government states that crypto firms will be subject to regulatory requirements under the country’s banking act.
-  German regulator bans trading platform from offering contracts for difference
-  The German Federal Financial Supervisory Authority (BaFin) has asked Ivory Group Limited, which is the operator of trading platform TradeToro.com, to stop cross-border trading in contracts for differences (CFDs) on currency pairs and cryptocurrencies. Per the regulator, the firm did not have the necessary licenses to conduct business in CFDs. 
-  Swiss canton of Schwyz intends to become a new blockchain hub
-  The Swiss canton of Schwyz, together with service provider Blockchain Propulsion, intends to become a new blockchain hub, much like the Crypto Valley in Zug. A newly founded Propulsion Hub in the canton aims to support the blockchain ecosystem in Switzerland.
-  Blockchain Propulsion opened its doors in in Pfäffikon, which is the economic center of the canton of Schwyz with the lowest tax burden for companies and individuals.
-  Crypto-scammers use Austrian news anchors as bait
-  Crypto-fraudsters are reportedly using fake online ads with well-known personalities to lure potential victims into cryptocurrency scams. The scams provide links to purported investment schemes and binary options scams. 
-  Austrian news anchor Armin Wolf took to Twitter to describe the investment recommendations using his name as fake and a real mess. Wolf tweeted, “I do not advertise (would also be prohibited by the ORF law). And I give no investment tips, neither for bitcoins nor for other extremely speculative (or other) investments.”
-  IOTA Foundation publishes perspective on smart cities
-  On Sept. 5, the IOTA Foundation — a non-profit organization for blockchain development — published its 19-page study Towards Open & Transparent Cities which shares IOTA’s perspectives on the current concepts for smart city projects and the future challenges in which IOTA could play a major role.
-  IOTA states that a range of nascent technologies like distributed ledgers, artificial intelligence and the internet of things will improve municipal operations in transportation, lighting systems, waste management and other areas.
-  Currently IOTA is collaborating with Taiwan's capital Taipei and with the European Commission-sponsored CityxChange project to further study the idea of smart cities."
-  },
-  {
-  "viewCount": 0,
-  "category": "bitcoin",
-  "author": "Kiril Nikolaev",
-  "title": "3 Solid Reasons Why Ethereum Looks Stronger Than Ever",
-  "description": "Critics have been trying to spread fear, uncertainty, and doubt on the No. 2 cryptocurrency in light of its scaling issues. It’s true that Ethereum is struggling with congestion as network utilization is above 94 percent. As a result, it becomes costly to run…",
-  "url": "https://www.ccn.com/3-solid-reasons-why-ethereum-looks-stronger-than-ever/",
-  "urlToImage": "https://cdn.ccn.com/wp-content/uploads/2019/09/ethereum-chart-ss-.jpg",
-  "publishedAt": "2019-09-07T20:13:46Z",
-  "content": "Critics have been trying to spread fear, uncertainty, and doubt on the No. 2 cryptocurrency in light of its scaling issues. It’s true that Ethereum is struggling with congestion as network utilization is above 94 percent. As a result, it becomes costly to run applications.
-  Nevertheless, the cryptocurrency’s biggest problem appears to be its source of strength. The network is congested because there are so many developers building decentralized applications (DApps) on the blockchain. In addition, the scaling issue is temporary, as the Ethereum community has a solution with a timeline in place.
-  Ethereum Dominates All Cryptocurrencies in Number of Developers
-  When it comes to the number of developers working on an ecosystem, Ethereum is king of the hill. It is so overwhelmingly dominant in this regard that the runner up is so far behind. According to a recent study by Electric Capital, there are 1,156 monthly average developers. That number is four times greater than the next biggest ecosystem, which is Bitcoin. The study also noted that other ecosystems and crypto networks have fewer than 250 developers.
-  This metric is so important because the cryptocurrency with the highest number of developers is likely the one that has the most value.
-  Ethereum Leads All Platforms in Total DApps
-  Another reason why the Ethereum network utilization is sky high is that it leads all blockchains in total DApps and daily active users. DApp usage has been steadily growing that it’s no wonder that the network is congested. This issue won’t last though, as the Ethereum community is working towards a solution.
-  Introduction of Sharding in Early 2020
-  The Ethereum ecosystem plans to eliminate its scalability issue with a long-term solution in sharding. Simply put, sharding breaks up the blockchain into smaller segments. This will lead to a significant uptick in transaction speed.
-  According to an Ethereum Foundation call, sharding will be launched by January 2020. Hence, we’re a few months away from a monumental development in the Ethereum network. Scott Melker, also known as the Wolf of All Streets, spoke to CCN and shared his stance on the coin. The Texas West Capital trader said: “Price has found support in the green demand zone and is presently working towards breaking descending (dashed) resistance. A move through that line would indicate likely further price appreciation.” Disclaimer: The views expressed in this op-ed are solely those of the author and do not represent those of, nor should they be attributed to, CCN Markets."
-  },
-  {
-  "viewCount": 0,
-  "category": "bitcoin",
-  "author": "Cole Petersen",
-  "title": "Analyst: Bitcoin Caught in Clear Bearish Trading Pattern",
-  "description": "Bitcoin’s recent surge up to highs of over $10,800 drastically shifted the overall market sentiment and had led many investors and analysts alike to believe that BTC was highly likely to move past $11,000. BTC’s subsequent drop from these levels, however, inv…",
-  "url": "https://www.newsbtc.com/2019/09/07/analyst-bitcoin-caught-in-clear-bearish-trading-pattern/",
-  "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2019/09/shutterstock_740633893-1200x780.jpg",
-  "publishedAt": "2019-09-07T19:30:49Z",
-  "content": "Bitcoin’s recent surge up to highs of over $10,800 drastically shifted the overall market sentiment and had led many investors and analysts alike to believe that BTC was highly likely to move past $11,000.
-  BTC’s subsequent drop from these levels, however, invalidated this perceived bullishness, and now a prominent analyst is explaining that Bitcoin is currently trading within a bearish descending triangle on a macro time frame, which may mean that another drop is imminent.
-  Bitcoin Plummets 4%, But Finds Stability Around $10,400 
-  At the time of writing, Bitcoin is trading down nearly 4% at its current price of $10,450, which marks a significant drop from its 24-hour highs of just below $11,000 that were set yesterday.
-  Yesterday’s rejection marks the second time in the past week that it was rejected in the upper-$10,000 region, which may signal that this is an insurmountable resistance level that could send it reeling significantly lower in the near-future. Chonis Trading, a popular crypto analyst on Twitter, explained in a recent tweet that Bitcoin’s daily close yesterday marked a strong rejection of the upper-$10,000 region, which may spell trouble for it in the near-future.
-  “$BTC – daily candle closed with a strong rejection of intraday highs…Middle BB held support when tested…FIB retrace currently at 38.2%,” he noted while pointing to the below chart. Will a Massive Descending Triangle Force BTC Lower?: In recent times many analysts have been pointing to a large triangle formation on Bitcoin’s macro-price chart as one potential catalyst for another massive upwards movement in the near-future, but now one analyst is noting that this triangle is actually a bearish formation. Peter Brandt spoke about this in a recent tweet, explaining that although he is currently long on Bitcoin, it’s currently trading within a descending triangle, which typically results in a downwards break.
-  “Bitcoin meets the definition of a descending triangle. Don’t let newbie chartists tell you different. Right-angled triangles imply (but do not demand) a resolution thru the horizontal boundary,” he noted. Assuming that this triangle is the main impetus that leads Bitcoin’s price action in one direction or another, investors and analysts alike will soon know whether or not it is ready to journey upwards, or if significantly further losses are imminent."
-  },
-  {
-  "viewCount": 0,
-  "category": "bitcoin",
-  "author": "Greg Thomson",
-  "title": "These 3 Altcoins Lost 2 Years of Progress in One Summer",
-  "description": "As Bitcoin continues to put distance between itself and the altcoin market, three ‘major’ altcoins have completed their capitulations to more than, or close to, 2 year lows. In effect, the previous two years hype, price-pumps and progress have been wiped out …",
-  "url": "https://hacked.com/these-3-altcoins-lost-2-years-of-progress-in-one-summer/",
-  "urlToImage": "https://hacked.com/wp-content/uploads/2019/08/Stellar.jpg",
-  "publishedAt": "2019-09-07T18:40:00Z",
-  "content": "As Bitcoin continues to put distance between itself and the altcoin market, three ‘major’ altcoins have completed their capitulations to more than, or close to, 2 year lows.
-  In effect, the previous two years hype, price-pumps and progress have been wiped out over the course of a summer. Most losses were incurred in 2018, but only in the past couple of months has it become apparent that the altcoin market isn’t ready to mindlessly surge again any time soon. 
-  Bytecoin (BCN):
-  On Friday, September 6th the dollar value of Bytecoin (BCN) fell to a 28-month low. The last time BCN was priced at $0.000443 was May 15th, 2017. If you believe in the concept of historic support prices, then it may interest you to know that BCN was priced at one tenth that value just weeks earlier. In other words, any further decreases could be just as sudden and unexpected as its increases were back in 2017. 
-  Stellar (XLM): 
-  Stellar struck a new 22-month low on Friday when it dropped to $0.058315 – a price point not seen since November 28th. As with Bytecoin, Stellar only spent a matter of minutes at the $0.05 range back in 2017, such was the strength of the explosive altcoin surge. Just two weeks prior XLM was priced at $0.02, and two weeks later it was priced at $0.30 – a 1,400% increase.
-  If we assume a full reversion to the price prior to 2017’s surge, that would mean Stellar is headed for a sub-one cent price point. 
-  Zcash (ZEC): 
-  Zcash was last priced at $44.31 on March 15th, 2017 – almost 30 months ago. The BTC price of 416,312 satoshis (0.00416312 BTC) has never been recorded before, and continues to plumb new depths. The only obvious upside for Zcash is that unlike Ethereum, Litecoin etc., ZEC is just 50% drop away from its all-time dollar low. With a 50% drop easily foreseeable by the end of 2019, the Zcash’s historic price supports will truly be put to the test.
-  What’s Next for Altcoins?: 
-  The fates of those three altcoins appear sealed for the immediate future, but what happens beyond that is anyone’s guess. We’ve seen before that some cryptocurrencies need to maintain a certain price point or else risk facing complete liquidation. Others face the prospect of dying out through lack of activity.
-  With other altcoins like Ethereum, Bitcoin Cash and Litecoin still holding on to some of their 2019 values, the question now is how far will they fall. The market has discriminated so far, and holders of these coins should be hoping that it continues to do so.
-  Disclaimer: The author owns Bitcoin, Ethereum and other cryptocurrencies. He holds investment positions in the coins, but does not engage in short-term or day-trading."
-  },
-  {
-  "viewCount": 0,
-  "category": "bitcoin",
-  "author": "Nick Chong",
-  "title": "Inverse Bitcoin Price to Yuan Correlation Sets a New Record",
-  "description": "Over the past few months, a trade war has been raging between the U.S. and China. Throughout this, Bitcoin (BTC) has managed to post stellar gains, rallying by some 100% since the latest leg of this dispute began. While many believe that this is nothing but a…",
-  "url": "https://www.newsbtc.com/2019/09/07/inverse-bitcoin-price-to-yuan-correlation-sets-a-new-record/",
-  "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2019/09/shutterstock_275490581-1200x780.jpg",
-  "publishedAt": "2019-09-07T18:00:48Z",
-  "content": "Over the past few months, a trade war has been raging between the U.S. and China. Throughout this, Bitcoin (BTC) has managed to post stellar gains, rallying by some 100% since the latest leg of this dispute began.
-  While many believe that this is nothing but a coincidence, data is starting to show that the trade war has had a substantial effect on Bitcoin’s dynamic.
-  Bitcoin Trading at Record Inverse Correlation With Yuan:
-  Bloomberg has reported that the 30-day inverse correlation between Bitcoin and the yuan has reached a record low, implying that the trade war has forced Chinese investors to adopt BTC. Speaking to Bloomberg, Dr. Garrick Hileman, the head of Blockchain.com’s research division, explained that this can be verified by the fact that “people in Asia were paying more for Bitcoin than elsewhere when the yuan fell”, looking to certain premiums on platforms like Huobi. Of course, there were some occasions where a negative premium (a discount, to be accurate) was observed in China. Yet Hileman asserts that the negative correlation has much to do with the trade war.
-  If he’s correct, the negative correlation corroborates the whole idea that Bitcoin is a form of “digital gold”, in that it has similar characteristics and price patterns to the precious metal, yet it exists in a digital setting.
-  Not a Safe Haven?:
-  Despite the growing correlation, some have been quick to deny that Bitcoin is acting as a safe haven in the raging trade spat.
-  In a tweet published in the wake of a recent surge in BTC and simultaneous collapse in the Yuan, Peter Schiff wrote that the recent rally isn’t a sign that the cryptocurrency is a beneficiary of “safe haven buying [that is] similar to gold”. Instead, the gold proponent argued that Bitcoin is being bought up by “speculators” betting that investors are searching for a store of value. This comes shortly after he claimed that Bitcoin’s inability to maintain gains in this tumultuous macroeconomic environment is a sign that it has “failed the safe haven test”. As reported by NewsBTC at the time, the fact that Bitcoin failed to hold its gains during a trade war development doesn’t bode well for advocates of BTC being digital gold.
-  Related Reading: Bitcoin Could Follow Gold Fractal With 44% Drop to Under $7,000
-  Of course, the high volume of Tether (USDT) trades — which are widely believed to be completed by Chinese traders — tells a different story. But Schiff has been quite staunch in his belief."
-  },
-  {
-  "viewCount": 0,
-  "category": "bitcoin",
-  "author": "Dean Takahashi",
-  "title": "Akamai: Fortnite ransomware scams should force developers and gamers to think about security",
-  "description": "The game industry is often hit by cybercriminals, and it was no surprise to see the discovery of ransomware that attacks Fortnite players.",
-  "url": "https://venturebeat.com/2019/09/07/akamai-fortnite-ransomware-scams-should-force-developers-and-gamers-to-think-about-security/",
-  "urlToImage": "https://venturebeat.com/wp-content/uploads/2018/08/fortnite-android-9.jpg?w=1200&strip=all",
-  "publishedAt": "2019-09-07T17:25:11Z",
-  "content": "The game industry has long been a target for cybercriminals, and so it was no surprise in the past couple weeks to see the discovery of ransomware that attacks the accounts of Fortnite players.
-  Cybersecurity firm Cyren found a free game hack tool, Syrk, that players download as a way to cheat in the game. But they discover it disables malware defenses and then deletes batches of the users’ files and encrypts them. To un-encrypt them, the player has to pay to receive a password. Akamai also noted that there is a big rise in credential stuffing attacks, where criminals use stolen identities in automated attacks that use brute force to break into accounts. From November 2017 to March 31, 2019, Akamai found 55 billion credential stuffing attacks. Gaming sites saw 12 billion of those attacks. No organization or gamer is immune.
-  Gaming is a target because that’s where the money is today. I recently spoke about this with Nelson Rodriguez, global director of media industry strategy at Akamai.
-  Here’s an edited transcript of our interview.
-  GamesBeat: Can you tell me more about what you’re doing?:
-  Nelson Rodriguez: Talking about the Fortnite scams, I think the key for us to talk about this is that we see it as very much a hygiene story. It’s a security hygiene story. It’s not like there’s much that Epic can do directly about it, or much that Akamai would be doing to prevent it from the perspective of a game, someone installing the wrong kind of software in their computer. I do think, though, that for us this raises the broader issue of what the popularity of games is creating in terms of security risk.
-  You might remember from 10 or 15 years ago, the way folks got access to your computer was often through things like fake security scares or fake security software. Now games are such a rich way in. Players have such an incentive to try to maximize their experience with a game. Really, free-to-play is driving it more than anything. When it was a premium game, premium games didn’t have the mechanics that would encourage you to install some external piece of software to maximize your experience. But for free-to-play games, the way they’re built and designed, they lend themselves to manipulation, or at least the desire for players to have some kind of advantage.
-  That’s relevant to us, what the popularity of games is doing to drive those kinds of threats. We think there is technology that all consumers and all companies should have in place on their computers, to prevent bad software from being installed, and to monitor the way your software is operating and behaving. Data exfiltration, that’s something that is relevant for us. But more than anything, game companies need to look at these trends to see — sure, it wasn’t your game that created this problem, but the popularity of your game is creating this dynamic where players want to go out and gain advantage outside of the game. It’s something everyone has to pay attention to. GamesBeat: Did Akamai take a look at some data here as well, related to the Fortnite ransomware scams?
-  Rodriguez: Our security team took a look to see what the nature of this threat is. We recognized it had nothing to do with the game. It looks a lot like typical ransomware. We look at it not from a statistics point of view, but a technology point of view. There is a stat angle, where game companies are the most attacked companies in the world, more attacked than defense contractors or financial services companies. Gaming companies are a really rich attack surface. That we know from a statistics point of view.
-  From a technology point of view, we recognize that this particular exploit looks a lot like any other data exfiltration exploit. If you can get someone — think of it as a classic phishing scam. If somebody can get you to click on something because you think it’s going to do one thing and it ends up on your machine and does something else, we understand that technology.
-  It’s preventable, particularly in a proper network environment where the network is monitoring — let me step back a second. A lot of what we think about security is outside in. Building a wall — this gets to the concept of zero trust. The historical model is, you build a wall and you make sure nobody can get inside the wall. The trick to that technique is, as soon as somebody gets inside the wall, they have full access to everything.
-  One of the steps to having a zero trust approach to security — first of all, don’t assume the wall is going to protect everyone. Get away from this model of a wall. There is no such thing as a wall. Yes, you have access controls, but don’t assume that those controls will be foolproof. The next thing you have to do is evaluate inside out. Not just what’s trying to get in, but what’s trying to get out. That’s where a lot of these kinds of scams get revealed — if you monitor what is asking for access outside your computer that you didn’t drive, that wasn’t driven by the user. Not just what’s trying to get in, but what’s trying to get out.
-  It’s like those classic horror movies. The killer is inside the house. That’s the thing. It’s not just what’s trying to break in from the outside, but what’s already inside your machine that’s trying to exfiltrate data. From a technical point of view, that’s what’s most interesting about this. Also, it just highlights the fact that having any trust in a login or authentication system is just old-fashioned. Nowadays you have to assume that no machine is safe. You have to be managing security at a machine level with a perspective toward — assume that if someone is logged in, they might already be infected. What are they pulling out? What’s leaving the machine or leaving the network?
-  GamesBeat: Just on the basics, what did we have happen here? We had Fortnite accounts where players invested a lot of money being held hostage for some specific amount of money? They had to pay or lose the account.
-  Rodriguez: Yeah, but the way it was happening is folks were trying to gain advantage. They gave over access to their accounts. It was classic ransomware. GamesBeat: I remember there was one ransomware outbreak when bitcoin was starting to happen. Hospitals were getting attacked because they couldn’t back up their data anywhere else, and bitcoin payments were untraceable, especially in eastern Europe. I guess they’re just building on this style of attack that’s worked elsewhere?
-  Rodriguez: For sure. There are a couple of ways to think of it. You can think of it as a classic con, a classic scam. First, is there some kind of weakness? Is there something somebody wants that they can’t get legitimately? If so, the scammer has the opportunity to offer that. That’s one facet of it. The next facet, is there an untraceable method or an ambiguity that allows the scammer to gain value without having to reveal who they are? That’s the blockchain component here. Being able to do it because you have an untraceable currency is part of what powers that kind of scam.
-  GamesBeat: What are you telling people they should do? Just don’t click on it?
-  Rodriguez: [laughs] One thing is, make sure that you are in a secure network environment. If it’s from work, does your workplace have the right protections in place at the computer level, at the login level, at the network level? That’s one thing to always have in mind. The other is very old-school, but if it seems too good to be true and it’s not being offered by the game publisher, then it’s not something that’s going to work out for you.
-  I know there are secondary markets for all sorts of goods and services in gaming, but the fact is, if it’s not coming from the publisher, you’re opening yourself up to risk. I remember working at Xbox 13 years ago. We had to tell people, “Don’t share your Xbox Live account with anyone.” You can’t share it with your friends. If somebody sends you a message saying they can help you level up in a game, that never ends well.
-  That’s the other thing you have to constantly remind people around. There’s no reason to do it, because in fact a lot of games now are designed well enough so that you can get a lot of value out of it within the game itself. There are all sorts of mechanics beyond just paying that allow you to unlock things. There’s no way to get that done illegitimately in a safe way.
-  GamesBeat: As far as Akamai itself, where are you contributing most here?:
-  Rodriguez: We’re now one of the world’s largest cloud security companies, which is funny if you think about us historically as a CDN. A lot of people think of us as a CDN, and yet we’re one of the largest security providers now. It’s one of our fastest-growing business segments. That means we’ve strongly adopted a zero trust stance, a zero trust philosophy, to our security. We encourage every company to make sure that there are multiple layers of security. You don’t ever make any assumptions that an authenticated or logged-in user is necessarily a safe user who has full access and whose machine or account hasn’t been compromised.
-  We offer products in that category, but we also take a strong stance that there should be multiple layers of authentication, and even once someone is authenticated, that doesn’t mean they should have free access to every aspect of the network or of a given account. There have to be many layers. That’s our position as a security company that serves a lot of big gaming companies. We see ourselves as a consultant in the space. We have a strong opinion around it. It’s part of what we do with the products that we build."
-  },
-  {
-  "viewCount": 0,
-  "category": "bitcoin",
-  "author": "Cointelegraph By Adrian Zmudzinski",
-  "title": "Casa Adds iOS and Android Support for Sats Mobile Wallet",
-  "description": "Bitcoin-focused technology firm Casa announced that its mobile Bitcoin wallet app is now available for both iOS and Android devices",
-  "url": "https://cointelegraph.com/news/casa-adds-ios-and-android-support-for-sats-mobile-wallet",
-  "urlToImage": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xMGJkZThmYmI1N2Q4N2QwY2NhYjViMzc5MDZhM2QxZC5qcGc=.jpg",
-  "publishedAt": "2019-09-07T16:22:00Z",
-  "content": "Bitcoin (BTC)-focused technology firm Casa announced that its Sats mobile Bitcoin wallet app is now available for both iOS and Android devices.
-  Casa announced in a post published on its official blog on Sept. 5 that the mobile wallet is now available for download. Furthermore, Casa notes that the latest version of the app can be used without the company’s hardware Bitcoin Lightning node, but users who do not connect the app to a node do not have access its Lightning Network capabilities.
-  The app supports a public address-naming system dubbed SatsTag. When Bitcoin is sent using a SatsTag, a new address is derived from the receiver’s public key and provided to the sender. Sending by scanning QR codes is still available.
-  The company also claims that the wallet is completely non-custodial and that the user keeps control of their private key — which is saved on the phone’s secure enclave — at all times.
-  The news follows another announcement by the company concerning the release of a node monitor and accompanying rewards program to promote Bitcoin network health.
-  Anemic demand for cryptocurrency apps:
-  As Cointelegraph reported at the end of June, the download count of cryptocurrency-related mobile applications is not increasing despite Bitcoin’s recent price surge. Data from mobile app analytics firm App Annie showed there were 65.8 million cryptocurrency-related app downloads in the first half of 2018, while in the first six months of this year there were 67 million, an increase of only 1.82%."
-  },
-  {
-  "viewCount": 0,
-  "category": "bitcoin",
-  "author": "Kiril Nikolaev",
-  "title": "Analyst Spots Trend Suggesting Incoming Monster Bitcoin Rally",
-  "description": "Many armchair traders are so focused on the short-term price movement of bitcoin that they forget to look at the big picture. For instance, the widely-followed analyst cryptoamd is expecting the dominant cryptocurrency to dump below $10,000 and then be tappin…",
-  "url": "https://www.ccn.com/analyst-spots-trend-suggesting-incoming-monster-bitcoin-rally/",
-  "urlToImage": "https://cdn.ccn.com/wp-content/uploads/2019/09/bitcoin-rally-ss.jpg",
-  "publishedAt": "2019-09-07T15:34:50Z",
-  "content": "Many armchair traders are so focused on the short-term price movement of bitcoin that they forget to look at the big picture. For instance, the widely-followed analyst cryptoamd is expecting the dominant cryptocurrency to dump below $10,000 and then be tapping resistance of $10,500. That’s the trader’s short-term view on the digital asset. It is easy to get lost in short-term price action. However, some traders are resisting the lure of quick money by looking at the longer time frame. One analyst carrying a pseudonymous name “Nunya Bizniz” shared an interesting bitcoin trend on Twitter. It appears that the dominant cryptocurrency has always put together a massive rally following a predictable pattern.
-  Major Pullbacks Tend to Be Healthy for the Uptrend:
-  Analyst Nunya Bizniz looked at the bitcoin weekly chart and pointed out instances where the cryptocurrency had three or more consecutive red weekly candles within an uptrend. In the chart attached to the tweet, you will see how bitcoin rallied higher after a significant correction in the form of three or more weekly candles. Take note, the trend is only applicable whenever the king of cryptocurrencies is uptrending.
-  In addition, Nunya Bizniz appears to have only covered the price action of 2017 to 2019. So we took the liberty to expand the horizon to see whether the pattern holds. We discovered that it does. The green boxes show the number of times bitcoin had three more consecutive weekly candles while in a bull market. All of them were followed by a massive uptrend. 
-  Analyst: Bitcoin to ‘Show Considerable Strength in 2019’:
-  Nunya Bizniz is not alone in the expectation that the No. 1 cryptocurrency will surpass expectations after this correction.
-  President of Maglan Capital David Tawil spoke to CCN and revealed his long-term view on bitcoin: “I expect that it will soon trade to $15,000 and above. There is a lot of volatility in domestic securities markets and many currencies abroad are very weak in the face of a strong dollar. Those fundamentals coupled with an increasing number of businesses and financial institutions adopting blockchain technology and creating tokens will give the sector the necessary bullishness to climb considerably higher.”"
-  },
-  {
-  "viewCount": 0,
-  "category": "bitcoin",
-  "author": "Cointelegraph By Adrian Zmudzinski",
-  "title": "Jack Dorsey: Twitter Has No Interest in Creating Libra-Like Crypto",
-  "description": "Twitter CEO and founder Jack Dorsey says that he has no plans to launch a platform-specific “Twitcoin” cryptocurrency, still bullish on Bitcoin",
-  "url": "https://cointelegraph.com/news/jack-dorsey-twitter-has-no-interest-in-creating-libra-like-crypto",
-  "urlToImage": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84NTEyYTg4MTZkYzMyYjE5YjVmZmFiZjg0NGI2MGY5Yi5qcGc=.jpg",
-  "publishedAt": "2019-09-07T15:23:00Z",
-  "content": "Twitter and Square CEO Jack Dorsey stated that there are no plans for a platform-specific “Twitcoin” cryptocurrency, noting that he will instead focus on promoting Bitcoin (BTC).
-  Open standards are better:
-  According to Australian news outlet The Sydney Morning Herald’s article published on Sept. 5, Dorsey is confident that Bitcoin is still the most likely candidate to beсome the internet's native currency. Twitter CEO noted: “I think open internet standards serve every person better than ones controlled or started by companies.”
-  Nobody understands the global economy:
-  Dorsey visited Melbourne to take part in the launch of Square Terminal, a new point-of-sale hardware device meant to offer an alternative to the ones provided by banks. He also expressed his ideas about banks and the economy in general: “Banks' control, authority and practices are a global phenomenon, but I think it's really acute here in Australia. [...] We're always heading into a recession, and we're always heading out of one, and anyone who offers an opinion on this is fooling themselves. [...] There's no one person on this planet that understands the global economy.” Dorsey also noted that he does not consider the idea of following the example of Facebook’s Libra and releasing a crypto dedicated to Twitter, and that he prefers using existing open standards such as Bitcoin.
-  Bitcoin is the best bet:
-  Square’s mobile payments application CashApp rolled out BTC deposits in June. According to the data released in August, the company has generated $125 million in Bitcoin revenue in Q2 2019. Dorsey praised the first cryptocurrency: “I think [Bitcoin's] the best bet because it's been the most resilient, it's around for 10 years, it has a great brand and it's been tested a bunch. [...] As I look at all cryptocurrencies that could fill that role of being the native currency for the internet, [Bitcoin is] a pretty high probability.” As Cointelegraph reported in August, Square’s cryptocurrency-focused branch Square Crypto hired Blockstream co-founder and Bitcoin developer Matt Corallo."
-  },
-  {
-  "viewCount": 0,
-  "category": "bitcoin",
-  "author": "CBC News",
-  "title": "Scammers pretending to be RCMP target Manitobans, Mounties warn",
-  "description": "Mounties are warning the public of a scam involving phone calls that appear to be coming from the RCMP, but in fact are coming from fraudsters who demand a bitcoin or money transfer.",
-  "url": "https://www.cbc.ca/news/canada/manitoba/rcmp-phone-scam-manitoba-1.5274706",
-  "urlToImage": "https://i.cbc.ca/1.3450623.1566512071!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/811-can-help-navigate-health-care-system.jpg",
-  "publishedAt": "2019-09-07T14:45:27Z",
-  "content": "RCMP say fraudsters are using caller ID spoofing to trick people into thinking calls are coming from RCMP. Manitoba RCMP are warning the public of a scam involving phone calls that appear to be coming from the Mounties — but in fact are coming from fraudsters.
-  Callers are told there is a warrant out for their arrest and they can take care of it by making a bitcoin or money transfer.
-  RCMP said the scammers are using caller ID spoofing, which the Canadian Anti-Fraud Centre describes as a way of disguising phone numbers which appear on caller ID display.
-  The tool allows the fraudsters to make it look like their calls are coming from a local or familiar number, tricking people into answering the phone and trusting the caller. Mounties said the phone number reported was a valid RCMP number — but the calls obviously weren't made by police.
-  We've been made aware of this incident occurring a number of times this past week in Manitoba. The scam is designed to create anxiety so that victims respond by sending money quickly in order to fix the problem, said Cpl. Julie Courchaine.
-  We want to remind the public that the RCMP would never contact individuals through email or telephone to request payment or monetary transfers.
-  RCMP are asking people who have received similar phone calls to contact local police, or the Canadian Anti-Fraud Centre at 1-888-495-8501 or through its online reporting tool."
-  },
-  {
-  "viewCount": 0,
-  "category": "bitcoin",
-  "author": "Robert Stevens",
-  "title": "Binance US to launch in “coming weeks” says CEO",
-  "description": "Despite its upcoming NYDFS-approved stablecoin, the exchange still won’t be available in New York.",
-  "url": "https://finance.yahoo.com/news/binance-us-launch-coming-weeks-132404323.html",
-  "urlToImage": "https://s.yimg.com/ny/api/res/1.2/A1BpBxpvIFJRTBJfAuRAqA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD02NjguNDQ0NDQ0NDQ0NDQ0NQ--/https://s.yimg.com/uu/api/res/1.2/qCkU25uPSvew7l5RlFtXEg--~B/aD00NzA7dz05MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/decrypt_251/6a3271e7b95f14d205545ab8160fa725",
-  "publishedAt": "2019-09-07T13:34:54Z",
-  "content": "Binance US, the American expansion of crypto exchange giant Binance will launch in the “coming weeks”, according to CEO Catherine Coley.
-  Binance US is essentially the same Binance but with the approval of US regulators. Binance never officially operated in the US–but US citizens could still access the service–and has cracked down on US users who still accessed the exchange, in order to appease regulators. 
-  The outpost will be operated by BAM Trading Services—a newly launched company with little information known about it—and run by Coley, who was previously an executive at Ripple. 
-  As part of the deal with regulators, customers will have to pass stringent know-your-customer (KYC) checks to use the exchange. New accounts will require a valid government ID and a social security number. 
-  In a blog post August 9, Binance US said that it’s considering listing 30 tokens on its exchange, including Bitcoin, Ethereum, and Binance’s native token, BNB. 
-  Binance US is still finalizing the list of states it’ll be available in, but we know that it won’t be available in New York since it doesn’t have a BitLicense–the necessary, and expensive, license to operate there. As soon as Binance US finishes working out which states can access the exchange, it will open up KYC onboarding a few days before the launch so that customers can deposit cryptocurrencies and open accounts. 
-  The news follows the launch of US-dollar-pegged stablecoin BUSD Thursday. BUSD has been created in partnership with Paxos, and is backed by the New York Department of Financial Services. BUSD will start trading on both Paxos’ and Binance’s exchanges sometime this month."
-  },
-  {
-  "viewCount": 0,
-  "category": "bitcoin",
-  "author": "Anmol Sachdeva",
-  "title": "Thousands Of Linux Servers Infected By Lilu (Lilocked) Ransomware",
-  "description": "The very first case of Lilocked ransomware came to light when a user uploaded a ransomware note on ID Ransomware, a website used for identifying the name of ransomware from the ransomware note or demand specified in the attack.It is still not known how the ra…",
-  "url": "https://fossbytes.com/lilocked-ransomware-infected-linux-servers/",
-  "urlToImage": "https://fossbytes.com/wp-content/uploads/2019/05/linux-flaw.jpg",
-  "publishedAt": "2019-09-07T13:24:42Z",
-  "content": "Anew strain of ransomware named Lilocked or Lilu has affected thousands of Linux-based servers all over the world. The ransomware started infecting servers back in mid-July but in the last two weeks, the attacks have become more frequent.
-  The very first case of Lilocked ransomware came to light when a user uploaded a ransomware note on ID Ransomware, a website used for identifying the name of ransomware from the ransomware note or demand specified in the attack. It targets servers and gains its root access. The mechanism behind how it gets access in unknown yet.
-  According to a Russian forum, bad actors might be targeting Linux-based servers that are running defunct Exim software.
-  Demand – 0.03 Bitcoin:
-  After a server has been attacked, the files are locked with “.lilocked” file extension. The note accompanied with the encrypted files reads: “I’ve encrypted all your sensitive data!!! It’s a strong encryption, so don’t be naive to restore it;)” Upon clicking the link in the note, users are redirected to a website on the dark web, prompting them to enter the key in the note. When the affected user enters the key, they are asked to deposit 0.03 bitcoin or $325 in the Electrum wallet to get their files decrypted.
-  Linux Ransomware Does Not Affect System Files:
-  Lilock ransomware does not affect system files but files with extensions including HTML, SHTML, JS, CSS, PHP, INI, and other image formats. Since system files are not affected, Linux systems are running normally.
-  As per Benkow, a French security researcher, Lilock ransomware has affected 6,700 servers to date. Most of these servers are cached in Google search results. However, the number of infected servers could be much more as there are many infected Linux servers that are not indexed on Google.
-  Since the mechanism behind the ransomware is not known yet, there isn’t a security advisory. You might evade this attack by keeping strong passwords and updating the apps as and when security patches arrive."
-  },
-  {
-  "viewCount": 0,
-  "category": "bitcoin",
-  "author": "Robert Stevens",
-  "title": "EU regulators criticize Facebook over latest data leak",
-  "description": "Big Tech needs to do more to safeguard its data, says regulator, ahead of Facebook’s upcoming Libra launch.",
-  "url": "https://finance.yahoo.com/news/eu-regulators-criticize-facebook-over-132050131.html",
-  "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Q2CGebctvmwElVzQnEL6Zg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD02NjguNDQ0NDQ0NDQ0NDQ0NQ--/https://s.yimg.com/uu/api/res/1.2/35UhJe1PyW3wip67sqQnTQ--~B/aD00NzA7dz05MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/decrypt_251/a772633fbd18697c07b2b7088c759ba8",
-  "publishedAt": "2019-09-07T13:24:04Z",
-  "content": "Facebook has suffered another major data breach, exposing the personal information of 210 million Facebook users. It follows the 2018 data breach in which 50 million accounts were illegally harvested by Cambridge Analytica. In the latest breach, a security researcher told TechCrunch that he had found a publicly accessible database containing Facebook IDs, phone numbers and in some cases, each user’s full name.
-  There were 419 million records in total, but a Facebook spokesperson said that many were duplicates, and old—from the times when Facebook let you search accounts by phone numbers. The majority of the records were from US users—133 million—while 50 million records were on Vietnamese users and a further 18 million from the UK. Overall, it was one of the largest data breaches in history.
-  “The biggest companies need to do more to protect the personal data of their users,” Assistant Supervisor Wojciech Wiewiórowski of the European Data Protection Supervisor, told Decrypt, in response to questions over the data breach.
-  “It is a whole business model in use that needs to be scrutinized and streamlined with GDPR requirements and legal obligations,” he added.
-  This is the same regulatory body that signed a joint statement last month, which criticized Facebook for not providing enough data about its plans for Libra—Facebook’s upcoming cryptocurrency project set to launch in 2020. 
-  Additionally, the Irish Data Protection Commission—which ran an investigation into Cambridge Analytica last year—has contacted Facebook for further details of the data breach. 
-  Sentiment is against Facebook’s Libra, says survey of 140,000 analysts
-  Following the scandal, Silvia Chiofalo, a spokesperson at The Swiss Federal Data Protection and Information Commissioner—the regulatory body for personal data in Switzerland—told Decrypt that ultimately, it’s down to individual users to take responsibility for their own data, because “the more personal data a company processes, the greater the data protection risk.”
-  And this is certainly the case with Libra—a mingling of personal and financial data, held in the hands of Big Tech. While the Libra blockchain itself will only contain pseudonymous addresses—like Bitcoin does—the Facebook-owned Calibra wallet will maintain customers’ financial data.
-  “All this does is give regulators more ammo to shut down Facebook’s banking and financial-sector hopes, as well as more ammo in pushes to break up Facebook,” John Meyer, managing director at venture capital firm Starship Capital—which invests in the blockchain industry—told Decrypt.
-  Meyer said that Facebook’s leak will increase regulatory pressure on Libra as faith in the social network continues to erode as the number of leaks increases. Congress has drafted the “Keep Big Tech Out of Finance Act,” which aims to stop huge tech companies like Facebook from launching their own currencies and is seeking a moratorium on any further development of Libra.
-  The market is stacked against Libra, too. According to a survey of 140,000 crypto analysts released Tuesday by Cindicator, 49 percent said they wouldn’t touch it. Of the nay-sayers, 29 percent said it was due to a lack of trust in Facebook, and 11 percent put it down to privacy concerns.
-  Facebook’s new PR team will have its work cut out."
-  },
-  {
-  "viewCount": 0,
-  "category": "bitcoin",
-  "author": "Lars Charter",
-  "title": "PIBBLE Trading Up 3.9% This Week (PIB) - Riverton Roll",
-  "description": "PIBBLE (CURRENCY:PIB) traded up 3.9% against the U.S. dollar during the 24-hour period ending at 8:00 AM Eastern on September 7th. One PIBBLE token can currently be purchased for about $0.0002 or 0.00000002 BTC on popular cryptocurrency exchanges. PIBBLE has …",
-  "url": "https://rivertonroll.com/news/2019/09/07/pibble-trading-up-3-9-this-week-pib.html",
-  "urlToImage": "wp-content/themes/alambre/images/image-pending.gif",
-  "publishedAt": "2019-09-07T12:44:18Z",
-  "content": "PIBBLE (CURRENCY:PIB) traded up 3.9% against the U.S. dollar during the 24-hour period ending at 8:00 AM Eastern on September 7th. One PIBBLE token can currently be purchased for about $0.0002 or 0.00000002 BTC on popular cryptocurrency exchanges. PIBBLE has a market capitalization of $1.70 million and $13,168.00 worth of PIBBLE was traded on exchanges in the last day. During the last seven days, PIBBLE has traded 3.9% higher against the U.S. dollar.
-  Here’s how other cryptocurrencies have performed during the last day:
-  XRP (XRP) traded 2.2% lower against the dollar and now trades at $0.25 or 0.00002423 BTC.
-  Tether (USDT) traded down 0.2% against the dollar and now trades at $1.00 or 0.00009639 BTC.
-  Binance Coin (BNB) traded 2.5% lower against the dollar and now trades at $22.43 or 0.00215884 BTC.
-  Bitcoin SV (BSV) traded down 1.6% against the dollar and now trades at $131.19 or 0.01262676 BTC.
-  Stellar (XLM) traded down 1.8% against the dollar and now trades at $0.0597 or 0.00000574 BTC.
-  TRON (TRX) traded 3.8% lower against the dollar and now trades at $0.0144 or 0.00000139 BTC.
-  COZ (COZ) traded 26.7% higher against the dollar and now trades at $0.22 or 0.00004541 BTC.
-  NEO (NEO) traded 2.4% lower against the dollar and now trades at $8.92 or 0.00085886 BTC.
-  Chainlink (LINK) traded 2.8% lower against the dollar and now trades at $1.76 or 0.00016904 BTC.
-  Crypto.com Chain (CRO) traded down 0.9% against the dollar and now trades at $0.0414 or 0.00000398 BTC.
-  PIBBLE’s total supply is 30,000,000,000 tokens and its circulating supply is 8,441,361,420 tokens. The official website for PIBBLE is www.pibble.io. PIBBLE’s official Twitter account is @
-  and its Facebook page is accessible here. The official message board for PIBBLE is medium.com/@pibbleio.
-  Buying and Selling PIBBLE
-  PIBBLE can be traded on the following cryptocurrency exchanges: Kryptono. It is usually not currently possible to buy alternative cryptocurrencies such as PIBBLE directly using US dollars. Investors seeking to trade PIBBLE should first buy Bitcoin or Ethereum using an exchange that deals in US dollars such as GDAX, Gemini or Coinbase. Investors can then use their newly-acquired Bitcoin or Ethereum to buy PIBBLE using one of the exchanges listed above."
-  },
-  {
-  "viewCount": 0,
-  "category": "bitcoin",
-  "author": "Ben Munster",
-  "title": "Is \"technical analysis\" of crypto prices nonsense?",
-  "description": "Some say the arcane practice of charting works. Others say it’s a bunch of hooey.",
-  "url": "https://finance.yahoo.com/news/technical-analysis-crypto-prices-nonsense-123731861.html",
-  "urlToImage": "https://s.yimg.com/ny/api/res/1.2/w06razNkm4rFifE9FklhKQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD02NjguNDQ0NDQ0NDQ0NDQ0NQ--/https://s.yimg.com/uu/api/res/1.2/.5PG_JPhvyDTEh4kzcPd0w--~B/aD00NzA7dz05MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/decrypt_251/b972ed2202831eae33f5a9855256fc95",
-  "publishedAt": "2019-09-07T12:37:31Z",
-  "content": "Like an ancient mystic searching for glimpses of the future among the tea leaves, the popular cryptocurrency trader “Satoshi Flipper” tried to guess how a popular crypto token’s price would pan out. 
-  “Very bullish daily close for $LINK today,” he tweeted on August 15, above an annotated chart of LINK’s most recent price movements. “Not only because of the candle, but we closed above an important 23k sat level and now there is nothing between here and the next big resistance [at] 29k sats.”
-  Candle? Resistance? What?
-  Flipper was talking in the other-worldly tongue of “technical analysis,” an arcane discipline whose adherents are convinced they can predict the future prices of their investments by looking at past trends. You’ve seen them online: they talk about things like “moving wedge formations” and “fibonacci curves,” and they’re able to draw out trivial blips on graphs into 900-word articles on venerable sites with names like CryptoSponge. 
-  “Technical” analysis is starkly different from “fundamental” analysis. Fundamental analysts try to gauge assets’ “intrinsic value” by looking at “fundamentals”—revenue of the issuing company, news developments, technological prowess. Technical analysts, on the other hand, believe these fundamentals are already reflected by price, and that future prices can only be determined by looking at charts and analyzing “statistical trends gathered from trading activity.”
-  In other words, technical analysts are predominantly looking at data and doing a form of pattern recognition. To them, an asset can’t be over- or undervalued; the market just kind of shuffles along at its own natural pace, which can be analysed and understood using charts.
-  In crypto markets, technical analysis is wildly popular, because nobody has a clue about why things are valued (why is “JesusCoin” still worth a whopping $0.000016?), and the heuristic that the markets are always right is comforting and clarifying. But in the hands of an amateur, technical analysis becomes a dubious pseudoscience—the astrology of price prediction. 
-  Nevertheless, in the bizarre parallel universe of crypto markets, technical analysis can make a strange sort of sense. 
-  Crypto horoscopes 
-  Almost all big-time crypto fund managers—the people responsible for millions of dollars’ worth of clients’ funds—shun technical analysis. These people invest in the long term. Technical analysis, if it’s useful at all, favors split-second trades. Kyle Samani, of the large fund Multicoin Capital, says he eschews the practice entirely. As do Joey Krug, of Pantera Capital, and Nic Carter, of Castle Capital Ventures. 
-  Carter dismisses technical analysis because, in his view, cryptocurrency markets are mostly “efficient.” Things that are already broadly known, like news developments, technical specs and investor behavior, are already “priced in,” he says, meaning if there were any “alpha”—trading advantage—to be gained from understanding the human psychology behind trades, that would already be priced in too. Only uncovering wholly new information, which the market does not yet know, can affect an asset’s price."
-  }
-  ]
+# 999 Bitcoin
+
+# news = [
+#   {
+#   "viewCount": 0,
+#   "category": "bitcoin",
+#   "author": "Tyler Durden",
+#   "title": "It's Lightbulb Liberation Day",
+#   "description": "It's Lightbulb Liberation Day Authored by Jeffrey Tucker via The American Institute for Economic Research, The Department of Energy is putting down its guns and withdrawing troops in the war on the incandescent bulb that began in 2007. It’s pretty late in the…",
+#   "url": "https://www.zerohedge.com/news/2019-09-07/its-lightbulb-liberation-day",
+#   "urlToImage": "https://zh-prod-1cc738ca-7d3b-4a72-b792-20bd8d8fa069.storage.googleapis.com/s3fs-public/styles/max_650x650/public/2019-09/lightbulb.jpg?itok=lkBAmFbb",
+#   "publishedAt": "2019-09-07T21:10:00Z",
+#   "content": "The Department of Energy is putting down its guns and withdrawing troops in the war on the incandescent bulb that began in 2007. It’s pretty late in the day; the last factory to make them in the U.S. shut down in 2010. It’s hard to find them in a store, in which case: thank goodness for Amazon! 
+#     Still, the damage can be reversed. Our houses can again be warm and beautiful, and legally. You can turn on the lights in the morning and not have your eyes lacerated by blindingly fake electric “light.” As the Wall Street Journal summed up the current moment: “If you like old-fashioned incandescent light bulbs, you can keep buying them.”As a huge fan of Ayn Rand’s short novel Anthem, the liberation of the light bulb means so much to me. It was published in 1937 but mostly drafted in the 1920s in Russia. In the dystopian story, a cruel government committee comes down hard on a young man who has re-discovered the light bulb. They condemn him for daring to think for himself and presuming to override the planned poverty of the social order. This society ruled by the total state is perfectly happy with its candles, and desires that no steps forward can be taken that are not explicitly approved by the ruling class.
+#     Ayn Rand used the example of the light bulb because it is such a great symbol of the power of the human mind. It is within our power to harness the energy that comes from the heavens. “The power of the sky can be made to do men’s bidding,” observes the Anthem protagonist. “There are no limits to its secrets and its might, and it can be made to grant us anything if we but choose to ask.”
+#     As Murray Rothbard observed, riffing on Rand’s insight, the light bulb finally freed humanity from having to defer to the earth’s rotations to determine work hours. It allowed night baseball, made our highways safer, and put civilization on a 24/7 basis. The light bulb means much more than what it is in its physical essence. It was the dawn of humankind’s mastery of the world.
+#     A few years ago, I was contemplating Rand’s novel and looked up at my ceiling fan. Three glorious incandescent bulbs were lighting up the room in a warm glow. These particular bulbs lacked blue and white frosting. The glass was clear and the curved filament burned like a miniature flame. And yet that flame is caged and is made to be a servant of human dreams and aspirations. The deeper story is about a thoroughly insidious attempt by bureaucracies together with a gaggle of politicians to ban the light bulb as we’ve always known it. In other words, it’s the plot of Anthem lived in real time. 
+#     It all began with the Energy Independence and Security Act of 2007, which called for a phaseout of the incandescent bulb by 2012 (variously amended by Congress to push out the deadline). The law banned light bulbs by wattage but not by name. In practice, it meant death for the kind of light we’ve enjoyed since the 19th century.
+#     Gone from the shelves were the incandescent bulbs of 100 watts. Then it got worse as 40- and 60-watt incandescent light bulbs were killed off. Factories that once produced them were shut. 
+#     Once you dig more deeply, you find something remarkable: there was no scientific basis for this ban at all. Consider the ten-years ago analysis of Howard Brandston, a fellow of the Illuminating Engineering Society of North America and the brains behind the refurbishment of the Statue of Liberty in the 1980s.
+#     Brandston argued that the government’s metric of lumens-per-watt was completely bogus. It doesn’t consider the quality of light for a room. It doesn’t consider the costs of making replacements or the environmental danger of more “efficient” bulbs (fluorescent bulbs contain mercury), and doesn’t consider the whole reason we have lightbulbs to begin with: to light up a space. It focuses on one narrow point at the expense of all these broader considerations. “The calculations used by the government and others promulgating or promoting the use of compact fluorescents,” he said, “is strictly mathematical conjecture and has nothing to do with reality.” That rings true to me. So how can the consumer tell which are the best bulbs? Brandston says that a person’s subjective judgment, tempered by a consideration of how long bulbs last, is more than enough. You don’t need bureaucracies and you don’t need experts.
+#     But even if the new bulbs are awful, don’t they save energy? Brandston said: “hoping that lighting is going to make a major contribution borders on ridiculous. …We’d be better off promoting occupancy sensors and dimming controls and recommending all dimmers be set to only provide 95 percent of the power to the light sources.” Why did the government do this to us? It fits with everything else about federal policy for the last 60 years. It seems to have put the goal of increasing human misery as a main policy goal. This is why our toilets, faucets, detergent, and washers have been wrecked with water-use controls–even though none of these policies make a significant difference in overall water usage. Just look at what government has done to our bathrooms. 
+#     It’s why we are pushed to recycle even though no one has ever demonstrated that the mandates help the environment. It’s why we are taxed on things we want to do like drive cars. It’s why we can no longer medicate ourselves in normal ways without a doctor’s permission. It’s why we must endure hectoring lectures from public officials about fast food, sweets, and our trash generation.
+#     What do all these policies have in common? They target things that we enjoy and that make our life better, then force on us inferior products and services. It’s the penance we must do in the interest of the common good — and never mind whether the common good is actually enhanced in real life.
+#     Which gets us back to Ayn Rand and the light bulb. She had a prophetic way of seeing the truth about government. She grew up under a regime that promised heaven on earth but ended up making a hell for everyone not part of the ruling class. She saw that governments could not produce imaginative goods and would eventually fall back on celebrating the poverty and destruction they cause — and inventing an ethic of sacrifice for the whole as a means of covering up their crimes. If you don’t go along, you are an enemy of the people.
+#     It’s rather incredible that we have come full circle. Just as in Anthem, the U.S. government actually almost banned the light bulb as we’ve known it. Just think about the awesome implications of that and ask yourself why we put up with it.
+#     On a personal note, my own dear mother replaced all her incandescents with fluorescents several years ago. I was sitting in her house feeling vaguely irritated by the searing lights in the room—cold and dreary—and had to turn them off.
+#     Sitting in the dimly lit room, my thought was: This is what the government has done to us. A great invention from the dawn of modernity is being driven out of use. Do I have to bring my own candles next holiday season?
+#     Why should governments be in the position of deciding what technologies can and cannot be used, as if consumers are too stupid to make such decisions for themselves? Who is to decide what is efficient, and what the proper tradeoff should be between the energy expended and the light produced? More fundamentally, why should governments be in the business of picking right and wrong technologies at all?
+#     There is a grave cost to regulation and it’s not just about freedom itself. It’s about experimentation and innovation. A vast regulatory apparatus on cell phone technology in 1990 could never have imagined something like a modern smartphone. Regulations on digital commerce in 2000 might have stopped the rise of peer-to-peer services like Uber. Bitcoin is another example of a technology that blasted through the nationalization of money to show us something entirely new. 
+#     Indeed, one of the reasons that the digital world was so innovative until a few years ago was precisely because the regulators were not yet caught up with the pace of innovation. That’s probably changing with the new antitrust push. 
+#     Regulations on technology freeze the status quo in place and make it permanent. In government, a ban is a ban, something to be enforced, not tweaked according to new discoveries and approaches. Regulatory interventions stop the progress of history by disabling the limitless possibilities of the human imagination.
+#     We live in times without much good news in politics. Let’s at least take the weekend to celebrate the embrace of progress, acquiescence to the wisdom of markets, the new freedom found for this hugely important symbol of humankind’s triumph over the poverty of nature."
+#   },
+#   {
+#   "viewCount": 0,
+#   "category": "bitcoin",  
+#   "author": "Nick Chong",
+#   "title": "Crypto Tidbits: PWC Branch Accepts Bitcoin, Ethereum Istanbul Pushed, Apple Talks Cryptocurrency",
+#   "description": "Another week, another of Crypto Tidbits. At long last, the Bitcoin price saw some bullish action this week, gaining some 10% over the past seven days according to Coin360.io. While BTC is trading 4% lower from its weekly highs, analysts are starting to believ…",
+#   "url": "https://www.newsbtc.com/2019/09/07/crypto-tidbits-pwc-branch-accepts-bitcoin-ethereum-istanbul-pushed-apple-talks-cryptocurrency/",
+#   "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2019/09/shutterstock_739595833-1200x780.jpg",
+#   "publishedAt": "2019-09-07T21:00:09Z",
+#   "content": "Another week, another of Crypto Tidbits. At long last, the Bitcoin price saw some bullish action this week, gaining some 10% over the past seven days according to Coin360.io. While BTC is trading 4% lower from its weekly highs, analysts are starting to believe that the trend for the cryptocurrency market is finally pointing upward again, with the 35% correction seen in July and August seemingly having ended.
+#   The fundamentals support the idea that the “bull is back on”, with there being a smattering of positive crypto and blockchain developments observed over the past week. They, along with some not so positive news events, are as follows.
+#   Bitcoin & Crypto Tidbits: Bakkt Starts to Custody Bitcoin Ahead of Futures Launch: This week, Bakkt finally launched its Bitcoin custody product, giving institutions a way to securely store their BTC via the new platform. “Today our Warehouse opens for customer bitcoin deposits and withdrawals as we prepare for the Bakkt Bitcoin Daily & Monthly Futures, launching September 23. The availability of physical delivery brings more flexibility in managing bitcoin exposure,” the platform announced in a recent tweet.
+#   Ethereum Istanbul Testnet Integration Pushed Back: Sorry Ethereum fans, Istanbul hasn’t happened yet. The upgrade (or at least the testnet iteration), which is expected to bring the popular blockchain a number of improvements and changes, was recently pushed back by the core developer team. According to CoinDesk, Hudson Jameson, a community manager at the Ethereum Foundation, told developers in a call on Friday that Istanbul’s testnet activation date will be pushed to October 2nd from the original tentative September 4th date. According to the developers, the later date is due to an influx of Ethereum Improvement Protocols submitted for review for the upgrade.
+#   Federal Reserve Chairman Jerome Powell Drops Comment on Crypto: In a meeting in Switzerland sponsored by the Swiss Institute of International Studies, Federal Reserve Chair Jerome Powell touched on the topic of cryptocurrency. He stated, presumably in response to moves from China to launch a digital currency of its own, that his organization is not “actively considering” its own cryptocurrency. Powell then touched on Libra, remarking that the Facebook-backed project has the ability to become “systematically important very quickly.” Powell didn’t touch on the regulation of Bitcoin.
+#   VanEck Launches Institutional-Centric Bitcoin Product: On Tuesday, VanEck Securities Corp. and SolidX Management LLC, two pro-crypto firms that are behind a leading Bitcoin exchange-traded fund (ETF) application, revealed that they were going to be proactive, launching a workaround product. According to Bloomberg, they said that by utilizing a certain rule of a historical securities act, the duo would be able to issue shares in the VanEck SolidX Bitcoin Trust to qualified institutional investors. VanEck’s head of ETF product, Ed Lopez, is hopeful that institutional demand for Bitcoin will materialize in demand for this new “clear” product.
+#   China Confirms ‘Deets’ About Centralized Crypto: Speaking of central banks, an official of the People’s Bank of China purportedly stated that the new centralized crypto will be supported across major e-payments platforms, including WeChat Pay and Alipay. Mu Changchun added that the tokens are effectively digital versions of the yuan.
+#   Social Media Giant Telegram Continues Blockchain Launch: Social media giant Telegram continues to roll out its own blockchain. The firm recently released the code for running a node for the blockchain, dubbed the Telegram Open Network (TON). Developers can begin launching full nodes, validator nodes, and blockchain explorers for the product, according to a report from CoinDesk.
+#   Samsung Launches a Crypto-Centric Iteration of Galaxy Note 10: According to a Wall Street Journal Article published Thursday, South Korean technology behemoth Samsung is launching an iteration of its flagship smartphone — the Galaxy Note 10 — centered around crypto and blockchain. Dubbed the “KlaytnPhone”, a name attributed to the device in reference to social media firm Kakao’s blockchain, the Samsung phone will purportedly only be sold in South Korea. It, the report states, is effectively identical to the stock Note 10. But, it will sport a pre-installed crypto wallet and certain blockchain applications. Also, owners of the device will purportedly be sent some of the Klay cryptocurrency (too bad it’s not Bitcoin, eh?), the currency of Klaytn.
+#   Binance Launches USD-Backed Stablecoin: This week, Binance revealed that it would be launching its own flagship stablecoin, Binance USD (BUSD), which is slated to be pegged 1:1 to the U.S. dollar. For now, the stablecoin will be built on Ethereum and will be created by Binance in collaboration with Paxos. The duo claims that they have received approval from the New York State Department of Financial Services (NYDFS), making BUSD available for New York investors.
+#   Apple Sees Potential in Cryptocurrency, Yet Unlikely to Take the Plunge Yet: Speaking to CNN, Apple finds cryptocurrency “interesting” — whatever that means. Jennifer Bailey, vice president at Apple Pay, explained in an interview that the topic has “interesting long-term potential”, but added that right now, Apple’s digital payments ecosystem is only focused on “what consumers are using today”. While this statement was short and seemingly forcefully nebulous, Bailey seems to be hinting that should digital assets gain enough traction, Apple may delve into the crypto game.
+#   PWC’s Luxembourg Branch Now Accepts BTC: On Monday, PricewaterhouseCoopers (PWC) — one of the “Big Four” companies — revealed that one of its regional divisions, Luxembourg, will be accepting payments made in Bitcoin, marking a small yet positive step forward in the adoption cycle of cryptocurrency."
+#   },
+#   {
+#   "viewCount": 0,
+#   "category": "bitcoin",
+#   "author": "Cointelegraph By Joeri Cant",
+#   "title": "Crypto News From the German-Speaking World: Sept. 2–8 in Review",
+#   "description": "From Cointelegraph auf Deutsch: Germany announces additional crypto regulations, Switzerland adds a new blockchain hub and Austrian scammers use fake celebrity ads",
+#   "url": "https://cointelegraph.com/news/crypto-news-from-the-german-speaking-world-sept-28-in-review",
+#   "urlToImage": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85ZDM4MTA2MjFmYzM3YTUxZGI1NGY3ZGZmZTAyNDhlOS5qcGc=.jpg",
+#   "publishedAt": "2019-09-07T20:57:00Z",
+#   "content": "The German-speaking world continues to see lots of developments in the crypto industry, with the German government clarifying proposed regulations, Switzerland adding a new blockchain hub, while Bitcoin (BTC)-scammers are using Austrian celebrities in fake crypto ads.
+#   Here is the past week of crypto and blockchain news in review, as originally reported by Cointelegraph auf Deutsch.
+#   German government explains proposed regulations for crypto wallets and exchanges
+#   Cointelegraph auf Deutsch reported on Sept. 3, that, in reply to a request by the Free Democratic Party, the German Federal Government announced further details on planned regulations for cryptocurrency exchanges and wallet providers. The government states that crypto firms will be subject to regulatory requirements under the country’s banking act.
+#   German regulator bans trading platform from offering contracts for difference
+#   The German Federal Financial Supervisory Authority (BaFin) has asked Ivory Group Limited, which is the operator of trading platform TradeToro.com, to stop cross-border trading in contracts for differences (CFDs) on currency pairs and cryptocurrencies. Per the regulator, the firm did not have the necessary licenses to conduct business in CFDs. 
+#   Swiss canton of Schwyz intends to become a new blockchain hub
+#   The Swiss canton of Schwyz, together with service provider Blockchain Propulsion, intends to become a new blockchain hub, much like the Crypto Valley in Zug. A newly founded Propulsion Hub in the canton aims to support the blockchain ecosystem in Switzerland.
+#   Blockchain Propulsion opened its doors in in Pfäffikon, which is the economic center of the canton of Schwyz with the lowest tax burden for companies and individuals.
+#   Crypto-scammers use Austrian news anchors as bait
+#   Crypto-fraudsters are reportedly using fake online ads with well-known personalities to lure potential victims into cryptocurrency scams. The scams provide links to purported investment schemes and binary options scams. 
+#   Austrian news anchor Armin Wolf took to Twitter to describe the investment recommendations using his name as fake and a real mess. Wolf tweeted, “I do not advertise (would also be prohibited by the ORF law). And I give no investment tips, neither for bitcoins nor for other extremely speculative (or other) investments.”
+#   IOTA Foundation publishes perspective on smart cities
+#   On Sept. 5, the IOTA Foundation — a non-profit organization for blockchain development — published its 19-page study Towards Open & Transparent Cities which shares IOTA’s perspectives on the current concepts for smart city projects and the future challenges in which IOTA could play a major role.
+#   IOTA states that a range of nascent technologies like distributed ledgers, artificial intelligence and the internet of things will improve municipal operations in transportation, lighting systems, waste management and other areas.
+#   Currently IOTA is collaborating with Taiwan's capital Taipei and with the European Commission-sponsored CityxChange project to further study the idea of smart cities."
+#   },
+#   {
+#   "viewCount": 0,
+#   "category": "bitcoin",
+#   "author": "Kiril Nikolaev",
+#   "title": "3 Solid Reasons Why Ethereum Looks Stronger Than Ever",
+#   "description": "Critics have been trying to spread fear, uncertainty, and doubt on the No. 2 cryptocurrency in light of its scaling issues. It’s true that Ethereum is struggling with congestion as network utilization is above 94 percent. As a result, it becomes costly to run…",
+#   "url": "https://www.ccn.com/3-solid-reasons-why-ethereum-looks-stronger-than-ever/",
+#   "urlToImage": "https://cdn.ccn.com/wp-content/uploads/2019/09/ethereum-chart-ss-.jpg",
+#   "publishedAt": "2019-09-07T20:13:46Z",
+#   "content": "Critics have been trying to spread fear, uncertainty, and doubt on the No. 2 cryptocurrency in light of its scaling issues. It’s true that Ethereum is struggling with congestion as network utilization is above 94 percent. As a result, it becomes costly to run applications.
+#   Nevertheless, the cryptocurrency’s biggest problem appears to be its source of strength. The network is congested because there are so many developers building decentralized applications (DApps) on the blockchain. In addition, the scaling issue is temporary, as the Ethereum community has a solution with a timeline in place.
+#   Ethereum Dominates All Cryptocurrencies in Number of Developers
+#   When it comes to the number of developers working on an ecosystem, Ethereum is king of the hill. It is so overwhelmingly dominant in this regard that the runner up is so far behind. According to a recent study by Electric Capital, there are 1,156 monthly average developers. That number is four times greater than the next biggest ecosystem, which is Bitcoin. The study also noted that other ecosystems and crypto networks have fewer than 250 developers.
+#   This metric is so important because the cryptocurrency with the highest number of developers is likely the one that has the most value.
+#   Ethereum Leads All Platforms in Total DApps
+#   Another reason why the Ethereum network utilization is sky high is that it leads all blockchains in total DApps and daily active users. DApp usage has been steadily growing that it’s no wonder that the network is congested. This issue won’t last though, as the Ethereum community is working towards a solution.
+#   Introduction of Sharding in Early 2020
+#   The Ethereum ecosystem plans to eliminate its scalability issue with a long-term solution in sharding. Simply put, sharding breaks up the blockchain into smaller segments. This will lead to a significant uptick in transaction speed.
+#   According to an Ethereum Foundation call, sharding will be launched by January 2020. Hence, we’re a few months away from a monumental development in the Ethereum network. Scott Melker, also known as the Wolf of All Streets, spoke to CCN and shared his stance on the coin. The Texas West Capital trader said: “Price has found support in the green demand zone and is presently working towards breaking descending (dashed) resistance. A move through that line would indicate likely further price appreciation.” Disclaimer: The views expressed in this op-ed are solely those of the author and do not represent those of, nor should they be attributed to, CCN Markets."
+#   },
+#   {
+#   "viewCount": 0,
+#   "category": "bitcoin",
+#   "author": "Cole Petersen",
+#   "title": "Analyst: Bitcoin Caught in Clear Bearish Trading Pattern",
+#   "description": "Bitcoin’s recent surge up to highs of over $10,800 drastically shifted the overall market sentiment and had led many investors and analysts alike to believe that BTC was highly likely to move past $11,000. BTC’s subsequent drop from these levels, however, inv…",
+#   "url": "https://www.newsbtc.com/2019/09/07/analyst-bitcoin-caught-in-clear-bearish-trading-pattern/",
+#   "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2019/09/shutterstock_740633893-1200x780.jpg",
+#   "publishedAt": "2019-09-07T19:30:49Z",
+#   "content": "Bitcoin’s recent surge up to highs of over $10,800 drastically shifted the overall market sentiment and had led many investors and analysts alike to believe that BTC was highly likely to move past $11,000.
+#   BTC’s subsequent drop from these levels, however, invalidated this perceived bullishness, and now a prominent analyst is explaining that Bitcoin is currently trading within a bearish descending triangle on a macro time frame, which may mean that another drop is imminent.
+#   Bitcoin Plummets 4%, But Finds Stability Around $10,400 
+#   At the time of writing, Bitcoin is trading down nearly 4% at its current price of $10,450, which marks a significant drop from its 24-hour highs of just below $11,000 that were set yesterday.
+#   Yesterday’s rejection marks the second time in the past week that it was rejected in the upper-$10,000 region, which may signal that this is an insurmountable resistance level that could send it reeling significantly lower in the near-future. Chonis Trading, a popular crypto analyst on Twitter, explained in a recent tweet that Bitcoin’s daily close yesterday marked a strong rejection of the upper-$10,000 region, which may spell trouble for it in the near-future.
+#   “$BTC – daily candle closed with a strong rejection of intraday highs…Middle BB held support when tested…FIB retrace currently at 38.2%,” he noted while pointing to the below chart. Will a Massive Descending Triangle Force BTC Lower?: In recent times many analysts have been pointing to a large triangle formation on Bitcoin’s macro-price chart as one potential catalyst for another massive upwards movement in the near-future, but now one analyst is noting that this triangle is actually a bearish formation. Peter Brandt spoke about this in a recent tweet, explaining that although he is currently long on Bitcoin, it’s currently trading within a descending triangle, which typically results in a downwards break.
+#   “Bitcoin meets the definition of a descending triangle. Don’t let newbie chartists tell you different. Right-angled triangles imply (but do not demand) a resolution thru the horizontal boundary,” he noted. Assuming that this triangle is the main impetus that leads Bitcoin’s price action in one direction or another, investors and analysts alike will soon know whether or not it is ready to journey upwards, or if significantly further losses are imminent."
+#   },
+#   {
+#   "viewCount": 0,
+#   "category": "bitcoin",
+#   "author": "Greg Thomson",
+#   "title": "These 3 Altcoins Lost 2 Years of Progress in One Summer",
+#   "description": "As Bitcoin continues to put distance between itself and the altcoin market, three ‘major’ altcoins have completed their capitulations to more than, or close to, 2 year lows. In effect, the previous two years hype, price-pumps and progress have been wiped out …",
+#   "url": "https://hacked.com/these-3-altcoins-lost-2-years-of-progress-in-one-summer/",
+#   "urlToImage": "https://hacked.com/wp-content/uploads/2019/08/Stellar.jpg",
+#   "publishedAt": "2019-09-07T18:40:00Z",
+#   "content": "As Bitcoin continues to put distance between itself and the altcoin market, three ‘major’ altcoins have completed their capitulations to more than, or close to, 2 year lows.
+#   In effect, the previous two years hype, price-pumps and progress have been wiped out over the course of a summer. Most losses were incurred in 2018, but only in the past couple of months has it become apparent that the altcoin market isn’t ready to mindlessly surge again any time soon. 
+#   Bytecoin (BCN):
+#   On Friday, September 6th the dollar value of Bytecoin (BCN) fell to a 28-month low. The last time BCN was priced at $0.000443 was May 15th, 2017. If you believe in the concept of historic support prices, then it may interest you to know that BCN was priced at one tenth that value just weeks earlier. In other words, any further decreases could be just as sudden and unexpected as its increases were back in 2017. 
+#   Stellar (XLM): 
+#   Stellar struck a new 22-month low on Friday when it dropped to $0.058315 – a price point not seen since November 28th. As with Bytecoin, Stellar only spent a matter of minutes at the $0.05 range back in 2017, such was the strength of the explosive altcoin surge. Just two weeks prior XLM was priced at $0.02, and two weeks later it was priced at $0.30 – a 1,400% increase.
+#   If we assume a full reversion to the price prior to 2017’s surge, that would mean Stellar is headed for a sub-one cent price point. 
+#   Zcash (ZEC): 
+#   Zcash was last priced at $44.31 on March 15th, 2017 – almost 30 months ago. The BTC price of 416,312 satoshis (0.00416312 BTC) has never been recorded before, and continues to plumb new depths. The only obvious upside for Zcash is that unlike Ethereum, Litecoin etc., ZEC is just 50% drop away from its all-time dollar low. With a 50% drop easily foreseeable by the end of 2019, the Zcash’s historic price supports will truly be put to the test.
+#   What’s Next for Altcoins?: 
+#   The fates of those three altcoins appear sealed for the immediate future, but what happens beyond that is anyone’s guess. We’ve seen before that some cryptocurrencies need to maintain a certain price point or else risk facing complete liquidation. Others face the prospect of dying out through lack of activity.
+#   With other altcoins like Ethereum, Bitcoin Cash and Litecoin still holding on to some of their 2019 values, the question now is how far will they fall. The market has discriminated so far, and holders of these coins should be hoping that it continues to do so.
+#   Disclaimer: The author owns Bitcoin, Ethereum and other cryptocurrencies. He holds investment positions in the coins, but does not engage in short-term or day-trading."
+#   },
+#   {
+#   "viewCount": 0,
+#   "category": "bitcoin",
+#   "author": "Nick Chong",
+#   "title": "Inverse Bitcoin Price to Yuan Correlation Sets a New Record",
+#   "description": "Over the past few months, a trade war has been raging between the U.S. and China. Throughout this, Bitcoin (BTC) has managed to post stellar gains, rallying by some 100% since the latest leg of this dispute began. While many believe that this is nothing but a…",
+#   "url": "https://www.newsbtc.com/2019/09/07/inverse-bitcoin-price-to-yuan-correlation-sets-a-new-record/",
+#   "urlToImage": "https://www.newsbtc.com/wp-content/uploads/2019/09/shutterstock_275490581-1200x780.jpg",
+#   "publishedAt": "2019-09-07T18:00:48Z",
+#   "content": "Over the past few months, a trade war has been raging between the U.S. and China. Throughout this, Bitcoin (BTC) has managed to post stellar gains, rallying by some 100% since the latest leg of this dispute began.
+#   While many believe that this is nothing but a coincidence, data is starting to show that the trade war has had a substantial effect on Bitcoin’s dynamic.
+#   Bitcoin Trading at Record Inverse Correlation With Yuan:
+#   Bloomberg has reported that the 30-day inverse correlation between Bitcoin and the yuan has reached a record low, implying that the trade war has forced Chinese investors to adopt BTC. Speaking to Bloomberg, Dr. Garrick Hileman, the head of Blockchain.com’s research division, explained that this can be verified by the fact that “people in Asia were paying more for Bitcoin than elsewhere when the yuan fell”, looking to certain premiums on platforms like Huobi. Of course, there were some occasions where a negative premium (a discount, to be accurate) was observed in China. Yet Hileman asserts that the negative correlation has much to do with the trade war.
+#   If he’s correct, the negative correlation corroborates the whole idea that Bitcoin is a form of “digital gold”, in that it has similar characteristics and price patterns to the precious metal, yet it exists in a digital setting.
+#   Not a Safe Haven?:
+#   Despite the growing correlation, some have been quick to deny that Bitcoin is acting as a safe haven in the raging trade spat.
+#   In a tweet published in the wake of a recent surge in BTC and simultaneous collapse in the Yuan, Peter Schiff wrote that the recent rally isn’t a sign that the cryptocurrency is a beneficiary of “safe haven buying [that is] similar to gold”. Instead, the gold proponent argued that Bitcoin is being bought up by “speculators” betting that investors are searching for a store of value. This comes shortly after he claimed that Bitcoin’s inability to maintain gains in this tumultuous macroeconomic environment is a sign that it has “failed the safe haven test”. As reported by NewsBTC at the time, the fact that Bitcoin failed to hold its gains during a trade war development doesn’t bode well for advocates of BTC being digital gold.
+#   Related Reading: Bitcoin Could Follow Gold Fractal With 44% Drop to Under $7,000
+#   Of course, the high volume of Tether (USDT) trades — which are widely believed to be completed by Chinese traders — tells a different story. But Schiff has been quite staunch in his belief."
+#   },
+#   {
+#   "viewCount": 0,
+#   "category": "bitcoin",
+#   "author": "Dean Takahashi",
+#   "title": "Akamai: Fortnite ransomware scams should force developers and gamers to think about security",
+#   "description": "The game industry is often hit by cybercriminals, and it was no surprise to see the discovery of ransomware that attacks Fortnite players.",
+#   "url": "https://venturebeat.com/2019/09/07/akamai-fortnite-ransomware-scams-should-force-developers-and-gamers-to-think-about-security/",
+#   "urlToImage": "https://venturebeat.com/wp-content/uploads/2018/08/fortnite-android-9.jpg?w=1200&strip=all",
+#   "publishedAt": "2019-09-07T17:25:11Z",
+#   "content": "The game industry has long been a target for cybercriminals, and so it was no surprise in the past couple weeks to see the discovery of ransomware that attacks the accounts of Fortnite players.
+#   Cybersecurity firm Cyren found a free game hack tool, Syrk, that players download as a way to cheat in the game. But they discover it disables malware defenses and then deletes batches of the users’ files and encrypts them. To un-encrypt them, the player has to pay to receive a password. Akamai also noted that there is a big rise in credential stuffing attacks, where criminals use stolen identities in automated attacks that use brute force to break into accounts. From November 2017 to March 31, 2019, Akamai found 55 billion credential stuffing attacks. Gaming sites saw 12 billion of those attacks. No organization or gamer is immune.
+#   Gaming is a target because that’s where the money is today. I recently spoke about this with Nelson Rodriguez, global director of media industry strategy at Akamai.
+#   Here’s an edited transcript of our interview.
+#   GamesBeat: Can you tell me more about what you’re doing?:
+#   Nelson Rodriguez: Talking about the Fortnite scams, I think the key for us to talk about this is that we see it as very much a hygiene story. It’s a security hygiene story. It’s not like there’s much that Epic can do directly about it, or much that Akamai would be doing to prevent it from the perspective of a game, someone installing the wrong kind of software in their computer. I do think, though, that for us this raises the broader issue of what the popularity of games is creating in terms of security risk.
+#   You might remember from 10 or 15 years ago, the way folks got access to your computer was often through things like fake security scares or fake security software. Now games are such a rich way in. Players have such an incentive to try to maximize their experience with a game. Really, free-to-play is driving it more than anything. When it was a premium game, premium games didn’t have the mechanics that would encourage you to install some external piece of software to maximize your experience. But for free-to-play games, the way they’re built and designed, they lend themselves to manipulation, or at least the desire for players to have some kind of advantage.
+#   That’s relevant to us, what the popularity of games is doing to drive those kinds of threats. We think there is technology that all consumers and all companies should have in place on their computers, to prevent bad software from being installed, and to monitor the way your software is operating and behaving. Data exfiltration, that’s something that is relevant for us. But more than anything, game companies need to look at these trends to see — sure, it wasn’t your game that created this problem, but the popularity of your game is creating this dynamic where players want to go out and gain advantage outside of the game. It’s something everyone has to pay attention to. GamesBeat: Did Akamai take a look at some data here as well, related to the Fortnite ransomware scams?
+#   Rodriguez: Our security team took a look to see what the nature of this threat is. We recognized it had nothing to do with the game. It looks a lot like typical ransomware. We look at it not from a statistics point of view, but a technology point of view. There is a stat angle, where game companies are the most attacked companies in the world, more attacked than defense contractors or financial services companies. Gaming companies are a really rich attack surface. That we know from a statistics point of view.
+#   From a technology point of view, we recognize that this particular exploit looks a lot like any other data exfiltration exploit. If you can get someone — think of it as a classic phishing scam. If somebody can get you to click on something because you think it’s going to do one thing and it ends up on your machine and does something else, we understand that technology.
+#   It’s preventable, particularly in a proper network environment where the network is monitoring — let me step back a second. A lot of what we think about security is outside in. Building a wall — this gets to the concept of zero trust. The historical model is, you build a wall and you make sure nobody can get inside the wall. The trick to that technique is, as soon as somebody gets inside the wall, they have full access to everything.
+#   One of the steps to having a zero trust approach to security — first of all, don’t assume the wall is going to protect everyone. Get away from this model of a wall. There is no such thing as a wall. Yes, you have access controls, but don’t assume that those controls will be foolproof. The next thing you have to do is evaluate inside out. Not just what’s trying to get in, but what’s trying to get out. That’s where a lot of these kinds of scams get revealed — if you monitor what is asking for access outside your computer that you didn’t drive, that wasn’t driven by the user. Not just what’s trying to get in, but what’s trying to get out.
+#   It’s like those classic horror movies. The killer is inside the house. That’s the thing. It’s not just what’s trying to break in from the outside, but what’s already inside your machine that’s trying to exfiltrate data. From a technical point of view, that’s what’s most interesting about this. Also, it just highlights the fact that having any trust in a login or authentication system is just old-fashioned. Nowadays you have to assume that no machine is safe. You have to be managing security at a machine level with a perspective toward — assume that if someone is logged in, they might already be infected. What are they pulling out? What’s leaving the machine or leaving the network?
+#   GamesBeat: Just on the basics, what did we have happen here? We had Fortnite accounts where players invested a lot of money being held hostage for some specific amount of money? They had to pay or lose the account.
+#   Rodriguez: Yeah, but the way it was happening is folks were trying to gain advantage. They gave over access to their accounts. It was classic ransomware. GamesBeat: I remember there was one ransomware outbreak when bitcoin was starting to happen. Hospitals were getting attacked because they couldn’t back up their data anywhere else, and bitcoin payments were untraceable, especially in eastern Europe. I guess they’re just building on this style of attack that’s worked elsewhere?
+#   Rodriguez: For sure. There are a couple of ways to think of it. You can think of it as a classic con, a classic scam. First, is there some kind of weakness? Is there something somebody wants that they can’t get legitimately? If so, the scammer has the opportunity to offer that. That’s one facet of it. The next facet, is there an untraceable method or an ambiguity that allows the scammer to gain value without having to reveal who they are? That’s the blockchain component here. Being able to do it because you have an untraceable currency is part of what powers that kind of scam.
+#   GamesBeat: What are you telling people they should do? Just don’t click on it?
+#   Rodriguez: [laughs] One thing is, make sure that you are in a secure network environment. If it’s from work, does your workplace have the right protections in place at the computer level, at the login level, at the network level? That’s one thing to always have in mind. The other is very old-school, but if it seems too good to be true and it’s not being offered by the game publisher, then it’s not something that’s going to work out for you.
+#   I know there are secondary markets for all sorts of goods and services in gaming, but the fact is, if it’s not coming from the publisher, you’re opening yourself up to risk. I remember working at Xbox 13 years ago. We had to tell people, “Don’t share your Xbox Live account with anyone.” You can’t share it with your friends. If somebody sends you a message saying they can help you level up in a game, that never ends well.
+#   That’s the other thing you have to constantly remind people around. There’s no reason to do it, because in fact a lot of games now are designed well enough so that you can get a lot of value out of it within the game itself. There are all sorts of mechanics beyond just paying that allow you to unlock things. There’s no way to get that done illegitimately in a safe way.
+#   GamesBeat: As far as Akamai itself, where are you contributing most here?:
+#   Rodriguez: We’re now one of the world’s largest cloud security companies, which is funny if you think about us historically as a CDN. A lot of people think of us as a CDN, and yet we’re one of the largest security providers now. It’s one of our fastest-growing business segments. That means we’ve strongly adopted a zero trust stance, a zero trust philosophy, to our security. We encourage every company to make sure that there are multiple layers of security. You don’t ever make any assumptions that an authenticated or logged-in user is necessarily a safe user who has full access and whose machine or account hasn’t been compromised.
+#   We offer products in that category, but we also take a strong stance that there should be multiple layers of authentication, and even once someone is authenticated, that doesn’t mean they should have free access to every aspect of the network or of a given account. There have to be many layers. That’s our position as a security company that serves a lot of big gaming companies. We see ourselves as a consultant in the space. We have a strong opinion around it. It’s part of what we do with the products that we build."
+#   },
+#   {
+#   "viewCount": 0,
+#   "category": "bitcoin",
+#   "author": "Cointelegraph By Adrian Zmudzinski",
+#   "title": "Casa Adds iOS and Android Support for Sats Mobile Wallet",
+#   "description": "Bitcoin-focused technology firm Casa announced that its mobile Bitcoin wallet app is now available for both iOS and Android devices",
+#   "url": "https://cointelegraph.com/news/casa-adds-ios-and-android-support-for-sats-mobile-wallet",
+#   "urlToImage": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xMGJkZThmYmI1N2Q4N2QwY2NhYjViMzc5MDZhM2QxZC5qcGc=.jpg",
+#   "publishedAt": "2019-09-07T16:22:00Z",
+#   "content": "Bitcoin (BTC)-focused technology firm Casa announced that its Sats mobile Bitcoin wallet app is now available for both iOS and Android devices.
+#   Casa announced in a post published on its official blog on Sept. 5 that the mobile wallet is now available for download. Furthermore, Casa notes that the latest version of the app can be used without the company’s hardware Bitcoin Lightning node, but users who do not connect the app to a node do not have access its Lightning Network capabilities.
+#   The app supports a public address-naming system dubbed SatsTag. When Bitcoin is sent using a SatsTag, a new address is derived from the receiver’s public key and provided to the sender. Sending by scanning QR codes is still available.
+#   The company also claims that the wallet is completely non-custodial and that the user keeps control of their private key — which is saved on the phone’s secure enclave — at all times.
+#   The news follows another announcement by the company concerning the release of a node monitor and accompanying rewards program to promote Bitcoin network health.
+#   Anemic demand for cryptocurrency apps:
+#   As Cointelegraph reported at the end of June, the download count of cryptocurrency-related mobile applications is not increasing despite Bitcoin’s recent price surge. Data from mobile app analytics firm App Annie showed there were 65.8 million cryptocurrency-related app downloads in the first half of 2018, while in the first six months of this year there were 67 million, an increase of only 1.82%."
+#   },
+#   {
+#   "viewCount": 0,
+#   "category": "bitcoin",
+#   "author": "Kiril Nikolaev",
+#   "title": "Analyst Spots Trend Suggesting Incoming Monster Bitcoin Rally",
+#   "description": "Many armchair traders are so focused on the short-term price movement of bitcoin that they forget to look at the big picture. For instance, the widely-followed analyst cryptoamd is expecting the dominant cryptocurrency to dump below $10,000 and then be tappin…",
+#   "url": "https://www.ccn.com/analyst-spots-trend-suggesting-incoming-monster-bitcoin-rally/",
+#   "urlToImage": "https://cdn.ccn.com/wp-content/uploads/2019/09/bitcoin-rally-ss.jpg",
+#   "publishedAt": "2019-09-07T15:34:50Z",
+#   "content": "Many armchair traders are so focused on the short-term price movement of bitcoin that they forget to look at the big picture. For instance, the widely-followed analyst cryptoamd is expecting the dominant cryptocurrency to dump below $10,000 and then be tapping resistance of $10,500. That’s the trader’s short-term view on the digital asset. It is easy to get lost in short-term price action. However, some traders are resisting the lure of quick money by looking at the longer time frame. One analyst carrying a pseudonymous name “Nunya Bizniz” shared an interesting bitcoin trend on Twitter. It appears that the dominant cryptocurrency has always put together a massive rally following a predictable pattern.
+#   Major Pullbacks Tend to Be Healthy for the Uptrend:
+#   Analyst Nunya Bizniz looked at the bitcoin weekly chart and pointed out instances where the cryptocurrency had three or more consecutive red weekly candles within an uptrend. In the chart attached to the tweet, you will see how bitcoin rallied higher after a significant correction in the form of three or more weekly candles. Take note, the trend is only applicable whenever the king of cryptocurrencies is uptrending.
+#   In addition, Nunya Bizniz appears to have only covered the price action of 2017 to 2019. So we took the liberty to expand the horizon to see whether the pattern holds. We discovered that it does. The green boxes show the number of times bitcoin had three more consecutive weekly candles while in a bull market. All of them were followed by a massive uptrend. 
+#   Analyst: Bitcoin to ‘Show Considerable Strength in 2019’:
+#   Nunya Bizniz is not alone in the expectation that the No. 1 cryptocurrency will surpass expectations after this correction.
+#   President of Maglan Capital David Tawil spoke to CCN and revealed his long-term view on bitcoin: “I expect that it will soon trade to $15,000 and above. There is a lot of volatility in domestic securities markets and many currencies abroad are very weak in the face of a strong dollar. Those fundamentals coupled with an increasing number of businesses and financial institutions adopting blockchain technology and creating tokens will give the sector the necessary bullishness to climb considerably higher.”"
+#   },
+#   {
+#   "viewCount": 0,
+#   "category": "bitcoin",
+#   "author": "Cointelegraph By Adrian Zmudzinski",
+#   "title": "Jack Dorsey: Twitter Has No Interest in Creating Libra-Like Crypto",
+#   "description": "Twitter CEO and founder Jack Dorsey says that he has no plans to launch a platform-specific “Twitcoin” cryptocurrency, still bullish on Bitcoin",
+#   "url": "https://cointelegraph.com/news/jack-dorsey-twitter-has-no-interest-in-creating-libra-like-crypto",
+#   "urlToImage": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84NTEyYTg4MTZkYzMyYjE5YjVmZmFiZjg0NGI2MGY5Yi5qcGc=.jpg",
+#   "publishedAt": "2019-09-07T15:23:00Z",
+#   "content": "Twitter and Square CEO Jack Dorsey stated that there are no plans for a platform-specific “Twitcoin” cryptocurrency, noting that he will instead focus on promoting Bitcoin (BTC).
+#   Open standards are better:
+#   According to Australian news outlet The Sydney Morning Herald’s article published on Sept. 5, Dorsey is confident that Bitcoin is still the most likely candidate to beсome the internet's native currency. Twitter CEO noted: “I think open internet standards serve every person better than ones controlled or started by companies.”
+#   Nobody understands the global economy:
+#   Dorsey visited Melbourne to take part in the launch of Square Terminal, a new point-of-sale hardware device meant to offer an alternative to the ones provided by banks. He also expressed his ideas about banks and the economy in general: “Banks' control, authority and practices are a global phenomenon, but I think it's really acute here in Australia. [...] We're always heading into a recession, and we're always heading out of one, and anyone who offers an opinion on this is fooling themselves. [...] There's no one person on this planet that understands the global economy.” Dorsey also noted that he does not consider the idea of following the example of Facebook’s Libra and releasing a crypto dedicated to Twitter, and that he prefers using existing open standards such as Bitcoin.
+#   Bitcoin is the best bet:
+#   Square’s mobile payments application CashApp rolled out BTC deposits in June. According to the data released in August, the company has generated $125 million in Bitcoin revenue in Q2 2019. Dorsey praised the first cryptocurrency: “I think [Bitcoin's] the best bet because it's been the most resilient, it's around for 10 years, it has a great brand and it's been tested a bunch. [...] As I look at all cryptocurrencies that could fill that role of being the native currency for the internet, [Bitcoin is] a pretty high probability.” As Cointelegraph reported in August, Square’s cryptocurrency-focused branch Square Crypto hired Blockstream co-founder and Bitcoin developer Matt Corallo."
+#   },
+#   {
+#   "viewCount": 0,
+#   "category": "bitcoin",
+#   "author": "CBC News",
+#   "title": "Scammers pretending to be RCMP target Manitobans, Mounties warn",
+#   "description": "Mounties are warning the public of a scam involving phone calls that appear to be coming from the RCMP, but in fact are coming from fraudsters who demand a bitcoin or money transfer.",
+#   "url": "https://www.cbc.ca/news/canada/manitoba/rcmp-phone-scam-manitoba-1.5274706",
+#   "urlToImage": "https://i.cbc.ca/1.3450623.1566512071!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/811-can-help-navigate-health-care-system.jpg",
+#   "publishedAt": "2019-09-07T14:45:27Z",
+#   "content": "RCMP say fraudsters are using caller ID spoofing to trick people into thinking calls are coming from RCMP. Manitoba RCMP are warning the public of a scam involving phone calls that appear to be coming from the Mounties — but in fact are coming from fraudsters.
+#   Callers are told there is a warrant out for their arrest and they can take care of it by making a bitcoin or money transfer.
+#   RCMP said the scammers are using caller ID spoofing, which the Canadian Anti-Fraud Centre describes as a way of disguising phone numbers which appear on caller ID display.
+#   The tool allows the fraudsters to make it look like their calls are coming from a local or familiar number, tricking people into answering the phone and trusting the caller. Mounties said the phone number reported was a valid RCMP number — but the calls obviously weren't made by police.
+#   We've been made aware of this incident occurring a number of times this past week in Manitoba. The scam is designed to create anxiety so that victims respond by sending money quickly in order to fix the problem, said Cpl. Julie Courchaine.
+#   We want to remind the public that the RCMP would never contact individuals through email or telephone to request payment or monetary transfers.
+#   RCMP are asking people who have received similar phone calls to contact local police, or the Canadian Anti-Fraud Centre at 1-888-495-8501 or through its online reporting tool."
+#   },
+#   {
+#   "viewCount": 0,
+#   "category": "bitcoin",
+#   "author": "Robert Stevens",
+#   "title": "Binance US to launch in “coming weeks” says CEO",
+#   "description": "Despite its upcoming NYDFS-approved stablecoin, the exchange still won’t be available in New York.",
+#   "url": "https://finance.yahoo.com/news/binance-us-launch-coming-weeks-132404323.html",
+#   "urlToImage": "https://s.yimg.com/ny/api/res/1.2/A1BpBxpvIFJRTBJfAuRAqA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD02NjguNDQ0NDQ0NDQ0NDQ0NQ--/https://s.yimg.com/uu/api/res/1.2/qCkU25uPSvew7l5RlFtXEg--~B/aD00NzA7dz05MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/decrypt_251/6a3271e7b95f14d205545ab8160fa725",
+#   "publishedAt": "2019-09-07T13:34:54Z",
+#   "content": "Binance US, the American expansion of crypto exchange giant Binance will launch in the “coming weeks”, according to CEO Catherine Coley.
+#   Binance US is essentially the same Binance but with the approval of US regulators. Binance never officially operated in the US–but US citizens could still access the service–and has cracked down on US users who still accessed the exchange, in order to appease regulators. 
+#   The outpost will be operated by BAM Trading Services—a newly launched company with little information known about it—and run by Coley, who was previously an executive at Ripple. 
+#   As part of the deal with regulators, customers will have to pass stringent know-your-customer (KYC) checks to use the exchange. New accounts will require a valid government ID and a social security number. 
+#   In a blog post August 9, Binance US said that it’s considering listing 30 tokens on its exchange, including Bitcoin, Ethereum, and Binance’s native token, BNB. 
+#   Binance US is still finalizing the list of states it’ll be available in, but we know that it won’t be available in New York since it doesn’t have a BitLicense–the necessary, and expensive, license to operate there. As soon as Binance US finishes working out which states can access the exchange, it will open up KYC onboarding a few days before the launch so that customers can deposit cryptocurrencies and open accounts. 
+#   The news follows the launch of US-dollar-pegged stablecoin BUSD Thursday. BUSD has been created in partnership with Paxos, and is backed by the New York Department of Financial Services. BUSD will start trading on both Paxos’ and Binance’s exchanges sometime this month."
+#   },
+#   {
+#   "viewCount": 0,
+#   "category": "bitcoin",
+#   "author": "Anmol Sachdeva",
+#   "title": "Thousands Of Linux Servers Infected By Lilu (Lilocked) Ransomware",
+#   "description": "The very first case of Lilocked ransomware came to light when a user uploaded a ransomware note on ID Ransomware, a website used for identifying the name of ransomware from the ransomware note or demand specified in the attack.It is still not known how the ra…",
+#   "url": "https://fossbytes.com/lilocked-ransomware-infected-linux-servers/",
+#   "urlToImage": "https://fossbytes.com/wp-content/uploads/2019/05/linux-flaw.jpg",
+#   "publishedAt": "2019-09-07T13:24:42Z",
+#   "content": "Anew strain of ransomware named Lilocked or Lilu has affected thousands of Linux-based servers all over the world. The ransomware started infecting servers back in mid-July but in the last two weeks, the attacks have become more frequent.
+#   The very first case of Lilocked ransomware came to light when a user uploaded a ransomware note on ID Ransomware, a website used for identifying the name of ransomware from the ransomware note or demand specified in the attack. It targets servers and gains its root access. The mechanism behind how it gets access in unknown yet.
+#   According to a Russian forum, bad actors might be targeting Linux-based servers that are running defunct Exim software.
+#   Demand – 0.03 Bitcoin:
+#   After a server has been attacked, the files are locked with “.lilocked” file extension. The note accompanied with the encrypted files reads: “I’ve encrypted all your sensitive data!!! It’s a strong encryption, so don’t be naive to restore it;)” Upon clicking the link in the note, users are redirected to a website on the dark web, prompting them to enter the key in the note. When the affected user enters the key, they are asked to deposit 0.03 bitcoin or $325 in the Electrum wallet to get their files decrypted.
+#   Linux Ransomware Does Not Affect System Files:
+#   Lilock ransomware does not affect system files but files with extensions including HTML, SHTML, JS, CSS, PHP, INI, and other image formats. Since system files are not affected, Linux systems are running normally.
+#   As per Benkow, a French security researcher, Lilock ransomware has affected 6,700 servers to date. Most of these servers are cached in Google search results. However, the number of infected servers could be much more as there are many infected Linux servers that are not indexed on Google.
+#   Since the mechanism behind the ransomware is not known yet, there isn’t a security advisory. You might evade this attack by keeping strong passwords and updating the apps as and when security patches arrive."
+#   },
+#   {
+#   "viewCount": 0,
+#   "category": "bitcoin",
+#   "author": "Robert Stevens",
+#   "title": "EU regulators criticize Facebook over latest data leak",
+#   "description": "Big Tech needs to do more to safeguard its data, says regulator, ahead of Facebook’s upcoming Libra launch.",
+#   "url": "https://finance.yahoo.com/news/eu-regulators-criticize-facebook-over-132050131.html",
+#   "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Q2CGebctvmwElVzQnEL6Zg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD02NjguNDQ0NDQ0NDQ0NDQ0NQ--/https://s.yimg.com/uu/api/res/1.2/35UhJe1PyW3wip67sqQnTQ--~B/aD00NzA7dz05MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/decrypt_251/a772633fbd18697c07b2b7088c759ba8",
+#   "publishedAt": "2019-09-07T13:24:04Z",
+#   "content": "Facebook has suffered another major data breach, exposing the personal information of 210 million Facebook users. It follows the 2018 data breach in which 50 million accounts were illegally harvested by Cambridge Analytica. In the latest breach, a security researcher told TechCrunch that he had found a publicly accessible database containing Facebook IDs, phone numbers and in some cases, each user’s full name.
+#   There were 419 million records in total, but a Facebook spokesperson said that many were duplicates, and old—from the times when Facebook let you search accounts by phone numbers. The majority of the records were from US users—133 million—while 50 million records were on Vietnamese users and a further 18 million from the UK. Overall, it was one of the largest data breaches in history.
+#   “The biggest companies need to do more to protect the personal data of their users,” Assistant Supervisor Wojciech Wiewiórowski of the European Data Protection Supervisor, told Decrypt, in response to questions over the data breach.
+#   “It is a whole business model in use that needs to be scrutinized and streamlined with GDPR requirements and legal obligations,” he added.
+#   This is the same regulatory body that signed a joint statement last month, which criticized Facebook for not providing enough data about its plans for Libra—Facebook’s upcoming cryptocurrency project set to launch in 2020. 
+#   Additionally, the Irish Data Protection Commission—which ran an investigation into Cambridge Analytica last year—has contacted Facebook for further details of the data breach. 
+#   Sentiment is against Facebook’s Libra, says survey of 140,000 analysts
+#   Following the scandal, Silvia Chiofalo, a spokesperson at The Swiss Federal Data Protection and Information Commissioner—the regulatory body for personal data in Switzerland—told Decrypt that ultimately, it’s down to individual users to take responsibility for their own data, because “the more personal data a company processes, the greater the data protection risk.”
+#   And this is certainly the case with Libra—a mingling of personal and financial data, held in the hands of Big Tech. While the Libra blockchain itself will only contain pseudonymous addresses—like Bitcoin does—the Facebook-owned Calibra wallet will maintain customers’ financial data.
+#   “All this does is give regulators more ammo to shut down Facebook’s banking and financial-sector hopes, as well as more ammo in pushes to break up Facebook,” John Meyer, managing director at venture capital firm Starship Capital—which invests in the blockchain industry—told Decrypt.
+#   Meyer said that Facebook’s leak will increase regulatory pressure on Libra as faith in the social network continues to erode as the number of leaks increases. Congress has drafted the “Keep Big Tech Out of Finance Act,” which aims to stop huge tech companies like Facebook from launching their own currencies and is seeking a moratorium on any further development of Libra.
+#   The market is stacked against Libra, too. According to a survey of 140,000 crypto analysts released Tuesday by Cindicator, 49 percent said they wouldn’t touch it. Of the nay-sayers, 29 percent said it was due to a lack of trust in Facebook, and 11 percent put it down to privacy concerns.
+#   Facebook’s new PR team will have its work cut out."
+#   },
+#   {
+#   "viewCount": 0,
+#   "category": "bitcoin",
+#   "author": "Lars Charter",
+#   "title": "PIBBLE Trading Up 3.9% This Week (PIB) - Riverton Roll",
+#   "description": "PIBBLE (CURRENCY:PIB) traded up 3.9% against the U.S. dollar during the 24-hour period ending at 8:00 AM Eastern on September 7th. One PIBBLE token can currently be purchased for about $0.0002 or 0.00000002 BTC on popular cryptocurrency exchanges. PIBBLE has …",
+#   "url": "https://rivertonroll.com/news/2019/09/07/pibble-trading-up-3-9-this-week-pib.html",
+#   "urlToImage": "wp-content/themes/alambre/images/image-pending.gif",
+#   "publishedAt": "2019-09-07T12:44:18Z",
+#   "content": "PIBBLE (CURRENCY:PIB) traded up 3.9% against the U.S. dollar during the 24-hour period ending at 8:00 AM Eastern on September 7th. One PIBBLE token can currently be purchased for about $0.0002 or 0.00000002 BTC on popular cryptocurrency exchanges. PIBBLE has a market capitalization of $1.70 million and $13,168.00 worth of PIBBLE was traded on exchanges in the last day. During the last seven days, PIBBLE has traded 3.9% higher against the U.S. dollar.
+#   Here’s how other cryptocurrencies have performed during the last day:
+#   XRP (XRP) traded 2.2% lower against the dollar and now trades at $0.25 or 0.00002423 BTC.
+#   Tether (USDT) traded down 0.2% against the dollar and now trades at $1.00 or 0.00009639 BTC.
+#   Binance Coin (BNB) traded 2.5% lower against the dollar and now trades at $22.43 or 0.00215884 BTC.
+#   Bitcoin SV (BSV) traded down 1.6% against the dollar and now trades at $131.19 or 0.01262676 BTC.
+#   Stellar (XLM) traded down 1.8% against the dollar and now trades at $0.0597 or 0.00000574 BTC.
+#   TRON (TRX) traded 3.8% lower against the dollar and now trades at $0.0144 or 0.00000139 BTC.
+#   COZ (COZ) traded 26.7% higher against the dollar and now trades at $0.22 or 0.00004541 BTC.
+#   NEO (NEO) traded 2.4% lower against the dollar and now trades at $8.92 or 0.00085886 BTC.
+#   Chainlink (LINK) traded 2.8% lower against the dollar and now trades at $1.76 or 0.00016904 BTC.
+#   Crypto.com Chain (CRO) traded down 0.9% against the dollar and now trades at $0.0414 or 0.00000398 BTC.
+#   PIBBLE’s total supply is 30,000,000,000 tokens and its circulating supply is 8,441,361,420 tokens. The official website for PIBBLE is www.pibble.io. PIBBLE’s official Twitter account is @
+#   and its Facebook page is accessible here. The official message board for PIBBLE is medium.com/@pibbleio.
+#   Buying and Selling PIBBLE
+#   PIBBLE can be traded on the following cryptocurrency exchanges: Kryptono. It is usually not currently possible to buy alternative cryptocurrencies such as PIBBLE directly using US dollars. Investors seeking to trade PIBBLE should first buy Bitcoin or Ethereum using an exchange that deals in US dollars such as GDAX, Gemini or Coinbase. Investors can then use their newly-acquired Bitcoin or Ethereum to buy PIBBLE using one of the exchanges listed above."
+#   },
+#   {
+#   "viewCount": 0,
+#   "category": "bitcoin",
+#   "author": "Ben Munster",
+#   "title": "Is \"technical analysis\" of crypto prices nonsense?",
+#   "description": "Some say the arcane practice of charting works. Others say it’s a bunch of hooey.",
+#   "url": "https://finance.yahoo.com/news/technical-analysis-crypto-prices-nonsense-123731861.html",
+#   "urlToImage": "https://s.yimg.com/ny/api/res/1.2/w06razNkm4rFifE9FklhKQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD02NjguNDQ0NDQ0NDQ0NDQ0NQ--/https://s.yimg.com/uu/api/res/1.2/.5PG_JPhvyDTEh4kzcPd0w--~B/aD00NzA7dz05MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/decrypt_251/b972ed2202831eae33f5a9855256fc95",
+#   "publishedAt": "2019-09-07T12:37:31Z",
+#   "content": "Like an ancient mystic searching for glimpses of the future among the tea leaves, the popular cryptocurrency trader “Satoshi Flipper” tried to guess how a popular crypto token’s price would pan out. 
+#   “Very bullish daily close for $LINK today,” he tweeted on August 15, above an annotated chart of LINK’s most recent price movements. “Not only because of the candle, but we closed above an important 23k sat level and now there is nothing between here and the next big resistance [at] 29k sats.”
+#   Candle? Resistance? What?
+#   Flipper was talking in the other-worldly tongue of “technical analysis,” an arcane discipline whose adherents are convinced they can predict the future prices of their investments by looking at past trends. You’ve seen them online: they talk about things like “moving wedge formations” and “fibonacci curves,” and they’re able to draw out trivial blips on graphs into 900-word articles on venerable sites with names like CryptoSponge. 
+#   “Technical” analysis is starkly different from “fundamental” analysis. Fundamental analysts try to gauge assets’ “intrinsic value” by looking at “fundamentals”—revenue of the issuing company, news developments, technological prowess. Technical analysts, on the other hand, believe these fundamentals are already reflected by price, and that future prices can only be determined by looking at charts and analyzing “statistical trends gathered from trading activity.”
+#   In other words, technical analysts are predominantly looking at data and doing a form of pattern recognition. To them, an asset can’t be over- or undervalued; the market just kind of shuffles along at its own natural pace, which can be analysed and understood using charts.
+#   In crypto markets, technical analysis is wildly popular, because nobody has a clue about why things are valued (why is “JesusCoin” still worth a whopping $0.000016?), and the heuristic that the markets are always right is comforting and clarifying. But in the hands of an amateur, technical analysis becomes a dubious pseudoscience—the astrology of price prediction. 
+#   Nevertheless, in the bizarre parallel universe of crypto markets, technical analysis can make a strange sort of sense. 
+#   Crypto horoscopes 
+#   Almost all big-time crypto fund managers—the people responsible for millions of dollars’ worth of clients’ funds—shun technical analysis. These people invest in the long term. Technical analysis, if it’s useful at all, favors split-second trades. Kyle Samani, of the large fund Multicoin Capital, says he eschews the practice entirely. As do Joey Krug, of Pantera Capital, and Nic Carter, of Castle Capital Ventures. 
+#   Carter dismisses technical analysis because, in his view, cryptocurrency markets are mostly “efficient.” Things that are already broadly known, like news developments, technical specs and investor behavior, are already “priced in,” he says, meaning if there were any “alpha”—trading advantage—to be gained from understanding the human psychology behind trades, that would already be priced in too. Only uncovering wholly new information, which the market does not yet know, can affect an asset’s price."
+#   }
+#   ]
+
+# 999 Top business headlines
+
+# news = [
+#   {
+#   "viewCount": 0,
+#   "category": "Top business headlines",
+#   "author": "Janine Puhak",
+#   "title": "Tourist charged over $68G for 'most expensive beer in history' - Fox News",
+#   "description": "Now that's a pricey drink.",
+#   "url": "https://www.foxnews.com/food-drink/tourist-charged-68g-beer",
+#   "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2019/09/beer-istock.jpg",
+#   "publishedAt": "2019-09-07T19:44:32Z",
+#   "content": "One Australian man visiting England said there’s a “massive hole” in his finances after he was wrongfully charged $68,478 for a single beer during a recent outing to a bar in Manchester.
+#   On Sunday night, Peter Lalor ordered a Deuchars IPA from the bar at the Malmaison Hotel that should have cost him just $6.75, BBC reports, before things quickly took a turn for the worse.
+#   Lalor, a cricket writer for The Australian in town to cover The Ashes competition, was speechless to receive the unbelievable bill for the brew. “See this beer? That is the most expensive beer in history,” he captioned an image of the seriously overpriced booze -- around $99,983 in Australian dollars – in a Sept. 5 Twitter post that has since gone viral with over 7,800 likes and 2,100 shares. The writer revealed that he “didn’t have his reading glasses” when the senior bartender presented him with the receipt for the IPA and didn’t think twice when the employee “had some problems” ringing up the transaction.
+#   He was then overcome with a “sixth sense” that “something had gone wrong,” BBC reports. The man was dazed to learn he had been wrongfully charged the incredible sum for the drink in an apparent accident.
+#   CLICK HERE TO SIGN UP FOR OUR LIFESTYLE NEWSLETTER
+#   Australians find England pretty expensive usually, but this takes the cake, Lalor told the outlet. That's a lot of money. I'm just a cricket writer, I don't earn big bucks and it's costing me in interest.
+#   Two days later, Lalor’s wife called to inform him that the whopping amount had indeed been taken out of their account – with a $1,711 transaction charge tacked on to boot. Lalor has since detailed on Twitter that he’s been in communication with the hotel and Visa to get the charge refunded – though the headache will likely take nine business days to process. “In the meantime there’s a massive hole in my finances,” he lamented. “Lesson to be learned: Always find your glasses when presented with a bill,” the bargoer concluded."
+#   },
+#   {
+#   "viewCount": 0,
+#   "category": "Top business headlines",
+#   "author": "Amy Kuperinsky | NJ Advance Media for NJ.com",
+#   "title": "White Claw shortage has people freaking out about the bubbly - NJ.com",
+#   "description": "For some people, hard seltzer is life.",
+#   "url": "https://www.nj.com/entertainment/2019/09/white-claw-shortage-has-people-freaking-out-about-the-bubbly.html",
+#   "urlToImage": "https://www.nj.com/resizer/Le1nySywB0rHqaw7hDNkfYtOXJk=/1200x0/arc-anglerfish-arc2-prod-advancelocal.s3.amazonaws.com/public/6V3IUU3XJRAARLNGWSPQMP5UPE.png",
+#   "publishedAt": "2019-09-07T19:36:00Z",
+#   "content": "An interruption in the hard seltzer supply chain is rocking enthusiasts of White Claw, a popular line of carbonated alcoholic beverages.
+#   Mark Anthony Brands, which owns Mike’s Hard Lemonade, introduced White Claw in 2016 after consumers embraced sparkling water brands like La Croix. As the drinks surged in popularity, the brand has been experiencing a shortage this summer.
+#   Beer and liquor drinkers — particularly of the vodka-soda variety — became White Claw converts for the brand’s 100-calorie combination of fruit flavors, seltzer and “gluten free alcohol base, which tops out at 2 grams of carbohydrates and 5% alcohol by volume. White Claw flavors are natural lime, raspberry, mango, ruby grapefruit, black cherry and pure, or plain (no, pumpkin spice White Claw is not real). As for the name, the brand says it “takes its inspiration from the legend of the White Claw wave - when three perfect crests come together to create a moment of pure refreshment.
+#   In light of the shortage, the White Claw-faithful have been frantically tweeting at the brand and expressing their frustrations on social media, while the concept of a White Claw draught has inspired running commentary. Those who did locate the precious resource posted their findings.
+#   “I’m gonna lose my god damn mind,” @CashMoneyDuffy tweeted White Claw on Friday, sharing a Complex article about the shortage. “Please tell me you have someone working on this?!?!”
+#   “We have the best team in the business working on this,” the brand replied. We are working around the clock to increase supply given the rapid growth in consumer demand,” Sanjiv Gajiwala, White Claw senior vice president of marketing, told CNN. “White Claw has accelerated faster than anyone could have predicted."
+#   },
+#   {
+#   "viewCount": 0,
+#   "category": "Top business headlines",
+#   "author": "Katie Brockman",
+#   "title": "3 Common Mistakes That Could Hurt Your Retirement Savings - The Motley Fool",
+#   "description": "You could be doing more harm than good when it comes to your savings.",
+#   "url": "https://www.fool.com/retirement/2019/09/07/3-common-mistakes-that-could-hurt-your-retirement.aspx",
+#   "urlToImage": "https://g.foolcdn.com/editorial/images/538885/broken-piggy-bank-white.jpg",
+#   "publishedAt": "2019-09-07T18:30:00Z",
+#   "content": "The retirement dream is moving out of reach for many Americans. A quarter of baby boomers expect to postpone retirement until age 70 or beyond, according to a report from the Insured Retirement Institute, and 8% don't think they'll ever retire.
+#   Even if you're doing everything you can to scrape together some cash to put toward your retirement fund, saving for the future isn't easy. The average American thinks retirement will cost around $1.7 million, a survey from Charles Schwab found, and one in 10 thinks they'll need at least $3 million to retire comfortably.
+#   Although it can be difficult to save for retirement, there are few things that may be making it harder than it should be. These mistakes may seem harmless at first glance, but they have the potential to derail your entire retirement plan.
+#   1. Helping children with student loans rather than saving for retirement:
+#   More than half (53%) of parents say that helping their children pay for college is a bigger priority than saving for retirement, according to a survey from T. Rowe Price, and 68% are willing to delay retirement to help pay for college tuition.
+#   There's nothing wrong with financially helping your kids if you can afford it, but putting your own financial needs on the back burner can potentially lead to disaster down the road. Saving for retirement isn't something that can be done overnight, or even over a decade or two. Unless you have thousands of dollars to put toward your retirement fund each month, you'll likely need to start saving several decades before you plan to retire.
+#   For example, say you want to retire at age 70 with $800,000 saved. You're currently helping your kids pay for college, so you hold off on saving for retirement until age 45. To reach your goal, you'd need to save approximately $1,100 per month, assuming you're earning a 7% annual return on your investments. But if you'd started saving at age 30, you'd only need to save around $350 per month.
+#   It can be tough to strike a balance when you have multiple financial priorities pulling your wallet in different directions. But the longer you wait to start saving for retirement, the more difficult it will be to catch up. That's not to say you can't help your children with college, but if you ever want to retire, you can't forget about your goals, too.
+#   2. Not paying off high-interest debt:
+#   Debt in any form can be a strain on your budget, but high-interest debt in particular can wreak havoc on your financial health. Depending on how much debt you have, you could end up paying thousands of dollars in interest alone, and it could take years to pay off your debt completely.
+#   In most cases, it's a good idea to start saving for retirement as early as you can. If you hold off on saving for years until your debt is completely paid off, you'll have to work significantly harder to save enough to retire. However, if you're saddled with loads of high-interest debt, you could be paying more in interest than you're earning on your investments. Especially if you have credit card debt (with some cards charging interest rates upwards of 20% per year), even a solid 7% to 8% rate of return on your investments may not outweigh what you're paying in interest.
+#   In that scenario, it may be wise to pull as much cash together as possible and pay off your high-interest debt as quickly as you can. Begin with the debt with the highest interest rate (not necessarily the highest balance), and then work your way down. Once you're left with only lower-interest debt (like a mortgage or student loans), you'll likely be able to go back to saving for retirement.
+#   You may still need to jump-start your retirement savings to catch up once you pay off your debt, but once you're no longer paying an exorbitant amount in interest, you'll have more to save each month.
+#   3. Not having an emergency fund:
+#   An emergency fund is a crucial yet often overlooked factor that can help you save more for retirement, yet only 61% of Americans have enough cash saved to cover an unexpected $400 expense, according to a report from the Federal Reserve Bank.
+#   If an unexpected cost pops up and you can't afford to cover it, you'll either need to rack up credit card debt, take out a loan, or tap your retirement accounts for cash. Going into debt has its financial consequences, and borrowing or withdrawing cash from your retirement fund can potentially cost you thousands of dollars over time.
+#   More than half of Americans have withdrawn money from their retirement accounts for reasons other than retiring, a survey from MagnifyMoney found. But withdraw from your 401(k) or traditional IRA before age 59-1/2, and you may be subject to a 10% penalty fee. You also could be missing out on thousands of dollars in potential future retirement savings, even if you only withdraw a small amount.
+#   Compound interest -- which is essentially when you earn interest on your interest -- helps your savings grow exponentially. The key, though, is that your money has to sit untouched for decades to reach its full potential. When you withdraw or even borrow from your retirement fund, you're missing out on valuable time to let your money grow, as well as making it harder to reach your savings goals. But if you have an emergency fund to cover unexpected costs, you won't have to worry about dipping into your retirement fund to make ends meet.
+#   Everyone makes mistakes, especially when it comes to retirement planning. However, some mistakes are worse than others, and the worst offenders can cost you thousands of dollars. But by avoiding these common mishaps, you can keep your retirement planning on track and make sure you're doing everything you can to set yourself up for success.
+#   The $16,728 Social Security bonus most retirees completely overlook
+#   If you're like most Americans, you're a few years (or more) behind on your retirement savings. But a handful of little-known Social Security secrets could help ensure a boost in your retirement income. For example: one easy trick could pay you as much as $16,728 more... each year! Once you learn how to maximize your Social Security benefits, we think you could retire confidently with the peace of mind we're all after. Simply click here to discover how to learn more about these strategies."
+#   },
+#   {
+#   "viewCount": 0,
+#   "category": "Top business headlines",
+#   "author": "Alex Gangitano and Scott Wong",
+#   "title": "Here are the gun policies for America's largest retailers | TheHill - The Hill",
+#   "description": "America’s largest retailers are rethinking their gun policies following a spate of mass shootings this summer.",
+#   "url": "https://thehill.com/policy/finance/460336-here-are-the-gun-policies-for-americas-largest-retailers",
+#   "urlToImage": "https://thehill.com/sites/default/files/gunsopencarry_090619istock.jpg",
+#   "publishedAt": "2019-09-07T16:21:32Z",
+#   "content": "America’s largest retailers are rethinking their gun policies following a spate of mass shootings this summer in states including California, Texas and Ohio.
+#     With uncertainty about whether Congress will do anything this fall in response to the massacres, the private sector has started taking action to address gun violence. Walmart, whose El Paso, Texas, location was the site of a mass shooting in August, said this week it was halting the sale of handguns and certain ammunition while urging its millions of customers not to openly carry firearms in its stores. Walgreens and CVS quickly followed suit, asking its customers to leave their guns at home. 
+#     But not all major retailers have revamped their policies.
+#     Below is a description of gun policies for the 30 largest U.S. retailers based on overall sales, as measured by the National Retail Federation.
+#     Retailers that ban firearms: 
+    
+#     No. 4 Costco ($101.43 billion), 
+#     Headquarters: Issaquah, Wash.
+#     A statement on Costco’s website says the membership-based retailer prohibits guns in its stores and offers a refund to members who don’t agree with it. A Costco spokeswoman contacted by The Hill said she didn’t know when the ban took effect and that management had no further comment beyond the statement. At Costco, we don't believe it's necessary to bring firearms into its warehouses, except in the case of authorized law enforcement officers. For the protection of all our members and employees, we feel this is a reasonable and prudent precaution to ensure a pleasant shopping experience and safe workplace,” the statement reads.
+#     “Our policy is meant to protect our members and employees in all warehouses around the world. This isn't a new policy, and we don't customize this policy for each city/county/state/country where we do business,” the company added. “If you believe that our policy restricting members from bringing firearms into our warehouses is unfair or excessively burdensome, or you cannot agree to abide by this policy, Costco will promptly refund your annual membership fee in full upon request. 
+#     Retailers that request customers do not openly carry firearms: 
+    
+#       No. 1 Walmart ($387.66 billion),
+#     Headquarters: Bentonville, Ark.
+#     Walmart changed its gun policy on Tuesday, urging its customers not to openly carry guns in its stores. The world’s largest retailer also stopped selling handguns and ammunition for handguns and some short-barrel rifles.
+#     “As it relates to safety in our stores, there have been multiple incidents since El Paso where individuals attempting to make a statement and test our response have entered our stores carrying weapons in a way that frightened or concerned our associates and customers,” CEO Doug McMillon wrote in a memo.
+#     The mass shooting in El Paso on Aug. 3 occurred at a Walmart store, leaving 22 dead and 24 injured.
+#     “We have also had well-intentioned customers acting lawfully that have inadvertently caused a store to be evacuated and local law enforcement to be called to respond,” McMillon added. “These incidents are concerning and we would like to avoid them, so we are respectfully requesting that customers no longer openly carry firearms into our stores or Sam’s Clubs in states where ‘open carry’ is permitted – unless they are authorized law enforcement officers.”
+    
+#     No. 3 Kroger ($119.70 billion), 
+#     Headquarters: Cincinnati: 
+#     Kroger changed its policy this week and requested customers not openly carry guns in its stores. A year ago, the company stopped selling firearms and ammunition in its Fred Meyer stores in the Pacific Northwest.
+#     “Kroger is respectfully asking that customers no longer openly carry firearms into our stores, other than authorized law enforcement officers,” Jessica Adelman, group vice president of corporate affairs, told The Hill in a statement.
+#     “We are also joining those encouraging our elected leaders to pass laws that will strengthen background checks and remove weapons from those who have been found to pose a risk for violence,” she added.
+    
+#     No. 5 Walgreens ($98.39 billion),
+#     Headquarters: Deerfield, Ill.: 
+#     Walgreens announced on Thursday that it will ask customers to not openly carry guns in its stores.
+#     We are joining other retailers in asking our customers to no longer openly carry firearms into our stores other than authorized law enforcement officials, the company said in a statement.
+    
+#     No. 7 CVS ($83.79 billion), 
+#     Headquarters: Woonsocket, R.I.:
+#     CVS said it is requesting that firearms not be brought into its stores, which number nearly 10,000 nationwide.
+#     “We support the efforts of individuals and groups working to prevent gun violence, and continually review our policies and procedures to ensure our stores remain a safe environment,” the company said in a statement. “We join a growing chorus of businesses in requesting that our customers, other than authorized law enforcement personnel, do not bring firearms into our stores.”
+    
+#     No. 8 Target ($74.48 billion),
+#     Headquarters: Minneapolis: 
+#     Since July 2014, Target has requested that firearms not be brought into its stores.
+#     We ... respectfully request that guests not bring firearms to Target – even in communities where it is permitted by law, the retailer said in a statement at the time.
+    
+#     No. 12 Royal Ahold Delhaize USA (Giant, Food Lion, Hannaford),
+#     Headquarters: Carlisle, Pa.: 
+#     Royal Ahold Delhaize is the parent company of numerous grocery brands, each with its own gun policy, a spokeswoman said.
+#     At the 1,000 Food Lions on the East Coast, customers are asked to “voluntarily refrain” from bringing their guns with them.
+#     “Food Lion complies with all federal, state and local laws regarding firearms in our stores. We always encourage our customers to be courteous and respectful to others when in our stores. We prefer for customers to voluntarily refrain from bringing firearms and other weapons into our stores,” Food Lion said. “However, we respect the rights of customers to carry firearms as allowed by law and we ask our customers to be respectful to others regardless of their views on this matter.” 
+#     Christopher Brand, a spokesman for Giant Food Stores LLC, said, “We respectfully request that customers not bring firearms in our stores even if permitted by applicable state and local laws.”
+    
+#     No. 20 H-E-B Grocery ($24.02 billion), 
+#     Headquarters: San Antonio: 
+#     H-E-B, a supermarket chain in Texas, allows customers to carry concealed handguns, but it has a decades-long policy prohibiting open carry. In 2015, the company began posting signs about its gun policy at its stores to comply with a state law.
+#     “H-E-B has always allowed licensed customers to conceal carry handguns inside our stores. H-E-B does not allow the open carry of handguns or long guns on our property or in our stores due to our TABC alcohol permit,” spokeswoman Dya Campos said in an email. “This is a long standing policy for decades, nothing has changed.”
+    
+#     No. 26 Starbucks ($17.41 billion),
+#     Headquarters: Seattle: 
+#     Starbucks requests customers not bring firearms into its stores. Former CEO Howard Schultz, who said Friday he is not running for president, made the announcement in 2013.
+#     “Few topics in America generate a more polarized and emotional debate than guns. In recent months, Starbucks stores and our partners (employees) who work in our stores have been thrust unwillingly into the middle of this debate. That's why I am writing today with a respectful request that customers no longer bring firearms into our stores or outdoor seating areas,” Schultz wrote in a letter at the time.
+    
+#     Retailers with no gun restrictions
+
+#     No. 16 TJX Companies ($29.59 billion),
+#     Headquarters: Framingham, Mass.:
+#     TJX Companies, the parent company of TJ Maxx, Marshalls and HomeGoods, does not have a ban on carrying guns in its stores.
+#     “We appreciate the seriousness of this issue and care deeply about the safety of our Associates and customers,” TJX told The Hill in a statement. “Associate and customer safety is, and always will be, a top priority. We do not sell firearms or ammunition in any of our stores and follow federal, state, and local laws regarding the carrying of firearms which we have done for many years.”
+      
+#     No. 19 Macy’s ($24.9 billion),
+#     Headquarters: Cincinnati: 
+#     Macy’s does not ban customers from bringing guns into its stores; instead, it leaves that decision to state and local jurisdictions or the shopping mall where the store is located.
+#     “The safety and security of our customers and colleagues is Macy’s highest priority. We comply with all applicable state and local firearms laws and regulations, in addition to mall regulations,” a Macy’s spokesperson told The Hill.
+    
+#     No. 17 Aldi ($28.78 billion),
+#     Headquarters: Batavia, Ill.:
+#     Aldi’s code of conduct addresses employees, not customers, and requests they keep firearms in their cars if state law allows. The grocery chain did not respond to questions about gun policies for customers.
+#     “Except to the extent that state law expressly permits employees to keep a firearm locked securely in their vehicle located in a Company parking lot, firearms, knives or other dangerous weapons should not be brought onto Company property for any reason,” the company says in its code of conduct.
+    
+#     Retailers that did not respond to questions about gun policies:
+#     No. 2 Amazon (stores),
+#     No. 9 Lowe's,
+#     No. 10 Albertsons (Safeway),
+#     No. 11 Apple stores,
+#     No. 13 Best Buy,
+#     No. 14 McDonald’s, 
+#     No. 15 Publix,
+#     No. 18 Dollar General,
+#     No. 21. Dollar Tree,
+#     No. 22 Verizon,
+#     No. 23. Kohl’s,
+#     No. 24. Yum! Brands,
+#     No. 25 Meijer,
+#     No. 27 Ace Hardware,
+#     No. 28 Wakefern/Shoprite,
+#     No. 29. 7-Eleven,
+#     No. 30 AT&T"
+#   },
+#   {
+#   "viewCount": 0,
+#   "category": "Top business headlines",
+#   "author": "jcorley",
+#   "title": "Widespread Optimum Outages Hit the Hudson Valley - wpdh.com",
+#   "description": "Police urged residents not to call them with their internet issues.",
+#   "url": "https://wpdh.com/widespread-optimum-outages-hit-the-hudson-valley/",
+#   "urlToImage": "https://townsquare.media/site/705/files/2019/09/RS14649_507901178.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89",
+#   "publishedAt": "2019-09-07T14:13:00Z",
+#   "content": "Thousands of Hudson Valley residents lost internet, cable and phone connections in a widespread Optimum outage that struck the Northeast. Downdetector.com reported a surge of outages starting around 7PM Friday.
+#   Optimum acknowledged the outage but didn't give any indication of the cause.
+#   I discovered the outage after my low gas light came on, and I bounced around three gas stations trying to find one with a working credit card machine. Cashless and running on fumes is no way to go through life in a post-internet world, turns out. My solution was to scrounge through change draws and the bottom of purses until I came up with $8.65 to power my Subaru through the weekend.
+#   Others took a different approach, tying up emergency lines and reaching out to police for assistance. Police in Fairfield, Conn. and Ossining urged citizens to not call them over their connectivity issues.
+#   The outages appeared to subside around 9:30AM Saturday morning. How'd you handle your whole 14 hours without wifi? Let us know in the comments below.
+#   Listen to the Boris & Robyn Show weekday mornings from 6AM to 10AM on 101.5 WPDH. Stream us live through the website, Alexa-enabled device, Google Home or the WPDH mobile app."
+#   },
+#   {
+#   "viewCount": 0,
+#   "category": "Top business headlines",
+#   "author": "Graham Rapier",
+#   "title": "Lyft's newest service: Driving yourself - Business Insider",
+#   "description": "The ride-hailing company will now let you hail a rental car in three California cities, and give you a ride credit to get to the pickup location.",
+#   "url": "https://www.businessinsider.com/lyft-rentals-companys-latest-offering-drive-yourself-2019-9",
+#   "urlToImage": "https://amp.businessinsider.com/images/5d72becd2e22af362c000877-1536-768.png",
+#   "publishedAt": "2019-09-07T13:13:15Z",
+#   "content": "Lyft is trialling a car-rental service in California, the company confirmed to Business Insider this week.
+#   The service, which works much like a traditional car-rental, is available in San Francisco, Oakland, and Los Angeles. It also comes with a $40 credit to ride to and from the pickup location.
+#   Rates are fairly similar to those of some legacy car-rental companies like Enterprise and Avis among others ($40 to $80 per day, depending on the type of vehicle). A Volkswagen Passat, for example, was offered at $75 per day when Business Insider reporters tried out the service on Friday. Other options are the Volkswagen Atlas, Mazda 3, and the Mazda CX-5.
+#   The minimum age for Lyft's car-rental service is 22-years-old, the company says, and there doesn't appear to be an extra fee for drivers under 25, as with most car-rental companies.
+#   The test is an extension of other transportation forms Lyft has recently expanded into, like bikes and scooters, a representative said. The company has long said it wants to see a world where no one owns personal vehicles and they are instead shared. This seems to be another move in that direction.
+#   Lyft has long offered drivers on its platform the option to rent cars through a program called Express Drive. That's made possible through a partnership with Avis Budget Group, FlexDrive, and Hertz."
+#   },
+#   {
+#   "viewCount": 0,
+#   "category": "Top business headlines",
+#   "author": "Katie Brockman",
+#   "title": "Dreaming of an Early Retirement? Consider Moving to One of These 3 Cities - The Motley Fool",
+#   "description": "These cities boast lower costs of living, but they aren't short on fun retirement activities.",
+#   "url": "https://www.fool.com/retirement/2019/09/07/dreaming-of-an-early-retirement-consider-moving-to.aspx",
+#   "urlToImage": "https://g.foolcdn.com/editorial/images/538634/hammock-on-beach-vacation-philippines.jpg",
+#   "publishedAt": "2019-09-07T12:45:00Z",
+#   "content": "Many workers spend years dreaming of the day they can finally retire, and for some, early retirement would be a dream come true.
+#   Approximately 60% of soon-to-be retirees say retirement will be the most liberating phase in their entire life, according to a survey from TD Ameritrade, and 50% of survey respondents said they would like to retire by age 60. However, while many workers want to retire that early, only a third said they expect to be able to do so.
+#   When you're saving for retirement, a lot of focus is put on saving enough to meet your financial needs. But another factor to consider is whether you can lower your costs in retirement. By living a less expensive lifestyle, you can retire earlier and live more comfortably without breaking the bank.
+#   General living costs will likely be your most significant expense in retirement, and those costs are largely impacted by where you live. Move to one of these more wallet-friendly cities, and you may be able to save enough to retire early.
+#   1. Sun City, Arizona: 
+#   If you're looking to move to a community designed specifically for retirees, you can't beat Sun City. The median home value in the city is around $180,000, according to Zillow -- much less than the median U.S. home value of $229,000.
+#   Once you start collecting Social Security benefits, you won't pay any state income taxes on them in Arizona. While you shouldn't rely too much on Social Security in retirement, the tax break can help save some money.
+#   The general cost of living is slightly higher in Sun City than the national average, but the city has plenty of activities for retirees. With various clubs, events, and other recreational activities, it's easy to keep yourself busy during retirement while sticking to a budget. And because you'll be surrounded by other retirees your age, it will be easier to make friends and find ways to stay occupied without spending too much money.
+#   This is key if you're planning to retire early because you'll likely have decades of free time. If you spend all your free time traveling or learning expensive new hobbies, there's a good chance you'll blow through your retirement savings too quickly.
+#   2. Fort Meade, Florida: 
+#   There's a reason why the Sunshine State is such a popular retirement destination. Not only does it have beautiful beaches and nearly year-round sunny weather, but Florida residents don't pay state income taxes on Social Security benefits -- making it one of the more tax-friendly retirement destinations.
+#   There are several cities in Florida that make for ideal retirement destinations, but Fort Meade is one of the most affordable. The median household income is just under $60,000 per year -- nearly $20,000 more per year than the national average -- yet the city has a relatively low cost of living. The median home value in Fort Meade is just $108,000, and the overall cost of living is nearly 20% lower than the national average.
+#   A small town with a population of less than 6,000 residents, Fort Meade is a good option for those looking for a quieter retirement. Yet the city is also only an hour's drive from Tampa, so there are still plenty of entertainment options when you're itching to get out of the house for a day trip.
+#   3. Idaho Falls, Idaho: 
+#   Idaho may seem like an odd retirement choice, but it has potential to be the perfect retirement destination for many people. Just over a third of people who have moved to Idaho in 2018 said their primary reason for moving was to retire, according to a survey from United Van Lines, and the state is one of the most popular destinations in the country for those looking to relocate.
+#   Idaho Falls has the best of both worlds in that it's a relatively big city with plenty of amenities, yet the cost of living falls close to 10% below the national average. Idaho is also among the states that does not tax Social Security benefits, so the tax advantage can help your retirement income go further.
+#   The city has plenty of museums, restaurants, and other social activities, so you'll have no shortage of ways to enjoy your retirement in Idaho Falls. The city is also a nature lover's dream, with miles of hiking trails along the Snake River and beautiful scenery, complete with the city's famous waterfalls. For those on the adventurous side, you can even visit Wilderness Ridge Trail Llamas to enjoy a hike through the mountains from the back of a llama.
+#   Is moving during retirement the right option for you?:
+#   Before retiring early to move across the country on a new adventure, be sure to do your due diligence and decide whether it's the best retirement option for you. If you're determined to retire early, take a close look at your savings to see just how early you're able to retire.
+#   Don't forget about healthcare costs and Social Security benefits, too. You're not eligible to enroll in Medicare until age 65, and the earliest you can begin claiming Social Security is age 62. Also, there's a possibility that Social Security benefits could be cut in the next few decades. So as you're planning for retirement, make sure you're not going to be relying too heavily on your benefits to cover your expenses.
+#   If you've decided that early retirement is right for you, make sure to do your research before moving to a new city. Take a couple of weeks to visit your prospective new town to find out whether you could see yourself living there. Try to live like a local and see whether it feels like home. Do you fit in with your prospective new community? Does the city have enough amenities to keep you busy in retirement? Will your friends and family be able to visit? Giving your new city a trial run can ensure you're happy there before you start packing your bags.
+#   Not everyone can retire early, but it's not impossible. You'll likely need to supercharge your savings to make sure you have enough to last several decades, but lowering your costs by moving to a less expensive city can also help your money last longer -- and create a more enjoyable retirement for decades to come.
+#   The $16,728 Social Security bonus most retirees completely overlook
+#   If you're like most Americans, you're a few years (or more) behind on your retirement savings. But a handful of little-known Social Security secrets could help ensure a boost in your retirement income. For example: one easy trick could pay you as much as $16,728 more... each year! Once you learn how to maximize your Social Security benefits, we think you could retire confidently with the peace of mind we're all after."
+#   },
+#   {
+#   "viewCount": 0,
+#   "category": "Top business headlines",
+#   "author": "FOXBusiness",
+#   "title": "Trump slams Fed, says trade war forced China to use stimulus plan - Fox Business",
+#   "description": "The president tweeted he felt the Federal Reserve wasn't doing the economy any favors as China moved to stimulate their own economy due to the trade war.",
+#   "url": "https://www.foxbusiness.com/economy/trump-federal-reserve-china-economic-stimulus-trade-war",
+#   "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2018/07/0/0/Trump-Powell.jpg?ve=1&tl=1",
+#   "publishedAt": "2019-09-07T12:30:42Z",
+#   "content": "Hours after Federal Reserve Chairman Jerome Powell said he did not see the U.S. sliding into a recession despite uncertainty surrounding the U.S.-China trade war with China, President Trump had a few words for Twitter followers about China’s economic strategy.
+#   In a late-night tweet, Trump claimed that Beijing needed to stimulate its economy because of the U.S. tariffs on more than $350 billion worth of Chinese goods, but once again slammed the U.S. central bank saying it “does NOTHING!”
+#   “China just enacted a major stimulus plan. With all the Tariffs THEY are paying to the USA, Billions and Billions of Dollars, they need it! In the meantime, our Federal Reserve sits back and does NOTHING!” he wrote in the tweet.
+#   The People’s Bank of China Friday, in a statement on its website, said it would cut the amount of cash that banks are required to hold in reserve. The shift pivots the country to the lowest level of capital reserves since 2007.
+#   China’s stimulus package is estimated to bring an added $126 billion in available loans to kick-start growth.
+#   Powell on Friday, while speaking in Zurich, Switzerland, said he “wouldn’t see the recession as the most likely outcome in the U.S.”
+#   “The most likely outlook is still moderate growth, a strong labor market and inflation continuing to move back up, he said.
+#   When asked if he felt whether politics influenced decisions by the U.S. central bank, he was emphatic.
+#   Political factors play absolutely no role in our process, and my colleagues and I would not tolerate any attempt to include them in our decision-making or our discussions, he said.
+#   Trump has often criticized Powell for stifling economic growth by raising interest rates in 2018.
+#   In July, Fed policymakers cut interest rates for the first time since the financial crisis. They are expected to lower rates by another 25 basis points during their upcoming meeting on Sept. 18."
+#   },
+#   {
+#   "viewCount": 0,
+#   "category": "Top business headlines",
+#   "author": "Susan Selasky",
+#   "title": "Worth the hype: Popeyes wins our taste test vs. Chick-fil-A, Wendy's - Detroit Free Press",
+#   "description": "We got our hands on the new Popeyes classic and spicy chicken sandwiches and compared them to Chick-fil-A and Wendy's, here's who won.",
+#   "url": "https://www.freep.com/story/entertainment/dining/2019/09/07/popeyes-chick-fil-a-wendys-chicken-sandwich-taste-test/2230366001/",
+#   "urlToImage": "https://www.gannett-cdn.com/presto/2019/09/05/PDTF/f7510ce0-237a-4cdc-8851-9792bbe8b262-ChickenComposite.jpg?crop=1919,1080,x0,y0&width=3200&height=1680&fit=bounds",
+#   "publishedAt": "2019-09-07T10:01:00Z",
+#   "content": "A sweet tasting bun that matched a meaty portion of chicken. Crunchy thick-sliced pickles. A good size fried chicken breast with crunchy pieces. 
+#   Top it off with a slather of a well-balanced spicy mayo that doesn’t overpower and you’re tasting Popeyes' new chicken sandwich that has been the talk of the country.
+#   But is it worth the hype? 
+#   Call us curious. We had to take a bite into the sandwiches for ourselves.
+#   We wanted to know how a fried chicken sandwich spurred a Twitter war, a lawsuit, made an angry customer draw a gun at a Houston Popeyes, according to CNN, when the customer couldn’t get the sandwich and created lines at Popeyes locations across the country. And at some locations, they limited the number of sandwiches you could buy with each order.
+#   Popeyes' new sandwich debuted in mid-August and quickly fueled a social media storm.
+#   Clearly, Popeyes' new chicken sandwich offering is meant to compete with Chick-fil-A's signature sandwich. Chick-fil-A responded with its own tweets touting its chicken sandwiches.
+#   Once the storm brewed, Popeyes quickly ran out of sandwiches. Now, it appears, some locations are becoming stocked again. But as of last Wednesday, a sign was taped to the door of the Popeyes on Woodward in Highland Park saying it was out of chicken sandwiches.
+#   We pitted both the classic and spicy Popeyes chicken sandwich against nearly the same versions from Chick-fil-A and Wendy’s. We included Wendy’s after several staffers mentioned being fans of its chicken sandwiches.
+#   And now, drum roll, please. 
+#   It was the sum of all those parts and pieces of Popeyes' new — and hard to come by — spicy chicken sandwich that Free Press taste testers declared as a winner.
+#   But we must add: Popeyes' spicy chicken just barely eked out the win.
+#   Chick-fil-A was very, very close. Out of the four taste testers, three deemed Popeyes spicy chicken the winner. The fourth chose Chick-fil-A because it came without mayonnaise. Wendy's wasn't even in the running. 
+#   Nutrition-wise, nearly all the sandwiches' fat and sodium counts were high. But fat-wise, Popeyes has 42 grams — nearly twice the amount of all others — and the highest amount of saturated fat at 14 grams. But it is, after all, a fried chicken sandwich.
+#   On the sodium counts, Wendy's spicy chicken is the lowest at 990 milligrams and Chick-fil-A spicy is the highest at 1,620 milligrams. The American Heart Association (AHA) recommends adults consume no more than 2,300 milligrams a day. Ideally, the AHA would like to adults to limit to no more than 1,500 milligrams per day.
+#   Staff judges-
+#   Tresa Baldas: Covers federal courts.
+#   Kirkland Crawford: Deputy sports editor.
+#   Georgea Kovanis:  Writes about the opioid epidemic.
+#   Susan Selasky: Food writer/Woodward 248 reporter.
+#   Here is a summary of the judges findings:
+#   Overall winner: Popeyes Spicy Chicken Sandwich
+#   Menu description from popeyes.com: A tender all-white meat chicken breast fillet, marinated in an authentic blend of Louisiana seasonings, then hand-battered and breaded in our all new buttermilk coating. Served with crisp barrel cured pickles and classic or spicy Mayonnaise, served on a warm and toasted buttery brioche bun.
+
+#   Nutrition: 
+#   Calories                         Total Fat                Saturated Fat       Sodium
+#   700                                    42 grams              14 grams          1,473  milligrams
+#   Price: $3.99
+#   Judges comments: Attractive and inviting looking, well-made sandwich. Good size, thick chicken breast nestled in the brioche bun. The chicken was flavorful and juicy with the right kick. Everything was fresh looking and the way the sandwich was wrapped, made it look upscale.
+#   Popeyes Classic Chicken Sandwich
+#   Menu description from popeyes.com: A tender all-white meat chicken breast fillet, marinated in an authentic blend of Louisiana seasonings, then hand-battered and breaded in our all new buttermilk coating. Served with crisp barrel cured pickles and classic or spicy Mayonnaise, served on a warm and toasted buttery brioche bun.
+#   699                                    42 grams              14 grams          1,443  milligrams
+#   Price: $3.99
+#   Judges comments: Good size piece of chicken breast. Great flavor and a big yay to the crunchy pickles as well as the sandwich not being greasy.  It was as expected and the mayo was just enough.
+  
+#   Chick-Fil-A Classic Chicken Sandwich
+#   Menu description at chick-fil-a.com: A boneless breast of chicken seasoned to perfection, hand-breaded, pressure-cooked in 100% refined peanut oil and served on a toasted, buttered bun with dill pickle chips. 
+#   440                                  19 grams                  4 grams               1,350 milligrams
+#   Price: $4.09
+#   Judges comments: The chicken is really good and juicy. Though one judge deemed it nothing outstanding and another called it no frills and not particularly crispy. The chicken was bland and the sandwich was not well put together.  
+  
+#   Chick-Fil-A Spicy Chicken Sandwich
+#   Menu description from chick-fil-a.com: A boneless breast of chicken seasoned with a spicy blend of peppers, hand-breaded, pressure cooked in 100% refined peanut oil and served on a toasted, buttered bun with dill pickle chips. Gluten-free bun or multigrain bun also available at an additional cost.
+#   450                                  19 grams                   4 grams            1,620 milligrams
+#   Price: $4.39
+#   Judges comments: This fell flat a bit in looks, but judges said this isn't a beauty contest. Very juicy and the chicken is the star with this one, but on the salty side. It packed enough of a spicy punch that one judge said there was no need for mayo. The pickles were flimsy and no big deal.
+  
+#   Wendy’s Homestyle Chicken Sandwich
+#   Menu description from wendys.com: A juicy, lightly-breaded chicken breast, crisp lettuce and tomato, and just enough mayo, all on a toasted bun. It’s extra comfy comfort food.
+#   500                                  22 grams                   4 grams           1,020 milligrams
+#   Price: $5.09
+#   Judges' comments: This sandwich got very low marks. It was bland, messy and tasted institutional. Taste like any other fried chicken sandwich. The chicken sandwich game has been raised and Wendy's needs to catch up.  
+  
+#   Wendy's Spicy Chicken Sandwich
+#   Menu description from wendys.com: A juicy chicken breast marinated and breaded in our unique, fiery blend of peppers and spices to deliver more flavor inside and out, cooled down with crisp lettuce, tomato, and mayo. 
+#   500                                  19 grams                     3.5 grams                990 milligrams
+#   Price: $5.09
+#   Judges' comments: This was spicy enough and tasted better than Wendy's homestyle. But it still fell way short of the sandwiches from Chick-fil-A and Popeyes. The flavor was OK for a fast-food chicken sandwich, but was nothing special."
+#   },
+#   {
+#   "viewCount": 0,
+#   "category": "Top business headlines",
+#   "author": "Sarah Perez",
+#   "title": "Roku expands its TV licensing program to Europe - TechCrunch",
+#   "description": "Roku TV today represents more than 1 in 3 smart TVs sold in the U.S. Now, the company is bringing its TV licensing program to European markets. At the consumer tech show IFA in Berlin, Roku announced it will now allow manufacturers to license its TV reference…",
+#   "url": "https://techcrunch.com/2019/09/07/roku-expands-its-tv-licensing-program-to-europe/",
+#   "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/09/Hisense-Roku-TV.png?w=711",
+#   "publishedAt": "2019-09-07T08:31:48Z",
+#   "content": "TV today represents more than 1 in 3 smart TVs sold in the U.S. Now, the company is bringing its TV licensing program to European markets. At the consumer tech show IFA in Berlin, Roku announced it will now allow manufacturers to license its TV reference designs and use its Roku OS to build smart TVs for sale in Europe. It also said Hisense would be its first European Roku TV partner.
+#   Today, the connected TV market is no longer limited to just the dongles, sticks, and streaming media players that plug into the HDMI ports of consumers’ TV sets.
+#   Top companies like Roku, Google and Amazon are also making their operating systems and reference designs available to TV makers themselves, in a battle to gain consumer market share. Apple has been rumored to be working on its own television set powered by tvOS, as well.
+#   Roku, to date, done well on this front in its home market, after first introducing the Roku TV platform at the Consumer Electronics Show in 2014. Hisense was then one of its first partners on the effort. Fast-forward to 2019, and there are now over 100 models available from over 10 brands in North America, and the company estimates that Roku TV is now the No. 1 selling smart TV OS in the U.S.
+#   Roku isn’t alone in targeting Europe with its TV platform. Amazon this week announced more than 20 new Fire TV devices, 15 of which were TVs licensing its Fire OS. Many of these were also aimed at European consumers through partnerships with local brands and retailers.
+#   The new Hisense Roku TV models will support 4K Ultra HD resolutions and HDR, and will come in sizes ranging up to 65 inches, Roku says. The models will launch in the U.K. in the fourth quarter.
+#   “While consumers love Roku TV’s simplicity and advance features, TV manufacturers benefit from the low manufacturing cost, a variety of technology options, and support from Roku,” said Roku CEO and Founder Anthony Wood, in a statement. “The ability to quickly bring to market a leading smart TV experience that is regularly updated by Roku and is packed with entertainment gives TV manufacturers an edge in the competitive TV business. We are pleased to bring the Roku TV licensing program to Europe and look forward to the first Hisense Roku TVs in market this year,” he said."
+#   },
+#   {
+#   "viewCount": 0,
+#   "category": "Top business headlines",
+#   "author": "Joseph Kishore",
+#   "title": "UAW to autoworkers: We won't tell you anything, but don't read the World Socialist Web Site - World Socialist Web Site",
+#   "description": "With just less than a week before the expiration of contracts at Ford, GM and Fiat Chrysler, the UAW is terrified that opposition among autoworkers will erupt outside of its control.",
+#   "url": "https://www.wsws.org/en/articles/2019/09/07/auto-s07.html",
+#   "urlToImage": "https://www.wsws.org/asset/cb80c637-a50a-4894-b922-41c2d2ded4c9/image.jpg",
+#   "publishedAt": "2019-09-07T06:00:08Z",
+#   "content": "On September 12 at 6:00 pm, the WSWS Autoworkers Newsletter is hosting an online meeting to discuss the strategy and perspective needed to organize this struggle. To participate, visit wsws.org/autocall.
+#   With just less than a week before the expiration of contracts at Ford, GM and Fiat Chrysler, the UAW is terrified that opposition among autoworkers will erupt outside of its control.
+#   Even as the UAW tells workers nothing about the supposed “negotiations,” it has issued a plea that they do not look to other sources of information, above all the WSWS Autoworker Newsletter. This is the essential content of a letter sent to Ford workers from UAW-Ford Vice President Rory Gamble on Thursday.
+#   The letter begins by stating that its purpose is to “provide you—and especially our newer members for whom the bargaining process may be unfamiliar—an update on negotiations and where we are in that process.”
+#   In fact, the letter contains no “update.” It states that “numerous subcommittees have been negotiating” and “most have reached tentative agreements,” but “larger economic issues remain.”
+#   What these “numerous” subcommittees have agreed to, even what these “numerous” subcommittee men and women were talking about, is not explained. As for the “larger economic issues” that “remain,” workers are left guessing as to what they might be.
+#   After submitting this “update” to the autoworkers, Gamble goes on to the main task at hand. “Many entities against us are attempting to skew perception,” he writes. “I ask that you be cautious of the sources from which you receive your information and the material you choose to share. It is imperative that we are not misguided about these negotiations by rumors, misinformation of outside influences.”
+#   Gamble is too shy to name names, but he is clearly referring to the World Socialist Web Site Autoworker Newsletter. In 2015, when the WSWS was at the center of rank-and-file opposition among autoworkers, UAW President Dennis Williams—whose home was recently raided by the FBI—denounced “outside groups” who “like to stir people up,” while top AFL-CIO lawyer Bruce Miller attacked the WSWS as “vultures on the left dressed in red garb.”
+#   Let us consider Gamble’s warning. Workers, he writes, should be wary of entities trying to “skew perception” and to “be cautious of the sources from which you receive your information.”
+#   Solid advice, no doubt. It should be applied first and foremost to the UAW itself. After all, the organization has been exposed as a criminal syndicate that has stolen money from autoworkers and accepted bribes from the companies in exchange for pushing through pro-company contracts.
+#   Gamble himself has not been named or implicated (yet) in the federal investigation. He only joined the top leadership of the UAW at the organization’s convention in June 2018, replacing the outgoing VP at Ford, Jimmy Settles.
+#   Gamble, however, previously headed UAW Region 1, which includes the Detroit Area. In that position, he worked closely with Settles in the notorious 2015 vote at Ford, which led to widespread allegations of vote rigging and ballot stuffing. Settles orchestrated a last-minute postponement of the vote at Local 600 (which covers Ford operations in Dearborn) as the contract was headed for defeat. The final vote at Local 600 ended up being just enough for the UAW to claim a 51 percent ratification for the national contract.
+#   In the above-mentioned statement in 2015, AFL-CIO lawyer Miller attacked the WSWS for “accusing the UAW of selling out its members with the contract settlement.” The fact that the UAW sold out its members—literally—has been amply proven. Everything the WSWS said about the contracts in 2015, and about the UAW, was correct.
+#   Four years later, the UAW is entering these contract “negotiations” under truly extraordinary circumstances. Top executives and officials have been charged or implicated in an expanding corruption scandal, and the current head of the organization, Gary Jones, has had his house raided.
+#   The most recent acknowledgement of guilt has come from Michael Grimes, a former top aide to Cindy Estrada, the current UAW Vice President at Fiat Chrysler. In 2015, Estrada was UAW VP for General Motors. Grimes pleaded guilty this past week to taking more than $1.5 million in bribes and kickbacks over 12 years, while he served on the board of the UAW-GM Center for Human Resources.
+#   It is not only the UAW that is terrified of what will come out of this. The Detroit News' Daniel Howes, in a column published on Thursday, notes that “the legal quagmire ensnaring current and past leadership, and the political context enveloping a process turbocharged by social media, pose enormous challenges for the UAW and all three automakers trying to sell a prospective (and clean) deal to their hourly workforces.” (emphasis added)
+#   The fear of “social media” is the fear that workers will be able to communicate and organize independently of the UAW. The unions and the corporate elite have the experience not only of the 2015 auto contracts, but also the teachers’ strikes last year, which developed largely outside of the control of the teachers’ unions.
+#   The New York Times noted in an article at the time that West Virginia teachers “found ways to organize and act outside the usual parameters of traditional unionism,” including through “an enormous Facebook group.”
+#   Whatever Gamble and the UAW may hope, autoworkers will not heed their advice. Workers are and will continue to share information online and organize opposition. The call of the WSWS Autoworker Newsletter for the formation of independent, rank-and-file committees is winning a powerful response.
+#   A battle is looming, pitting autoworkers against the companies and their bought-and-paid for lackeys in the UAW. We urge all workers to sign up for the WSWS Autoworker Newsletter as the essential source of news and perspective for the coming struggle."
+#   },
+#   {
+#   "viewCount": 0,
+#   "category": "Top business headlines",
+#   "author": "Alyse Stanley",
+#   "title": "Google Confirms DOJ Scrutiny, Says It Must Hand Over Antitrust Records - Gizmodo",
+#   "description": "The Department of Justice is mandating that Google’s parent company, Alphabet, hand over any information regarding previous antitrust investigations into the tech giant, Google announced Friday.",
+#   "url": "https://gizmodo.com/google-confirms-doj-scrutiny-says-it-must-hand-over-an-1837947773",
+#   "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--IbWlFDqq--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/nhs40pas0mn6h3ivtunw.jpg",
+#   "publishedAt": "2019-09-07T03:59:00Z",
+#   "content": "The Department of Justice is mandating that Google’s parent company, Alphabet, hand over any information regarding previous antitrust investigations into the tech giant, Google announced Friday.
+#   This marks the company’s first public admission that it’s among the companies being reviewed as part of a wide-ranging, antitrust investigation the Justice Department launched in July. According to an SEC filing also made public Friday, the company has acknowledged an additional probe into its practices from “more than half” of the state attorneys general expected to be announced Monday, as the Washington Post reported earlier this week.
+#   “The DOJ has asked us to provide information about these past investigations, and we expect state attorneys general will ask similar questions,” Google’s senior vice president Kent Walker wrote in a blog post Friday. “We have always worked constructively with regulators and we will continue to do so.”
+#   It’s unclear what that information entails, but it’ll likely include documents and findings from the Federal Trade Commission’s 2013 probe into Google’s business practices over concerns that it was throttling the smartphone and online search advertising markets.
+#   Big tech companies have been facing increased scrutiny throughout this year as privacy scandals, in particular, continue to make headlines. Google’s disclosure comes on the heels of news from earlier today that New York’s attorney general plans to launch a multi-state antitrust probe into Facebook. The social media giant has also confirmed it’s being investigated by both the FTC and the DOJ for antitrust violations. The FTC recently fined Facebook a record $5 billion for privacy abuses linked to the Cambridge Analytica scandal, a measure many Democrats denounced as a slap on the wrist.
+#   In July, the Justice Department announced it was launching a probe into “market-leading online platforms” to review whether these companies “reduced competition, stifled innovation, or otherwise harmed consumers.” The move came after months of deliberation between the DOJ and FTC, both of which possess antitrust powers, as the two coordinated which companies to investigate among the big names in tech such as Amazon, Apple, Facebook, and Google."
+#   },
+#   {
+#   "viewCount": 0,
+#   "category": "Top business headlines",
+#   "author": "Reuters Editorial",
+#   "title": "China's August forex reserves rise to $3.1072 trillion - Reuters",
+#   "description": "China's foreign exchange reserves rose unexpectedly in August, even as the yuan posted its biggest monthly drop in 25 years amid escalating trade tensions with the United States.",
+#   "url": "https://www.reuters.com/article/us-china-economy-forex-reserves/chinas-august-forex-reserves-rise-to-3-1072-trillion-idUSKCN1VS02L",
+#   "urlToImage": "https://s2.reutersmedia.net/resources/r/?m=02&d=20190907&t=2&i=1427129639&w=1200&r=LYNXNPEF8605H",
+#   "publishedAt": "2019-09-07T03:16:00Z",
+#   "content": "BEIJING (Reuters) - China’s foreign exchange reserves rose unexpectedly in August, even as the yuan posted its biggest monthly drop in 25 years amid escalating trade tensions with the United States.
+#   The country’s foreign exchange reserves - the world’s largest - rose by $3.5 billion in August to $3.1072 trillion, central bank data showed on Saturday.
+#   Economists polled by Reuters had expected reserves would fall $4 billion from July to $3.100 trillion, likely due to fluctuations in global exchange rates and the prices of foreign bonds that China holds.
+#   The increase in August was due to China maintaining a stable balance of international payments and generally stable economic growth, the foreign exchange regulator said in a statement after the data release.
+#   Bond prices in major countries also rose, it added.
+#   China has been able to keep capital outflows under control over the past year despite an escalating trade war with the United States and weakening economic growth at home.
+#   Reserves have rebounded from an October 2018 low thanks to capital controls and rising foreign investments in Chinese stocks and bonds.
+#   In August, the yuan CNY=CFXS tumbled about 3.8% against the dollar – its sharpest monthly drop since China unified official and market exchange rates in 1994. It is currently trading at 11-1/2 year lows.[CNY/]
+#   China allowed the yuan to break through the closely watched 7-per-dollar level on Aug.5 for the first time since the global financial crisis, days after the United States said it would impose more tariffs on Chinese goods from Sept. 1.
+#   Hours after the yuan slid, Washington labeled China a currency manipulator for the first time since 1994, but China’s foreign exchange regulator said such move had no grounds and did not accord with facts.
+#   The yuan has now depreciated about 12% against the dollar since the two sides began exchanging tit-for-tat tariffs in April last year.
+#   The regulator said in August it did not expect a disorderly depreciation of the yuan despite the impact from external factors such as trade frictions, and traders believe the central bank has been trying to slow the pace of decline.
+#   The dollar rose 0.4% in August against a basket of other major currencies .DXY.
+  
+#   STIMULUS:
+#   With downward pressure on the economy increasing, China on Friday announced further cuts in banks’ reserve requirements to free up more funds for lending. Analysts also widely expected modest interest rate cuts in mid-September.]
+#   Growth is believed to be nearing the bottom end of the government’s 6-6.5% full-year target range, after slowing to 6.2% in the second quarter, its weakest pace in at least 27 years.
+#   China burned through $1 trillion of reserves supporting the yuan in the last economic downturn in 2015, which also saw it devalue the currency in a surprise move.
+#   China has been ramping up its gold reserves this year.
+#   It held 62.45 million fine troy ounces of gold at end-August, up 4.85 percent from 59.560 million ounces at the end of 2018.
+#   The value of its gold reserves rose to $95.45 billion at end-August from $87.876 billion at end-July."
+#   },
+#   {
+#   "viewCount": 0,
+#   "category": "Top business headlines",
+#   "author": "Bradley Brownell",
+#   "title": "Elon Musk Says A Model S Is Doing The Nürburgring, Didn't Tell The Nürburgring - Jalopnik",
+#   "description": "",
+#   "url": "https://jalopnik.com/elon-musk-says-a-model-s-is-doing-the-nurburgring-didn-1837944367",
+#   "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--UaqYmP3j--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/rxitz0thcbii173yq647.png",
+#   "publishedAt": "2019-09-07T00:00:00Z",
+#   "content": "Before Porsche had even shown the production Taycan to the public, it had a Nürburgring lap time. While we know well that the Taycan is not a direct competitor to Tesla’s Model S [or is it?] it seems that Elon Musk isn’t exactly pleased that people are talking about the Taycan instead of Tesla. As he is often wont to do, he sent a tweet yesterday ruling by edict from on high. Without anything to back it up.
+#     ‘Ring times don’t just happen. It takes months of planning. You can’t just rock up to the gate and say “I’m here to set a record.” You have to book manufacturer time, be on the schedule, pay the right people, and be in the right place.
+#     According to the folks at the Nürburgring, Tesla has not done that. “Tesla did not send us a record request and did not rent an exclusive time slot,” a representative of the track confirmed to Road & Track by e-mail.
+#     Another source familiar with the subject told R&T that Tesla is shipping a car over to Germany from California right now, but testing time has been booked for this week well before Musk’s Thursday afternoon tweet. It’s unlikely that the EV automaker will be able to jump into the lineup, and it is possible Tesla doesn’t even know that it needed to schedule time in advance.
+#     Technically Musk just said a Model S would be on the Nürburgring next week, which still could be accomplished. It is an open-to-the-public toll road, after all. Tesla’s test driver could simply pay the 27 euros like everyone else and put the pedal to the metal.
+#     If we do see a Tesla Nürburgring lap time next week, it will likely have been set during a Touristenfahrten open lapping session. It’s hard enough to set a new lap record when you have the track to yourself. Negotiating traffic will chunk several seconds onto your time.
+#     I’d hate to be in the middle of a hot lap and have a Renault Laguna cut me off, nulling the whole damn thing. I only brought enough euros for two laps!
+#     One other problem, the tourist days only run the track from Bridge to Gantry, cutting out a little section of the track. That means a “lap time” won’t be a full lap.
+#     Best of luck, buds!"
+#   }
+# ]
+
+# 999 Apple
+
+# news = [
+
+# ]
+
 news.each {|news| News.create(news)}
 
 # Scrapbook.create(user: User.all.sample)
