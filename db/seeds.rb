@@ -2366,6 +2366,459 @@ news = [
             },
             {
             "viewCount": 0,
+            "category": "Apple",
+            "author": "Casey Newton",
+            "title": "Facebook Dating could have an unfair advantage over its competitors",
+            "description": "Why antitrust investigators should take a look at the company’s latest project",
+            "url": "https://www.theverge.com/interface/2019/9/6/20852035/facebook-dating-competition-antitrust-instagram-tinder-hinge",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/ubaxELNj6vUqs8uuJwmC4rS9Kvk=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11559995/akrales_180614_1777_0080.jpg",
+            "publishedAt": "2019-09-06T10:00:00Z",
+            "content": "A defining feature of Facebook’s approach to product development is its ruthlessness, which often manifests as a kind of shamelessness. If good taste ever dictates that Facebook stay out of a product, history shows that it’s likely to wade right in. There are, for example, all the times that the company copied Snapchat. Or there was the development of the always-listening Portal video phone, which was delayed by the onset of one privacy scandal and still managed to launch during another one.
+            Today, with federal agencies investigating whether the company’s tight integration between its family of products represents anti-competitive behavior, Facebook released in the United States a new service that moves to further knit them all together. It’s called Facebook Dating, and I wrote about it at The Verge:
+            Nearly a year after it began testing in Colombia, Facebook Dating is now available in the United States. The product, which is available to users 18 and older, will appear as a new tab within the Facebook mobile app. People who opt in to Dating can create a profile that’s separate from their main Facebook profile with one tap and meet potential romantic partners among their friends of friends — or, if that makes you uncomfortable, completely outside of your existing friend network.
+            Facebook says it will suggest matches for you based on preferences you express when you create your profile, along with your interests and Facebook activity. The app, which borrows many design elements from the dating app Hinge, allows you to send a “like” and a corresponding message to any profile you encounter on the service.
+            The most notable thing about Facebook Dating from a regulatory point of view is likely the way it takes advantage of at least five pillars of the company. (This doesn’t always work, as the New York Times reported today in a new investigation into Facebook romance scams.) It uses your Facebook friend graph and profile to find you matches and verify the authenticity of your account. It lets you find romantic partners among people who are in the same Facebook groups, or attending the same Facebook events, that you are. It encourages you coordinate your plans on Messenger.
+            And finally, with the US launch, Facebook Dating has added a close integration with Instagram. You can add a module of your recent Instagram photos to your dating profile, and eventually, you’ll be able to post Instagram stories there as well.
+            Ever since we learned in January that Facebook intends to unify its messaging products under a single banner, it has been clear that the company has been in a race against time. Its mission is to dissolve every possible boundary between WhatsApp, Instagram, and the flagship app, so that if regulators try to force them to spin those out into separate companies, they can complain that it’s simply impossible. If Facebook succeeds, there will be no real “Instagram” or “WhatsApp” to speak of — there will simply be Facebook, available in a handful of different flavors.
+            In any case, regulation was not the main theme in coverage of Facebook dating today. Instead the theme was, as you might expect, privacy. The company put up a separate blog post intended to address privacy concerns about Dating, but not everyone was satisfied. (Brian Menegus in Gizmodo: “Oh god. Oh no. Please do not do this.”)
+            And some questions about Dating went unanswered. Here’s Brian Feldman in New York:
+            Facebook was adamant about how a Dating profile is separate from a user’s main FB profile: Friends aren’t shown as potential matches, and you can preemptively block people. The fact that someone is using Facebook Dating is kept siloed; your Facebook life and your Facebook Dating life are supposedly separate. But under the surface, it seems as if every part of the service is integrated with Facebook’s other properties, which in turn gives Facebook more personal data to potentially target users with ads. New tactics, same old objective.
+            At the time of this article’s publication, Facebook had not responded to a few simple yes-or-no questions. It’s not clear whether Facebook will use data gathered through the dating service for ad targeting. It’s also not clear whether messages sent between Dating users are end-to-end encrypted (though Facebook has publicly stated its intention to implement encryption on all of its messaging services). But even if Facebook harvests no bits of personal information from the use of its dating service, the thing is designed to get people to use the other parts of Facebook that do harvest info.
+            On balance, I suppose the privacy concerns about Facebook Dating are better grounded than concerns over competition. Dating apps are one of the most competitive spaces in the tech industry, with multiple highly popular new networks popping up each year. (In the end almost all of them are bought by Match Group, which owns Match.com, Tinder, and OKCupid, among many others.)
+            But then — social networking seemed pretty competitive when Facebook bought Instagram and WhatsApp, too. Facebook Dating is now available in 20 countries, and can bootstrap its own growth by promoting itself in one of the most popular apps in the world — while further enmeshing itself with Instagram. (Dating apps like Tinder and Hinge let you integrate with Instagram as well — but will that always be the case? Will Instagram stories come to them, too?)
+            And for the moment, it’s ad-free and doesn’t require in-app purchases to use any of its features. That’s a luxury that smaller products simply can’t afford.
+            As a product, Facebook Dating strikes me as well designed and likely quite useful. (It has already produced marriages in some of the countries where it operates, product manager Nathan Sharp told me.) But as a story about competition, it’s another area where Facebook’s many strengths could crowd out competitors over time. If I were mounting an antitrust investigation against the company, it’s a product I’d take a very close look at."
+            },
+            {
+            "viewCount": 0,
+            "category": "Apple",
+            "author": "Anthony Ha",
+            "title": "Daily Crunch: Apple Music comes to the web",
+            "description": "The Daily Crunch is TechCrunch’s roundup of our biggest and most important stories. If you’d like to get this delivered to your inbox every day at around 9am Pacific, you can subscribe here. 1. Apple Music launches a public beta on the web While this is the f…",
+            "url": "http://techcrunch.com/2019/09/06/daily-crunch-apple-music-comes-to-the-web/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/09/browse-signed-in-MBP.jpeg?w=618",
+            "publishedAt": "2019-09-06T18:39:13Z",
+            "content": "The Daily Crunch is TechCrunch’s roundup of our biggest and most important stories. If you’d like to get this delivered to your inbox every day at around 9am Pacific, you can subscribe here.
+            1. Apple Music launches a public beta on the web
+            While this is the first time Apple  has made its music service available on the web, the recent popularity of an unofficial website suggested that there’s some pent-up demand here.
+            The beta website includes most of Apple Music’s core features, but if you’re a new user looking to sign up, you’ll have to do that elsewhere, through the mobile or desktop app, for now.
+            2. NY attorney general will lead antitrust investigation into Facebook
+            In a statement, New York Attorney General Letitia James said her team “will use every investigative tool at our disposal to determine whether Facebook’s actions may have endangered consumer data, reduced the quality of consumers’ choices, or increased the price of advertising.”
+            3. Alibaba acquires NetEase Kaola in deal worth $2 billion
+            Alibaba-owned Tmall Global and Kaola are China’s largest and second-largest cross-border e-commerce platforms, respectively, and as a result of the deal, Kaola will be integrated into Tmall. 
+            4. Xiaomi has shipped 100 million smartphones in India
+            The Chinese giant, which has held the top smartphone vendor position in India for eight straight quarters, said budget smartphone series Redmi and Redmi Note have been its top selling lineups in the nation.
+            5. Facebook is making its own deepfakes and offering prizes for detecting them
+            Facebook, Microsoft and many others are banding together to help make machine learning capable of detecting deepfakes — and they want you to help.
+            6. YouTube launches a dedicated Fashion vertical
+            The new vertical, YouTube.com/Fashion, will attempt to better organize some of the video platform’s fashion content, including style videos from top creators, industry collaborations, live streams from the runway, inside looks into the fashion industry, behind-the-scenes video and vlogs from fashion icons.
+            7. How early-stage startups can use data effectively
+            Koen Bok outlines what he’s learned from his experience using data to take design software company Framer from seed round to Series B. (Extra Crunch membership required.)"
+            },
+            {
+            "viewCount": 0,
+            "category": "Apple",
+            "author": "Sarah Perez",
+            "title": "Tile teams up with Google to bring its lost item finding technology to Google Assistant",
+            "description": "As rumors about Apple’s plans to launch a Tile competitor swirl, Tile today announced it’s teaming up with Google to make it easier for users to locate their lost items using their Android devices and Google Assistant. For the uninitiated, Tile is a small har…",
+            "url": "http://techcrunch.com/2019/09/06/tile-teams-up-with-google-to-bring-its-lost-item-finding-technology-to-google-assistant/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/01/TilePro_inBlack.jpg?w=600",
+            "publishedAt": "2019-09-06T14:45:36Z",
+            "content": "As rumors swirl about Apple’s plans to launch a Tile  competitor, Tile today announced it’s teaming up with Google  to make it easier for users to locate their lost items using their Android devices and others using Google Assistant. For the uninitiated, Tile is a small hardware accessory that you can attach to items like keys, purses, bags, wallets and more, which can then be tracked using a combination of Bluetooth technology and the wider network of Tile users running the companion app on their phone.
+            The newly announced Google Assistant integration will make it possible for Google Assistant users to use voice commands to ring the Tile attached to the missing item. This is supported by way of Tile’s “direct ring” technology, which allows the platform to directly connect with, then ring, the lost item.
+            The Google Assistant integration will be similar to using any other smart home Action through the Assistant, Tile says, and will launch later this year.
+            “This is big news for Tile customers,” said CJ Prober, CEO of Tile, in a statement. “If you were to lose or misplace your wallet, remote, backpack – anything, Google will soon join your personal search party with a simple voice command.”
+            Tile’s announcement of Google Assistant integration comes at an interesting time.
+            Apple, which is hosting its iPhone event next week, has been found to be developing its own Tile competitor. Recently, code referencing a new tab labeled “Items” in iOS 13’s “Find My” app was also discovered, hinting at a forthcoming launch.
+            It’s unclear, of course, when Apple plans to actually unveil this hardware. But Tile, apparently, is looking to get ahead of any such announcement with its news for Android and Google Assistant users.
+            Tile has grown to become one of the top makers of Bluetooth-powered lost-item trackers on the market, with 22 million sold in 2018 and a user base that’s locating more than 5 million items daily using its platform across 230 countries and territories around the world.
+            The company has since expanded beyond its consumer devices to provide location tracking to more products by way of partnerships with BLE chipmakers and other manufacturers.
+            As of today, that list also includes Sennheiser, which launched its new Momentum Wireless around-ear headphones (339 EUR) at the IFA consumer electronics show in Berlin today. The headphones will ship with Tile’s Community Fine technology built-in, so users can locate them if they become misplaced, lost or stolen.
+            Tile now has more than 20 partnerships with the addition of Sennheiser, the company says."
+            },
+            {
+            "viewCount": 0,
+            "category": "Apple",
+            "author": "Sarah Perez",
+            "title": "Paid streaming music subscriptions in U.S. top 60M, says RIAA",
+            "description": "Streaming music subscriptions continue to drive the U.S. music industry’s growth and revenues, according to a new report from the Recording Industry Association of America (RIAA) released this week. The organization said total music revenue grew 18% to $5.4 b…",
+            "url": "http://techcrunch.com/2019/09/06/paid-streaming-music-subscriptions-in-u-s-top-60m-says-riaa/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/09/amazon-music-ios-icon.jpg?w=711",
+            "publishedAt": "2019-09-06T20:01:48Z",
+            "content": "Streaming music subscriptions continue to drive the U.S. music industry’s growth and revenues, according to a new report from the Recording Industry Association of America (RIAA) released this week. The organization said total music revenue grew 18% to $5.4 billion in the first half of 2019, with streaming music accounting for 80% of industry revenues. The report also noted the number of paid subscriptions topped 60 million in the U.S. for the first time. Streaming revenues grew 26% to $4.3 billion in the first half of the year.
+            This broad figure includes paid versions of Spotify, Apple Music, Amazon Music and others, as well as digital radio service revenues like those from Pandora, Sirius XM and other internet radio, plus ad-supported streaming like YouTube, Vevo and the ad-supported version of Spotify. Meanwhile, paid subscription streaming is continuing to grow, too, said the RIAA. Year-over-year, paid subscriptions grew 31% to reach $3.3 billion and remain the biggest growth driver for industry revenues.
+            In the first half of 2019, paid subscriptions made up 62% of all U.S. industry revenues and 77% of U.S. streaming music revenues. The number of paid subscriptions to full on-demand streaming services grew 30% to 61.1 million in the first half of the year, at an average pace of more than 1 million new subscriptions per month.
+            This doesn’t include the “Limited Tier” subscriptions like Pandora Plus or that Echo-only subscription to Amazon Music, for example, where various factors limit access to a full catalog across devices or restrict some on-demand features. This category saw $482 million in revenues, up 39% from the year prior.
+            “Thanks to that breakneck growth, plus continued modest drops in digital downloads and new physical sales, streaming now generates 80% of music business revenues and has fundamentally reshaped how fans find, share, and listen to the songs and artists they love,” wrote RIAA chairman & CEO Mitch Glazier, about the new figures. Ad-supported on-demand services grew 25% year-over-year to $427 million, while digital radio service grew 5% to $552 million in the first half of 2019.
+            However, the gains made by streaming were somewhat offset by declines in digital downloads, as Glazier noted.
+            Revenues in this category fell 18% to $462 million in the first half of the year, with digital track sales down 16% year-over-year and digital album revenues down 23%. Overall, digital download only accounted for 8.6% of total industry revenues. Physical product revenues grew 5% to $485 million in the first half of 2019, but the RIAA attributed this to a reduction in returns."
+            },
+            {
+            "viewCount": 0,
+            "category": "Apple",
+            "author": "Alex Cranz",
+            "title": "Report: Apple Won't Let Siri Say Feminism",
+            "description": "The Guardian is reporting that internal documentation governing Apple’s voice assistant, Siri, was rewritten to specifically avoid the word feminism. The company told the Guardian “[o]ur approach is to be factual with inclusive responses rather than offer opi…",
+            "url": "https://gizmodo.com/report-apple-wont-let-siri-say-feminism-1837927620",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--cT6B52wd--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/hyaqowkvmbpr2eucnn7z.jpg",
+            "publishedAt": "2019-09-06T14:40:00Z",
+            "content": "The Guardian is reporting that internal documentation governing Apple’s voice assistant, Siri, was rewritten to specifically avoid the word feminism. The company told the Guardian “[o]ur approach is to be factual with inclusive responses rather than offer opinions.”
+            The opinion here being... feminism is okay. Presumably, the employees of Apple have no beef with feminism. While the Cupertino giant, like most tech companies, has a leadership team that is largely white and male it is likely okay with women being treated equally to men, and hopefully, internal policies reflect that. Hopefully Apple doesn’t pay men more money for doing the same work as women and hopefully it has a generous family leave policy that doesn’t put the onus of childcare on people who identify as women.
+            But according to documents leaked to the Guardian, when it comes to Siri, Apple is extremely averse to using the word feminism—treating it as taboo a word as fuck.
+            It was previously reported by the Guardian that a small sample of customer interactions with Siri was sent to contractors for review to further improve Siri. Today’s report notes that contractors were reviewing 7 million different audio files gathered from iPads, with plans to review approximately the same amount of clips for five other sources including “cars, bluetooth headsets, and AppleTV remotes.” That would be over 42 million Siri clips reviewed if the program had not been shut down last month.
+            When the program was active these “graders” would listen to clips sent from devices when Siri was activated and work to better improve Siri’s response to questions. To help with the task the graders were given guidelines by Apple, which were last updated in June of 2018. The guidelines gave graders three tasks: “don’t engage,” “deflect,” and “inform.”
+            According to the Guardian, these guidelines also directed graders to specifically avoid the word “feminism”. In reference to the word feminism, the guidelines reportedly said: “Siri should be guarded when dealing with potentially controversial content.”
+            So if you ask Siri if she is a feminist the voice assistant responds with “I am a believer in equality, and treating people with respect.” Which is the line you usually get from people ill-informed on feminism, like that one roommate I had in college who instead identified as a “humanist”, or the line you get from people who purposely avoid the use of the word because they feel it’s reserved for “misandrists” and “woman supremacist” and “feminazis.”
+            To identify as a feminist is, of course, to merely acknowledge that all people are equal but that society is currently inequal. It’s a fairly small ask and the word has been deeply politicized. It is frustrating to see Apple perpetuate the politicization of the word and use a tool, designed to sound like a helpful woman, to do so. Yet Apple is a company that will shy away from controversy because, you know, it’s a publically traded company and companies have to make money and making money can often mean pissing off as few people as possible.
+            Apple did not immediately respond to Gizmodo’s request for comment but we’ll update this post when it does.
+            Just this week The Hollywood Reporter claimed Apple canceled a show for its new TV+ service because it was too dark and not focused enough on the friendship between two Vietnam vets who embark on a murder spree. There have also been reports that other shows were canceled for being too violent, or tinkered with to avoid too darkly comedic a tone. The company also contracts the construction of devices to Foxconn—where employees are regularly abused—and relies on rare minerals that come at the cost of human lives in Asia and Africa. Heck, Tim Cook even meets with Trump to discuss trade and business—despite Trump’s trade war with China, terrible statements after Charlottesville, attacks on Muslim immigrants, and inability to remember Cook’s actual name.
+            Apple telling Siri it can’t say the word feminist, except when defining it, isn’t surprising, its just kind of disappointing."
+            },
+            {
+            "viewCount": 0,
+            "category": "Apple",
+            "author": "Alex Cranz",
+            "title": "What to Expect From Apple's Big 2019 iPhone Event",
+            "description": "We’re days away from Apple’s big annual iPhone party. It’s safe to assume we’re about to learn a whole lot more about this year’s models. But what else is there to learn? This Apple event doesn’t have the massive groundswell of hype September Apple events usu…",
+            "url": "https://gizmodo.com/what-to-expect-from-apples-big-2019-iphone-event-1837910029",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--LeExOGBN--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/aviac2r2lrtcvpejksdl.jpg",
+            "publishedAt": "2019-09-06T17:00:00Z",
+            "content": "We’re days away from Apple’s big annual iPhone party. It’s safe to assume we’re about to learn a whole lot more about this year’s models. But what else is there to learn? This Apple event doesn’t have the massive groundswell of hype September Apple events usually do. We know we’ll get phones with a big camera bump that will probably be as divisive as the notch, and we know that Apple is rolling out its new TV+ service in October, so there’s bound to be some news about that. What else could there be?
+              The event kicks off Tuesday, September 10, at 10 a.m. ET/1 p.m. PT. I’ll be at the show in Cupertino, and we’ll be liveblogging the whole thing starting about an hour before.
+              Here’s what we think we know about what’s coming. As noted earlier this week, we’re probably not getting an iPhone SE until next year. But that’s okay because it seems like we’ll be getting three new phones. The previous generation models were called the XR, XS, and XS Max, with the “X” pronounced “ten” in each case. The biggest mystery related to the phones might be their names. X1 is a possibility. So is 11, or XI.
+              As in 2018, there will be one phone with a 6.1-inch LCD, as well as 5.8-inch and 6.5-inch OLED phones. The OLED phones are also expected to come with a telephoto, wide-angle, and super-wide-angle cameras on the back, and be half a millimeter thicker than the previous models according to Bloomberg. These would be the first triple camera phones from Apple—nearly 18 months after Huawei launched the first triple camera phone, the P20 Pro. Apple’s has felt like its been lagging in the camera department, especially in the last year. Huawei launched the P20 Pro in April 2018, and Google released the innovative Night Sight feature back in November 2018. Both features took computational photography to impressive new places.
+              As before, the LCD phone will likely cost less. It will only have a telephoto and wide-angle camera, according to an earlier Bloomberg report. That would still be an upgrade over the XR, which only has a single camera on the back. All three phones will have a new A13 processor.
+              MacRumors and analyst Ming-Chi Kuo both claim that all three phones will supposedly drop the glossy finish and opt for a matte finish that could be more durable. But the matte finish shouldn’t disrupt the phones’ ability to charge wirelessly, and Kuo claims that the phones will also charge AirPods in a pinch.
+              Face ID will also supposedly be improved, according to Kuo. Bloomberg and Kuo both claim Touch ID will almost certainly not be present.
+              9to5Mac claims Apple will kill 3D Touch as it reportedly contributes to phone thickness. In its stead, we should see a new haptic system based on the one first introduced iPhone XR.
+              New Apple TV: 
+              TV+, Apple’s new streaming service, and Arcade, its new game subscription service, are both expected to launch in the fall. So it makes sense that the company would launch a new Apple TV that can be used to enjoy both services.
+              The TV typically uses processors deployed in relatively recent iPhones. The current high-end Apple TV, the TV 4K, uses an A10 processor from 2016. According to MacRumors, leaker @never_released claims a new TV will be launched this year and have the A12 processor launched in last years iPhones.
+              TV+ Pricing: 
+              We have a good idea of how much Apple Arcade will cost ($5) thanks to a 9to5Mac report, but there’s still a big question mark when it comes to TV+. Bloomberg reported it will cost $10 a month. Which makes sense given that’s the pricing of News+ and Apple Music.
+              The service will be competing with more mature fare, like Netflix, and new services with enormous back catalogs like Disney+ and HBO Max. It will also be dealing with a widely reported issue of puritanical self-censorship. In the absence of really compelling content or a deep catalog, aggressive pricing might be one of the levers Apple can pull to get people to buy in.
+              With the expected TV news, it makes sense that Apple would drop the price at the Apple event. And who knows, it might even tell us when these services are going to launch.
+              Ceramic Watches: The Apple Watch got a significant update in 2018 with a splashy new ECG feature. So far there aren’t many rumors suggesting the Watch will change much in its 2019 refresh. Bloomberg even claims the changes will primarily have to do with the OS, which was already announced back at WWDC.
+              The only thing that seems both likely and notable is that there could be a new ceramic model.
+              16-inch MacBook: 
+              We’ve been hearing rumors of a 16-inch Macbook for a while now. Digitimes claims it will fit the same dimensions as the current 15-inch MacBook Pro, which would likely mean Apple is finally embracing super-slim bezels on its laptops.
+              An IHS Market report published by Forbes claims the display will have a 3,072 by 1,920 resolution, while 9t05Mac seems to think it will share the same H-series 9th-gen Intel processor that the current 15-inch MacBook Pro has. Ming-Chi Kuo also claims that it will launch this fall and include new key switches.
+              But it’s not clear if the laptop will launch at the iPhone event or be reserved for an event later this fall instead.
+              New iPads: 
+              The idea of a second event starts to make sense when you consider that Apple is also planning to launch new iPads. So the September event could be for iPhones, Watches, and TVs, and a theoretical future event could be for laptops, tablets—and maybe even a proper launch for the new Mac Pro.
+              The $330 iPad got a lovely refresh in March 2018, but rumors point to a new iPad, which expands the screen size from 9.7 inches to 10.2 inches. Bloomberg claims that the iPad should come this fall.
+              It also claims that the iPad Pro will get a refresh too—but that will likely just be updated cameras and processors. This one’s supported by regulatory filings spied earlier this year."
+            },
+            {
+            "viewCount": 0,
+            "category": "Apple",
+            "author": "Rhett Jones",
+            "title": "Apple Can Feel Its Reputation for Bulletproof Security Slipping Through Its Fingers",
+            "description": "With its flagship iPhone event just a few days away, it appears that Apple is getting a little nervous about recent reports regarding the state of its lauded security features. On Friday, it took the unusual step of publishing a blog post to refute some recen…",
+            "url": "https://gizmodo.com/apple-can-feel-its-reputation-for-bulletproof-security-1837941493",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--GIYRTtw5--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/f60f9f5b6sbvra1osgzg.jpg",
+            "publishedAt": "2019-09-06T21:48:00Z",
+            "content": "With its flagship iPhone event just a few days away, it appears that Apple is getting a little nervous about recent reports regarding the state of its lauded security features. On Friday, it took the unusual step of publishing a blog post to refute some recent claims about its operating system made by Google researchers and to clarify the impact its failures have had on users around the globe.
+            In recent years, Apple has seen two big strategic openings to keep its business alive and growing: services and privacy. Few companies can hold their head as high as Apple when it comes to protecting users’ data, and even fewer can say that they don’t monetize user data to a significant degree. But Apple’s experienced a few security black eyes recently, and the company published a brief blog post on Friday that accuses the team at Google’s Project Zero of “stoking fear” about iPhone security with a report it issued at the end of August.
+            Project Zero and Google’s Threat Analysis Group (TAG) found 14 vulnerabilities in Apple’s products that were being exploited by a group of watering hole websites that were designed to indiscriminately target iPhone users and take over control of their devices. Apple hasn’t disputed the existence of the vulnerabilities, and it claimed that they were patched back in February. But yesterday, new reports came out that outlined the broad strokes of an operation by the Chinese Government to track its persecuted minority Uighur population in part by hacking iPhone and Android devices. It appears that the potential for confusion has given Apple motivation to clarify that the Project Zero report and Chinese Government hacks are related and that it feels Google’s report was unfair.
+            For one thing, Apple says that it was “already in the process of fixing the exploited bugs,” when Google’s researchers first came to them to point out the vulnerabilities. Can’t pwn Apple when they already know they’ve been pwned. In fact, Apple claims the issue was resolved “just 10 days after we learned about it.”
+            Apple also said in its post that “all evidence indicates that these website attacks were only operational for a brief period, roughly two months, not ‘two years’ as Google implies.” The word “implied” is actually generous. Google’s exact language in its report claimed that a group of sites was involved in “making a sustained effort to hack the users of iPhones in certain communities over a period of at least two years.” But Google seems to be basing its number on how long the websites existed, and Apple is going with how long they were “operational.”
+            Apple also clarified that “the attack affected fewer than a dozen websites that focus on content related to the Uighur community.”
+            What may be the most egregious failing on Google’s part was the fact that it only mentioned Apple in its report, but it has subsequently come to light that Android and Windows systems were being targeted by the same hackers. When asked for comment on Apple’s post today, a Google spokesperson told Gizmodo:
+            Project Zero posts technical research that is designed to advance the understanding of security vulnerabilities, which leads to better defensive strategies. We stand by our in-depth research which was written to focus on the technical aspects of these vulnerabilities. We will continue to work with Apple and other leading companies to help keep people safe online.
+            Cutting through the corporate-speak in that statement, it is important to acknowledge that the Project Zero crew does great work, and there’s no reason to believe that their work is motivated by malice. It’s also worth emphasizing that Apple’s reputation for making secure products has been earned by making secure products. What’s at issue here is who will have the best reputation for security in the future, and the answer is up for grabs.
+            Earlier this week, Wired reported that Android’s security is getting so good that the price of finding exploits for the open-source mobile OS is skyrocketing. Zerodium, which buys and sells so-called zero-day exploits, is the only outfit of its kind that releases an annual price list for discovering secret software vulnerabilities. This year, Android zero-days topped the iPhone for the first time, fetching a $2.5 million price tag “for a so-called zero-click hacking technique that fully, silently takes over an Android phone with no interaction from the target user,” Wired wrote. Someone who discovers the same level of risk in iOS would reportedly bring home $500,000 less in profits.
+            The reward for discovering certain iMessage hacks was cut in half by Zerodium. One has to surmise that the laws of supply and demand are working in full effect—the more iMessage vulnerabilities that are being reported, the less valuable they are. And the most recent major report of flaws in the iMessage client came in July from, you guessed it, Project Zero.
+            The most embarrassing public disclosure of a recent security fuckup by Apple came last month when it issued an iOS patch that omitted bug fixes that it had patched in earlier updates. The floodgates were suddenly thrown open and enthusiasts were able to issue a jailbreak before Apple fixed it—an illicit practice that Apple had managed to make all but extinct over the last few years.
+            Apple is still great at security. And it will likely tell you that over and over at next week’s iPhone event. The problem for Apple is that Android is getting really good at security too, and Google will likely tell you that over and over when it releases the next batch of Pixel phones. Maor Shwartz, an experienced independent security vulnerability researcher, told Wired that the open-source nature of Android is finally paying off, and the number of eyes on its code has resulted in fewer vulnerabilities “because a lot of them have been patched.”
+            The problem with making a big deal out of having strong security as a business strategy is no one is safe, and everything can change in an instant. Apple’s walled garden has protected it for years, as has the prospect of finding a nasty bug for big money and endless glory. That environment seems to be changing. And when Tim Cook takes the stage next week to tout the latest and greatest way to store your dick pics, his case will be a little weaker. But the good news is that’s mostly due to the other guys getting better."
+            },
+            {
+            "viewCount": 0,
+            "category": "Apple",
+            "author": "Andrew Couts",
+            "title": "Facebook's Antitrust Problems Just Got Worse",
+            "description": "New York Attorney General Letitia James launched a multi-state antitrust investigation into Facebook on Friday, applying a new layer of pesky regulatory scrutiny to the scandal-ridden social network. Read more...",
+            "url": "https://gizmodo.com/facebooks-antitrust-problems-just-got-worse-1837925781",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/s--jJaesmTX--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/rfockfohptre9e5urom7.jpg",
+            "publishedAt": "2019-09-06T14:15:00Z",
+            "content": "New York Attorney General Letitia James launched a multi-state antitrust investigation into Facebook on Friday, applying a new layer of pesky regulatory scrutiny to the scandal-ridden social network.
+            The launch of the investigation comes amid greater federal and state oversight of major technology companies, including Facebook, Google, Amazon, and Apple. The state-level probe will examine a wide range of Facebook’s activities, including its handling of user data, its effects on consumer choice, and the price of advertising, New York’s attorney general said in a statement.
+            “Even the largest social media platform in the world must follow the law and respect consumers. I am proud to be leading a bipartisan coalition of attorneys general in investigating whether Facebook has stifled competition and put users at risk,” James said. “We will use every investigative tool at our disposal to determine whether Facebook’s actions may have endangered consumer data, reduced the quality of consumers’ choices, or increased the price of advertising.”
+            Facebook did not immediately respond to our request for comment.
+            In addition to James, attorneys general from Colorado, Florida, Iowa, Nebraska, North Carolina, Ohio, Tennessee, and the District of Columbia will be on the investigation’s leadership team, according to James’ office.
+            This probe adds to action at the federal level that began in earnest this summer. On July 23, the U.S. Department of Justice announced that it has begun an expansive investigation into “market-leading online platforms” to determine whether they “are engaging in practices that have reduced competition, stifled innovation, or otherwise harmed consumers.”
+            The following day, Facebook confirmed that it is facing antitrust probes from both the Federal Trade Commission and the U.S. Department of Justice. That revelation came on the heels of the FTC’s announcement earlier the same day that it had fined Facebook a record $5 billion for privacy violations in part stemming from the Cambridge Analytica scandal. While the Republican-led FTC characterized its settlement with Facebook as “historic” and increased restrictions on the company’s privacy and transparency practices as “sweeping,” the penalty was seen as inadequate by Democrats.
+            State-level action against major tech firms is reportedly not limited to Facebook. Google is also expected to face an investigation from “more than half” the state attorneys general, according to the Washington Post. That inquiry will reportedly be announced on Monday.
+            Despite the flurry of attention from regulators, major tech companies have yet to suffer any lasting consequences that disrupt their businesses or meaningfully cut into their bottom lines. Indeed, Facebook’s stock price jumped 1.8 percent after the FTC revealed its fine. Maybe this one will stick?"
+            },
+            {
+            "viewCount": 0,
+            "category": "Apple",
+            "author": "Karissa Bell",
+            "title": "Apple slams Google for 'stoking fear' over iPhone vulnerabilities",
+            "description": "More than a week after researchers at Google detailed one of the most serious iPhone exploits in recent memory, Apple has responded. In a statement published Friday, Apple went on the defensive, saying that Google researchers were \"stoking fear\" and had exagg…",
+            "url": "https://mashable.com/article/apple-response-google-iphone-attack/",
+            "urlToImage": "https://mondrian.mashable.com/2019%252F09%252F06%252F79%252Fab83f4ef246146d8ad12b0a9f4b88720.a15cf.jpg%252F1200x630.jpg?signature=lski6lth-ByBVEMWV4BpjoF8ROE=",
+            "publishedAt": "2019-09-06T19:10:43Z",
+            "content": "More than a week after researchers at Google detailed one of the most serious iPhone exploits in recent memory, Apple has responded.
+            In a statement published Friday, Apple went on the defensive, saying that Google researchers were stoking fear and had exaggerated the seriousness of the attack.
+            Cupertino's statement comes more than a week after Google's Project Zero researchers published a blog post detailing how malware embedded in specific websites could steal large amounts of personal data off users' iPhones. This included messages, both encrypted and otherwise, real-time GPS locations, and passwords. 
+            We estimate that these sites receive thousands of visitors per week, Project Zero researcher Ian Beer wrote. Though Beer didn't elaborate on who may have been impacted by the malware, it was subsequently reported that it was a state-sponsored attack targeting China's Uighur Muslims.
+            In its statement, Apple noted that the sophisticated attack was narrowly focused, not a broad-based exploit of iPhones 'en masse' as described.
+            The attack affected fewer than a dozen websites that focus on content related to the Uighur community, Apple wrote. The company's statement makes no mention of China, where the government has been accused of widespread hacking in order to track the country's Muslim minority community. 
+            Though the malware could have infected any iPhone that visited the websites in question, Apple said Google overstated the scale of the exploit. Google’s post, issued six months after iOS patches were released, creates the false impression of “mass exploitation” to “monitor the private activities of entire populations in real time,” stoking fear among all iPhone users that their devices had been compromised. This was never the case.
+            Second, all evidence indicates that these website attacks were only operational for a brief period, roughly two months, not “two years” as Google implies. We fixed the vulnerabilities in question in February — working extremely quickly to resolve the issue just 10 days after we learned about it. When Google approached us, we were already in the process of fixing the exploited bugs.
+            The company also made a veiled dig at Google's Android operating system, writing, iOS security is unmatched because we take end-to-end responsibility for the security of our hardware and software.
+            In a statement a Google spokesperson said it stands by its work: We stand by our in-depth research which was written to focus on the technical aspects of these vulnerabilities. We will continue to work with Apple and other leading companies to help keep people safe online.
+            Apple's response, which comes just days before the launch of its new iPhones, was quickly criticized by many in the security community as being tone deaf.
+            Alex Stamos, Facebook's former chief security officer who is now a researcher at Stanford University, said the company's response should be graded somewhere between disappointing and disgusting. Disputing Google's correct use of 'indiscriminate' when describing a watering hole attack smacks of 'it's ok, it didn't hit white people,' Stamos tweeted. It is possible that this data contributed to real people being 'reeducated' or even executed."
+            },
+            {
+            "viewCount": 0,
+            "category": "Apple",
+            "author": "Joseph Green",
+            "title": "Apple MacBook, Samsung TVs, Microsoft laptops, Fitbits, and more on sale for Sept. 6 in the UK",
+            "description": "We did it guys. We made it to the end of another working week, and if that's not a reason to celebrate, we don't know what is. We're here to help you get into a celebratory mood, with great deals on a wide range of products, including TVs, laptops, fitness tr…",
+            "url": "https://mashable.com/uk/shopping/best-deals-laptop-tv-toothbrush-shaver-sept-6/",
+            "urlToImage": "https://mondrian.mashable.com/2019%252F09%252F06%252Ff2%252F96b6fe33b178409c9b8746b71ac72737.55de9.png%252F1200x630.png?signature=Age09_fliiJBN77b0iflRojk2pI=",
+            "publishedAt": "2019-09-06T09:39:18Z",
+            "content": "We did it guys. We made it to the end of another working week, and if that's not a reason to celebrate, we don't know what is.
+            We're here to help you get into a celebratory mood, with great deals on a wide range of products, including TVs, laptops, fitness trackers, electric toothbrushes, beard trimmers, and more. All the biggest brands are included in this list, with the likes of Apple, Samsung, LG, Philips, and Fitbit on offer.
+            These are the best deals from across the internet for Sept. 6."
+            },
+            {
+            "viewCount": 0,
+            "category": "Apple",
+            "author": "Danny Zepeda",
+            "title": "Apple responds vehemently to concerns about iOS security vulnerabilities",
+            "description": "What you need to know Apple released a statement addressing Google's blog about iOS exploits. In the message, it reaffirmed customers that it keeps their security as a high priority. It also dispelled some false information that came of Google's blog. \"Securi…",
+            "url": "https://www.androidcentral.com/apple-responds-adamantly-concerns-about-iphone-security",
+            "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/field/image/2019/04/iphone-xs-back-hero-833q.jpg?itok=GhChD_aU",
+            "publishedAt": "2019-09-06T21:16:18Z",
+            "content": "Concerns about iOS security have been swirling since Google published a blog that outlined some vulnerabilities it discovered within iOS. Apple fixed these back in February, but that didn't stop the concerns. To reaffirm customers, Apple released a special message outlining exactly what took place with the vulnerabilities while dispelling false information regarding the situation.
+            In a brief summary of Google's blog, it found malicioius websites were accessing user's phones and stealing privata data like messages, location, photos and more.
+            Apple's response to it was short but to the point. Its first goal was to curb speculation about how wide this vulnerability really was. In reality, it affected less than a dozen websites. First, the sophisticated attack was narrowly focused, not a broad-based exploit of iPhones en masse as described. The attack affected fewer than a dozen websites that focus on content related to the Uighur community. Regardless of the scale of the attack, we take the safety and security of all users extremely seriously.
+            Google's post, issued six months after iOS patches were released, creates the false impression of mass exploitation to monitor the private activities of entire populations in real time, stoking fear among all iPhone users that their devices had been compromised. This was never the case. It then went on to correct some false statements made about the website attacks including how long it lasted.
+            Second, all evidence indicates that these website attacks were only operational for a brief period, roughly two months, not two years as Google implies. We fixed the vulnerabilities in question in February — working extremely quickly to resolve the issue just 10 days after we learned about it. When Google approached us, we were already in the process of fixing the exploited bugs.
+            Apple finished the message with a strong statement on security: Security is a never-ending journey and our customers can be confident we are working for them. It concluded: We will never stop our tireless work to keep our users safe.
+            As is the case with most issues regarding Apple, they tend to be overblown. This was no different. You can read the complete statement on Apple's site.
+            Google responded to the Apple's message in a statement to CNBC saying it stands by its in-depth research and its end goal was to understand security vulnerabilities. With neither Apple nor Google backing down, the situation has turned into a he said, she said situation."
+            },
+            {
+            "viewCount": 0,
+            "category": "Apple",
+            "author": "Harish Jonnalagadda",
+            "title": "OnePlus confirms that its TV will have a remote",
+            "description": "Can't wait for the OnePlus TV? Here's a look at the remote in all its brushed metal glory. What you need to know In a new teaser, OnePlus is showing off the remote for its upcoming TV. Like every other remote, this one has buttons — five of them. Oh, and ther…",
+            "url": "https://www.androidcentral.com/oneplus-confirms-its-tv-will-have-remote",
+            "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/09/oneplus-tv-remote.jpg?itok=b6zSREo0",
+            "publishedAt": "2019-09-06T03:46:02Z",
+            "content": "Over the years, OnePlus has gotten really good at teasing information ahead of a product launch, and it's doing the same for the OnePlus TV. But unlike a phone, there isn't that much to tease when it comes to a TV, so in an inspired move, OnePlus CEO Pete Lau has served up a first look at the remote.
+            The remote is near-identical to the one bundled with Apple TV, with just five buttons joined by a trackpad up top. One of those buttons is for invoking Google Assistant, and the button with the OnePlus logo is likely for the smart hub dashboard that OnePlus is baking into Android TV.
+            There's also what looks like a USB-C port at the bottom, presumably for connecting a pair of earbuds and charging the remote. The TV is launching sometime later this month, so we will inevitably see more teasers ahead of the launch. Who's ready to see the back panel next week?"
+            },
+            {
+            "viewCount": 0,
+            "category": "Apple",
+            "author": "Jen Karner",
+            "title": "Watch your favorite Disney movies right from your phone",
+            "description": "Best answer: Disney+ will be available right from your phone. Whether you are rocking an Android or an iPhone, your favorite Disney movies and TV shows will be right at your fingertips. You can also watch using a bunch of other devices too! More Disney than e…",
+            "url": "https://www.androidcentral.com/can-you-watch-disney-plus-phone",
+            "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/field/image/2019/08/d23-disney-sign-up-mockuuup-1kwoo.jpg?itok=0Gprd8TB",
+            "publishedAt": "2019-09-06T19:00:03Z",
+            "content": "Watch Disney+ where you are: 
+            Disney+ will launch with hundreds of movies and television shows for you to feast your eyes on. This means that you'll probably end up watching even when you aren't at home.
+            This is an easy task since the streaming service will be available on a variety of devices — almost all of them. You'll be able to stream from your phone, Android TV, and even Chromecast. This means that keeping your kids happy during long car rides amd plane trips will be easier than ever, since they'll have access to so much content.
+            The only catch to this, for the moment, is that there isn't any news about whether there are limitations on older phones or operating systems. There hasn't been much news about how the app will work yet either, but with the launch day in just over two months, hopefully Disney will be announcing more details soon.
+            What we do know is that Disney+ will be available on Android, iPhones, Chromecast, gaming consoles, and Roku devices. The only big name that seems to have been left out of the equation so far is Amazon Fire TV and Amazon tablets.
+            Supported devices: 
+            Android Phones,
+            Android TV,
+            Chromecast,
+            iPhone,
+            iPad,
+            Apple TV,
+            Xbox One,
+            PlayStation 4,
+            Desktop web browsers (plugins are unknown),
+            Android TV based Sony TVs,
+            Roku streaming players,
+            Roku TV.
+            Disney+ is the brand new streaming service from Disney. It will include classic Disney movies, Pixar films, Star Wars, the Marvel universe, Fox, and even National Geographic.
+            Along with everything that you'll watch in theaters being available to stream, the service will provide a variety of awesome exclusives you won't be able to watch anywhere else. These include shows like The Mandalorian, WandaVision, She-Hulk and plenty more.
+            How much will Disney+ cost?: 
+            Disney+ will start at the extra affordable price of just $7 per month, or $70 a year. If you'd prefer to bundle it you can grab a package deal that includes ESPN, and Hulu (with ads) for only $13 each month."
+            },
+            {
+            "viewCount": 0,
+            "category": "Apple",
+            "author": "Jerry Hildenbrand",
+            "title": "Setting strict requirements on apps is what's needed for \"proper\" gestures",
+            "description": "Swiping needs to be consistent on every phone, in every app, for gestures to work for everyone. By now, you're probably tired of reading articles online about Android 10 gesture navigation. It seems like nobody really likes it, Google just can't get it right,…",
+            "url": "https://www.androidcentral.com/google-needs-set-hard-requirements-app-navigation-if-it-wants-get-gestures-under-control",
+            "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/08/one-ui-2.0-android-10-gestures.jpg?itok=W-E2Q21v",
+            "publishedAt": "2019-09-06T21:35:37Z",
+            "content": "By now, you're probably tired of reading articles online about Android 10 gesture navigation. It seems like nobody really likes it, Google just can't get it right, and nothing the company can do fixes things. All this is doubly true if you're one of the people who have no problems with the current gesture navigation solution in Android. With this in mind, instead of ranting about a feature that seems like it's unfinished and has no direction, let's talk about what it takes to fix it all once and for all.
+            Complaining about gestures doesn't help and nobody is listening anyway.: 
+            For starters, looking at companies like OnePlus or Samsung and saying that there are better gesture-based systems out there isn't helpful here. Those may work alright for the companies in question and people can prefer them over Google's solution, but something like moving about the home screen on your phone or navigating through an app needs to be consistent across the entire platform. You can't expect developers to cater to every individual brand, nor can you expect a consumer to be happy with a new phone if they have to relearn how to use the basics. Navigation needs to be like notifications and the basics need to be the same no matter which brand you buy into.
+            Another thing to realize is that some gestures need to be more important than others. Seeing which apps are currently running isn't something you'll do nearly as often as swiping back or swiping home. The gestures for these important things need to be easy and work on every screen. Imagine watching a full-screen video or playing a full-screen game and you can't swipe to get the notification shade or to go home, and you'll understand what I'm saying here. To me, Google using either side of the screen as a way to swipe back makes perfect sense because of this, even if it does interfere with the menu for a large percentage of the apps in the Play Store.
+            All gestures are equal but some are more equal than others.: 
+            Those apps are things that can be — no, should be — fixed if we're to go buttonless on our phones. Consistent and performant gestures on a phone mean nothing if things don't work the same way when you have an app open. Google can tackle this problem by taking a stance that would be very unpopular, yet necessary — force developers that build apps to follow a set of strict guidelines about where and how navigation points are placed. You don't have to worry about where to put the handles of your swipe back gesture if there is no hamburger menu to worry about. So get rid of hamburger menus.
+            This sounds harsh, but it's also a reason why companies like Samsung (and Apple, of course) seem to have better success with gestures. Most of the apps on a new Galaxy S10 are built by Samsung and written to work perfectly with the company's gestures. Samsung can't control all the apps in Google Play, but the ones people use everyday work because developers can't afford to let their apps not work on two-thirds of the phones in the world. Those same developers would change how apps work to fit in with Android-wide gestures if they had to, too.
+            Nobody wants to see google take a heavy hand when it comes to the Play Store. It may be Google's baby and nothing about it is open or free, but having such a great choice and selection is what makes it great. But if Google really wants gestures to work, then it has to do something.
+            And it can start in its own playground."
+            },
+            {
+            "viewCount": 0,
+            "category": "Apple",
+            "author": "Jason England",
+            "title": "T-Mobile gets sued by NYC for thousands of violations against consumers",
+            "description": "Metro stores were found selling used phones as new and charging made up taxes among other deceptive practices. What you need to know New York City is suing T-Mobile over violations made by its Metro by T-Mobile subsidiary. The suit covers thousands of violati…",
+            "url": "https://www.androidcentral.com/t-mobile-gets-sued-nyc-thousands-violations-against-consumers",
+            "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2019/01/metro-by-t-mobile-website-hero.jpg?itok=7K_xzZW9",
+            "publishedAt": "2019-09-06T14:38:40Z",
+            "content": "On September 4, New York City filed a lawsuit against T-Mobile for thousands of customer violations. The suit alleges that Metro by T-Mobile engaged in illegal sales tactics such as selling used phones as new, signing customers up for expensive financing plans without consent, and charging made up taxes and device activation taxes.
+            One example of these violations includes a woman who bought a phone from one of the Metro by T-Mobile stores in the Bronx. Later, she would learn the employee signed her up for a costly lease program that would more than triple the cost of the phone. Instead of paying $599 to own the phone outright, she would be on the hook for paying $199.21 per month for a total of $2,191.30, and still not even own the phone.
+            On September 4, New York City filed a lawsuit against T-Mobile for thousands of customer violations. The suit alleges that Metro by T-Mobile engaged in illegal sales tactics such as selling used phones as new, signing customers up for expensive financing plans without consent, and charging made up taxes and device activation taxes.
+            One example of these violations includes a woman who bought a phone from one of the Metro by T-Mobile stores in the Bronx. Later, she would learn the employee signed her up for a costly lease program that would more than triple the cost of the phone. Instead of paying $599 to own the phone outright, she would be on the hook for paying $199.21 per month for a total of $2,191.30, and still not even own the phone."
+            },
+            {
+            "viewCount": 0,
+            "category": "Apple",
+            "author": "Juli Clover",
+            "title": "Apple Disputes Some Details of Google's Project Zero Report on iOS Security Vulnerabilities",
+            "description": "Google's Project Zero last week shared details about multiple serious iOS vulnerabilities that allowed malicious websites to access a victim's phone. There were a total of 14 vulnerabilities that were being exploited, and while those have now been fixed, some…",
+            "url": "https://www.macrumors.com/2019/09/06/apple-addresses-ios-vulnerabilities/",
+            "urlToImage": "https://cdn.macrumors.com/article-new/2018/01/trio-iphones-ios.jpg?retina",
+            "publishedAt": "2019-09-06T17:11:27Z",
+            "content": "Google's Project Zero last week shared details about multiple serious iOS vulnerabilities that allowed malicious websites to access a victim's phone. There were a total of 14 vulnerabilities that were being exploited, and while those have now been fixed, some of the security holes were abused for several years.
+            Apple today responded to Google's Project Zero blog post in an effort to address customer concerns with all of the facts.
+            Apple says the attack was narrowly-focused rather than a broad-based exploit of iPhones as described. Fewer than a dozen websites targeting Uighur Muslims were affected, according to Apple. Further, Apple says that Google created a false impression of mass exploitation, causing fear among iPhone owners.
+            Google also got the length of the attacks wrong. Apple says the websites were operational for approximately two months rather than two years, with the vulnerabilities fixed 10 days after Apple learned about them. Fixes were already in the works when Google approached Apple.
+            Apple's full letter is included below:
+            Last week, Google published a blog about vulnerabilities that Apple fixed for iOS users in February. We've heard from customers who were concerned by some of the claims, and we want to make sure all of our customers have the facts.
+            First, the sophisticated attack was narrowly focused, not a broad-based exploit of iPhones en masse as described. The attack affected fewer than a dozen websites that focus on content related to the Uighur community. Regardless of the scale of the attack, we take the safety and security of all users extremely seriously.
+            Google's post, issued six months after iOS patches were released, creates the false impression of mass exploitation to monitor the private activities of entire populations in real time, stoking fear among all iPhone users that their devices had been compromised. This was never the case.
+            Second, all evidence indicates that these website attacks were only operational for a brief period, roughly two months, not two years as Google implies. We fixed the vulnerabilities in question in February -- working extremely quickly to resolve the issue just 10 days after we learned about it. When Google approached us, we were already in the process of fixing the exploited bugs.
+            Security is a never-ending journey and our customers can be confident we are working for them. iOS security is unmatched because we take end-to-end responsibility for the security of our hardware and software. Our product security teams around the world are constantly iterating to introduce new protections and patch vulnerabilities as soon as they're found. We will never stop our tireless work to keep our users safe.
+            According to Google, the websites in question that targeted iPhone users were able to steal private data like messages, photos, and GPS location in real time with little effort after a visitor went to an infected website.
+            Google believes thousands of visitors accessed these websites per week over two years, with the vulnerability present in iOS 10, iOS 11, and iOS 12. Apple addressed the issues in iOS 12.1.4 back in February 2019.
+            In a statement to The Verge, Google said that it stands by its original report despite Apple's comments.
+            Project Zero posts technical research that is designed to advance the understanding of security vulnerabilities, which leads to better defensive strategies. We stand by our in-depth research which was written to focus on the technical aspects of these vulnerabilities. We will continue to work with Apple and other leading companies to help keep people safe online."
+            },
+            {
+            "viewCount": 0,
+            "category": "Apple",
+            "author": "Alfred Ng",
+            "title": "Apple responds to iOS hacking campaign targeting Uighur Muslims in China - CNET",
+            "description": "The response comes a week after Google disclosed the major vulnerabilities targeting iPhones.",
+            "url": "https://www.cnet.com/news/apple-responds-to-ios-hacking-campaign-targeting-uighur-muslims-in-china/",
+            "urlToImage": "https://cnet4.cbsistatic.com/img/mLwlYFFtkodJPBiWmGBcEfLM7Ao=/756x567/2019/03/30/bd665ca8-36db-4ce7-a65a-537699fe4eba/iphone-xs-3.jpg",
+            "publishedAt": "2019-09-06T17:35:43Z",
+            "content": "Apple vulnerabilities are rare and often worth millions, so it was a revelation when Google disclosed a string of security flaws that allowed for the hacking of any iPhones used to visit certain websites laced with malware. Now Apple is responding to those attacks, offering more details on the scope of the security issues, in a post on Friday.  
+            On Aug. 30, Google's Project Zero security researchers revealed that they'd found multiple websites with malware that could hack people's iPhones. The malware had the ability to gain full control, stealing photos, messages and location data, and was installed when an iPhone user visited a certain page. The malware was also able to install more malicious apps, as well as harvest passwords and encrypted messages, according to the security researchers. 
+            Google didn't disclose what websites the malware was hidden on, but Apple provided more details on Friday. 
+            First, the sophisticated attack was narrowly focused, not a broad-based exploit of iPhones 'en masse' as described. The attack affected fewer than a dozen websites that focus on content related to the Uighur community, Apple said in a statement.
+            The Chinese government has made forceful efforts against its Uighur Muslim population, detaining more than 1 million people in its Xinjiang region. Technology has played a key role in these human rights abuses, including the use of facial recognition to track the population. The Chinese government had also reportedly been forcing visitors at Xinjiang's borders to download malware on devices to scan for files related to Islamic content. On Thursday, Reuters reported that a hacking campaign compromising several telecom companies was also targeting Uighur Muslims.  
+            Security company Volexity detailed a hacking campaign targeting Uighur Muslims in China on Monday, finding at least 11 websites compromised to infect Android devices and collect similar data. Those websites included pages related to Uighur news and press in Turkey. 
+            Google said it would continue working with Apple to keep people safe online.
+            Project Zero posts technical research that is designed to advance the understanding of security vulnerabilities, which leads to better defensive strategies. We stand by our in-depth research which was written to focus on the technical aspects of these vulnerabilities, a Google spokesperson said in a statement.
+            Volexity noted that the attacks had possible ties to the security flaws disclosed by Google last week. After the disclosure, sources told TechCrunch that China was potentially behind the attacks targeting Uighur Muslims. 
+            Apple didn't specifically point to China as being behind these attacks but noted that it was targeting the Uighur population. It also denied that the attacks had been going on for two years and said that the website attacks were active for only two months. 
+            We fixed the vulnerabilities in question in February -- working extremely quickly to resolve the issue just 10 days after we learned about it. When Google approached us, we were already in the process of fixing the exploited bugs, Apple said in its statement.
+            China's embassy didn't immediately respond to a request for comment."
+            },
+            {
+            "viewCount": 0,
+            "category": "Apple",
+            "author": "Richard Nieva",
+            "title": "Google confirms DOJ scrutiny, preps for investigation from states - CNET",
+            "description": "The search giant said it has sent records to the US Department of Justice.",
+            "url": "https://www.cnet.com/news/google-confirms-doj-scrutiny-preps-for-investigation-from-states/",
+            "urlToImage": "https://cnet2.cbsistatic.com/img/O6RaeO7MuCTO-TwUB0QTCRPjjGA=/756x567/2019/09/06/135c1739-96a6-4712-a28f-28dcbe3a31ed/gettyimages-869093640.jpg",
+            "publishedAt": "2019-09-06T22:27:21Z",
+            "content": "Google on Friday said the US Department of Justice has asked the company for information on previous antitrust investigations, confirming that the federal government is looking into its business practices. 
+            The search giant also said it's preparing for scrutiny from state attorneys generals. An official announcement of that probe is expected Monday in Washington, DC. 
+            The DOJ has asked us to provide information about these past investigations, and we expect state attorneys general will ask similar questions, Kent Walker, Google's senior vice president of global affairs, wrote in a blog post. We have always worked constructively with regulators and we will continue to do so.
+            The Justice Department didn't immediately respond to a request for comment. 
+            Google's acknowledgement comes as the government has ratcheted up scrutiny of Silicon Valley as a whole. The Justice Deparment in July announced an antitrust probe into the tech industry more broadly, targeting Google, Apple, Facebook and Amazon. Meanwhile, House Democrats in June announced their own investigation into tech giants, meant to explore whether the companies are engaging in anti-competitive conduct.
+            On Friday, New York Attorney General Letitia James announced a similar probe into Facebook. The investigation, which will involve other states including Florida, Colorado and Iowa, will focus on Facebook's dominance in the industry and the potential anticompetitive conduct stemming from that dominance, James' office said in a statement. 
+            Google is no stranger to government investigations. Six years ago, the FTC wrapped up a probe of the company looking into allegations of search bias. At the time, the commission decided that Google wasn't violating any antitrust laws.
+            We look forward to showing how we are investing in innovation, providing services that people want, and engaging in robust and fair competition, Walker wrote on Friday."
+            },
+            {
+            "viewCount": 0,
+            "category": "Apple",
+            "author": "Gael Fashingbauer Cooper",
+            "title": "Spider-Man's 5 best Marvel Cinematic Universe moments - CNET",
+            "description": "UNDEROOS! We love you 3,000!",
+            "url": "https://www.cnet.com/news/spider-mans-top-x-moments-in-the-marvel-cinematic-universe/",
+            "urlToImage": "https://cnet4.cbsistatic.com/img/pvjEQF0buWjRD0RxGmjGOsXmLxE=/756x567/2019/09/06/0cd04ff2-74f7-4b0e-bf4e-a3a0f1748f0a/spidey-in-avengers-infinity-war.jpg",
+            "publishedAt": "2019-09-06T03:58:50Z",
+            "content": "Does Spidey's suit come in a mourning version? On Thursday, Sony Pictures chairman and CEO Tony Vinciquerra said that, for the moment the door is closed as far as Spider-Man returning to the Marvel Cinematic Universe and we're struggling to come to terms with the news.
+            MORE ON SPIDER-MAN
+            Spider-Man: Far From Home hits digital video with hour of new content
+            Sony says 'door is closed' on Spider-Man returning to MCU
+            Jeremy Renner asks Sony to give Spider-Man back to Marvel
+            A deal between Sony, which owns Spidey's movie rights, and Disney-owned Marvel Studios, allowed Tom Holland to play Spider-Man in three Marvel Studios movies in addition to stand-alone films for Sony that featured various Marvel characters.
+            But with the deal done, Holland's Spidey is going to have to web-crawl through his own universe without the Avengers assembling to help him out.
+            Will Marvel and Sony ever reunite, even if in some yet-unseen-by-Doctor-Strange future? We can hope. But for now, let's swing through some of Holland's best Spidey moments from the MCU days. (Yes, we're including the two Spider-Man standalone films, which come from Sony but were co-produced with Marvel and are just crawling with Avenger DNA.)
+            ~Underoos!~:
+            Every American kid who lived through the 1970s and 1980s remembers Underoos, character-patterned underwear that's fun to wear. It probably wasn't the coolest nickname for Iron Man to give Spider-Man in 2016's Captain America: Civil War, but when Iron Man calls him into battle with the new nickname, it's pretty funny. And Spidey grabbing Cap's iconic shield (and later gushing about what a fan he is) only cements that the new kid's not kidding around. Welcome to the MCU, Spider-Man.
+            ~'That's not a hug'~: 
+            Peter's not an Avenger, Tony warns in 2017's Spider-Man: Homecoming, but if he keeps on keeping on, he might be able to go on another, uh, retreat, as Peter cheerfully dubs the Avengers missions. And then he reaches over to let him out of the car, confusing Peter. It's not a hug, though. They're not there yet.
+            ~'I don't feel so good'~:
+            Stock up on extra-ply Kleenex for 2018's Avengers: Infinity War. Since everyone who cares has seen it, we can spoil the fact that Thanos turns half of our heroes into dust in the wind. But no one's presumed death is sadder than Peter Parker's. A baby-faced Holland plays a completely credible teenager as he flails against the inevitable, with father figure Tony Stark helpless for once. We don't feel so good either.
+            ~'This is nice'~: 
+            Spider-Man lives to web-sling again. In 2019's Avengers: Endgame, Thanos' snap is reversed, and Peter Parker comes skipping over to Iron Man to pour out what happened to him since that five-years-ago moment. He's surprised when Tony Stark can't help but hug him, but it's a precious moment, and we don't mean the sappy little statue kind.
+            ~'I'm too busy doing your job'~: 
+            In 2019's Spider-Man: Far From Home, Parker and pals go on a European vacation. But before they go, the friendly neighborhood Spider-Man helps out the cops by webbing up some bad guys in NYC. One of them asks him the question that's been hanging over the webslinger ever since he lost Tony Stark, saying, You gonna be the next Iron Man now? But Parker doesn't let the reminder of his mentor bring him down, snarking back, Well, no, I don't have time, I'm too busy doing your job. Just one New Yorker jawing at another, Big Apple-style, and it's a nice Spidey moment. We'll hope for more of these if Spidey has to stand alone in future films."
+            },
+            {
+            "viewCount": 0,
+            "category": "Apple",
+            "author": "Caroline Roberts",
+            "title": "6 health stats that are more important than your weight - CNET",
+            "description": "That number on the scale isn't enough to determine how healthy you are.",
+            "url": "https://www.cnet.com/news/6-health-stats-that-are-more-important-than-your-weight/",
+            "urlToImage": "https://cnet2.cbsistatic.com/img/eZLjRJLHjQNDKkF6m4HyGBhPR6M=/756x567/2019/09/05/efe46173-08cc-4c93-bf29-d49af55adbeb/gettyimages-111035045.jpg",
+            "publishedAt": "2019-09-06T13:15:01Z",
+            "content": "We all know the struggle of a fickle scale: you weigh yourself after one unhealthy meal and you've gained 5 pounds, only for the blip to even out over the next week. While it's tempting to focus only the number on the scale, it's not a great indicator of how healthy you are because your weight fluctuates hour to hour due to food, salt intake, exercise and even the weather.
+            Your weight doesn't tell the full story of your health, especially because the number alone doesn't account for how much muscle and fat you have. If you are working out and building muscle, the number on the scale might go up as you gain muscle (which weighs twice as much as fat), even though you are improving your overall health. 
+            While you shouldn't completely discount the number on the scale, it only tells a very small piece of the story. Instead of staring at your weight every morning, check out these health markers that'll give you a much more complete state of affairs.
+            ~Blood pressure~: 
+            High blood pressure has been nicknamed the silent killer. And now that I've scared you into paying attention, I'll explain why. When someone has high blood pressure, the force exerted against their artery walls is much larger than it should be. This extra pressure puts strain on your heart and increases your risk of a heart attack, heart disease or stroke. It usually doesn't present obvious symptoms until it's too late, so you have to be proactive in measuring it throughout your life.
+            The good news is that there are many steps you can take to lower blood pressure before taking medication. Limiting salt intake, drinking less alcohol, quitting smoking and getting more daily exercise have all shown to be effective. 
+            How to measure: Chances are you don't have a blood pressure monitoring machine at home (although it might be a good idea to get one), so you might have to make a doctor's appointment to check your levels. If you don't have a scheduled checkup soon, some retail drug stores like CVS offer free use of their machines.
+            Your reading will give you two numbers: the upper one is called systolic pressure and the lower one diastolic. Generally, you want your systolic pressure under 120 and diastolic under 80. You'll want both numbers to fall in line, because if your diastolic reading is in a healthy range and your systolic is elevated, the reading still presents a health risk.
+            ~Resting heart rate~: 
+            If you don't have time to go to the doctor to get your blood pressure checked, your resting heart rate may give you a clue whether it's too high or not. A study of World Health Organization data showed that elevated resting heart rates are strongly correlated with high blood pressure, and in turn cardiovascular mortality.
+            A normal resting heart rate is anywhere between 60 and 100 beats per minute, though if you're in really good shape it might be even lower. While a very high resting heart rate, called tachycardia, can be a serious medical emergency, monitoring average levels can give you good indicators to your overall health as well. Resting heart rate tends to rise when you are stressed, exercising less or not getting enough sleep.
+            How to measure: Measuring yours is as simple as it sounds: find your pulse either on your neck, the inside of your wrist, or even the top of your foot. For the most accurate results, set a timer for 60 seconds and count the total number of beats. I hope I don't have to tell you this, but make sure you're not exercising while measuring your resting heart rate. In fact, do this first thing in the morning before you get out of bed.
+            ~Heart rate recovery~: 
+            There's another health marker that has to do with your heart: how fast it returns to normal after exercise. Heart rate recovery indicates how good of shape you're in (if you work out a lot, expect recovery to be fast). It also correlates with your risk of cardiovascular disease, including atrial fibrillation, and all-around mortality. This is another health marker you can be proactive about -- with regular cardiovascular exercise (walking, jogging, dancing) you can expect to improve your heart rate recovery in a matter of months.
+            How to measure: This is another number you can measure at home. First, you need to get your heart rate elevated by working out strenuously. Run, jump, or do jumping jacks to get it up there. If you're reading this at your desk, you can get up and go sprint around the office. I promise your coworkers will know that you're performing a very scientific study. Then, measure your heart rate while you're still breathing heavy. Recover for two minutes, then measure it again. Subtract the first number from the second number, and this is your heart rate recovery.
+            Generally, you want your heart rate recovery to be in between 22-52 beats per minute, although you're in the clear for major risks if it's anywhere above 12. A heart rate recovery that's  lower than 12 is associated with heart issues and type-2 diabetes.
+            ~Waist-to-hip ratio~: 
+            While overall levels of body fat are important factors in your health, what may be the most important is how that fat is distributed. The ratio between the circumference of your waist and circumference of your hips is used as an important health marker for obesity-related illnesses. The more fat you carry around your waist (being apple-shaped as opposed to pear-shaped), the higher your risk is for heart disease.
+            How to measure: The World Health Organization has detailed instructions on how to take these measurements, specifying to use a stretch-resistant measurement tape. The waist measurement is taken at the midpoint between the last rib and the top or your pelvis. The hip circumference is taken at the widest point of the buttocks, with the tape measurement parallel to the floor. Then you divide the first by the second, and voila!
+            The World Health Organization defines ratios over 0.85 for women and 0.9 for men for being at substantially increased risk for obesity-related illnesses, including metabolic disease and heart disease. 
+            If your ratio is higher than you'd like, the good news is that it's not permanent. A 2011 study suggested that a diet low in processed foods may lower your waist to hip ratio, so there's an extra point for the benefits of trying to eat healthier.
+            ~Cholesterol levels~: 
+            Harvard reports that one in every six Americans has high cholesterol, making them twice as likely to develop heart disease. But, cholesterol isn't all bad -- it plays an incredibly important role in your body. It's found in every cell, and plays a vital role in creating the cell membrane that protects all the good stuff inside.
+            Typically, when people talk about cholesterol, they're usually referring to LDL, or bad cholesterol. There's also HDL, or good, total cholesterol, and triglycerides. 
+            I'm starting to sound like a broken record, but a healthy diet low in processed food is the best first treatment for high cholesterol. Exercising and quitting smoking also help. Cholesterol naturally rises with age, so if a time machine is ever invented that could be a good bet too. If your levels are still high after trying self-treatment, a doctor can prescribe medicine to help.
+            How to measure: Head to your doctor and ask to get a blood panel. That will give you a detailed report on all these different levels, and comprehensive guidelines can tell you if any are too high.
+            ~Inflammation~: 
+            Inflammation is another necessary bodily function that can sometimes go too far. It's a fundamental immune process involving white blood cells. For example, if you cut your finger chopping veggies,  an inflammatory response is in charge of telling white blood cells to go to the injury site and heal it, bringing along that familiar redness and swelling.
+            Sometimes, though, your own immune system can turn against you. Inflammation isn't a particularly well studied phenomenon, but the Johns Hopkins Health Review reports it's a common factor in several common diseases, such as arthritis, heart disease, and even cancer. 
+            Inflammation has been linked to a stress response, so if you notice more swelling it could be a good indicator of mental health. Meditation, taking daily walks, and getting better sleep can all help you relieve stress on a daily basis. Another culprit may be your diet, and incorporating more anti-inflammatory foods can help.
+            How to measure: This health marker is a bit harder to quantify, but if you have too much inflammation, it may show up in your body as redness, swelling and pain around joints. Other indicators include psoriasis (dry, flaky skin), and chronic bloating.
+            The information contained in this article is for educational and informational purposes only and is not intended as health or medical advice. Always consult a physician or other qualified health provider regarding any questions you may have about a medical condition or health objectives."
+            },
+            {
+            "viewCount": 0,
             "category": "TechCrunch",
             "author": "David Teten",
             "title": "Why are revenue-based VCs investing in so many women and underrepresented founders?",
@@ -2797,14 +3250,233 @@ news = [
             This thing is also heavy as hell. Empty, it weighs as much as another bag with a light load. For some that weight will be reassuring, but for others it’s just too much.
             Inside the main compartment is plenty of room but little organization; there’s a single flap that will hold a laptop in place (my 13-inch MacBook Pro fits perfectly), and beyond that it’s just a big empty space. This is the only briefcase-style bag that rivals Filson’s (in my last roundup) for overnight capability. This one is definitely going to get your stuff waxy for the first few trips, though.
             That’s all for today, but keep an eye out for more waxed canvas bags later in Bag Week as well!"
+            },
+            {
+            "viewCount": 0,
+            "category": "TechCrunch",
+            "author": "Brian Heater, Danny Crichton",
+            "title": "Joi Ito resigns as MIT Media Lab head in wake of Jeffrey Epstein reporting",
+            "description": "Joichi Ito, the embattled director of the M.I.T. Media Lab, has stepped down according to a statement by MIT’s president, L. Rafael Reif. The news was first reported by The New York Times, which had received a copy of an email sent by Ito to university provos…",
+            "url": "https://techcrunch.com/2019/09/07/joi-ito-resigns-as-mit-media-lab-head-in-wake-of-jeffrey-epstein-reporting/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-163492148.jpg?w=604",
+            "publishedAt": "2019-09-07T20:37:22Z",
+            "content": "Joichi Ito, the embattled director of the M.I.T. Media Lab, has stepped down according to a statement by MIT’s president, L. Rafael Reif. The news was first reported by The New York Times, which had received a copy of an email sent by Ito to university provost Martin A. Schmidt.
+            “After giving the matter a great deal of thought over the past several days and weeks,” the now-former director writes, “I think that it is best that I resign as director of the media lab and as a professor and employee of the Institute, effective immediately.”
+            In addition to resigning as director, Reif’s statement also confirmed that Ito resigned as a professor of the university.
+            The ‘matter’ to which the letter refers to is Ito’s reported connections to Jeffrey Epstein. The financier died in prison by hanging on August 10, following an arrest a month prior on federal charges of sex tracking minors.
+            Ito was among several high profile and powerful people whose alleged ties to the disgraced billionaire came into sharp focus following his arrest. In the immediate aftermath of that arrest, it came to light that the MIT Media Lab and Ito personally received funds from Epstein, to which Ito apologized in an August 15th letter.
+            The allegations against Ito intensified overnight following a report by Ronan Farrow in The New Yorker that Ito’s engagement of Epstein were far deeper than had been previously been acknowledged. According to emails and documents discovered by Farrow, Ito and MIT Media Lab’s head of development, Peter Cohen, worked in tandem to conceal Epstein’s contributions from MIT’s central fundraising office, such as by marking donations anonymous and keeping his name out of disclosure statements.
+            Ito has long stood firm that the facts of his relationship with Epstein have been misreported. In an email to the Times, Ito said that the New Yorker piece was “full of factual errors.”
+            In response to Farrow’s piece, M.I.T, president L. Rafael Reif in today’s statement said:
+            Because the accusations in the story are extremely serious, they demand an immediate, thorough and independent investigation. This morning, I asked MIT’s General Counsel to engage a prominent law firm to design and conduct this process. I expect the firm to conduct this review as swiftly as possible, and to report back to me and to the Executive Committee of the MIT Corporation, MIT’s governing board.
+            The MIT Media Lab  is a storied research center with a long legacy of contributions to science, technology, and innovation. There are no indications yet on who might replace Ito.
+            In addition to the MIT Media Lab, Ito sits as a board director for The New York Times Company, where he sits on the company’s audit committee.
+            One can’t help but point out a perennial tweet that Ito wrote more than a decade ago about fundraising: reminder to self: don't invest with or take money from assholes."
+            },
+            {
+            "viewCount": 0,
+            "category": "TechCrunch",
+            "author": "Danny Crichton",
+            "title": "After Epstein, it’s time for the Valley to find a moral view on capital",
+            "description": "Is capital moral or amoral? In the predominant view held in Silicon Valley today, capital is amoral — cash is cash, and regardless of where it comes from, once it leaves the hand of its investor or donor, it no longer has that individual’s taint. That money m…",
+            "url": "https://techcrunch.com/2019/09/07/after-epstein-its-time-for-the-valley-to-find-a-moral-view-on-capital/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-94808265.jpg?w=600",
+            "publishedAt": "2019-09-07T18:05:29Z",
+            "content": "Is capital moral or amoral?
+            In the predominant view held in Silicon Valley today, capital is amoral — cash is cash, and regardless of where it comes from, once it leaves the hand of its investor or donor, it no longer has that individual’s taint. That money might have previously been spent on acquiring access to underage girls, or murder, or espionage, but now it is being spent on something productive, something useful. Isn’t that ultimately a net win for society?
+            That culture of fundraising is under an exacting microscope this week after the MIT Technology Review reported that Nicholas Negroponte, the founder of the famed MIT Media Lab, would have continued to take convicted sex offender Jeffrey Epstein’s donations to the research center.
+            [… He] said he had recommended that [Joichi Ito, the lab’s current director] take Epstein’s money. “If you wind back the clock,” he added, “I would still say, ‘Take it.’” And he repeated, more emphatically, “‘Take it.’”
+            The comments, made during a meeting of the lab’s staff, shocked many of the participants, with some angrily replying in the heat of the moment. As the Review noted, “Kate Darling, a research scientist at the MIT Media Lab, shouted, ‘Nicholas, shut up!’ Negroponte responded that he would not shut up and that he had founded the Lab, to which Darling said, ‘We’ve been cleaning up your messes for the past eight years.’”
+            Epstein funded projects widely in the tech world through the Edge Foundation and other initiatives, and his acquaintances read like a who’s-who of tech luminaries.
+            Yet, this week’s controversy over fundraising is hardly novel. Just last year, SoftBank’s Vision Fund was dealing with the fallout in its own fundraising after Saudi Arabia — the fund’s largest limited partner with a $45 billion commitment to the $93 billion fund — murdered journalist Jamal Khashoggi in its consulate in Istanbul.
+            These two singular cases also connect to the larger story about the U.S. government’s active shutdown of Chinese venture capital dollars flowing into the Valley for fear of foreign intelligence espionage. Through the modernization of legal tools like CFIUS, to the Pentagon’s creation of a Trusted Capital Marketplace, to reversals of acquisitions like the unwinding of Chinese company Kunlun’s purchase of gay dating app Grindr, the government has repeatedly been telling entrepreneurs: it matters where your capital comes from.
+            Indeed, that’s the very quandary that Silicon Valley is facing these days. Its amoral view of capital is increasingly clashing with the reality that it matters a whole heck of a lot where that capital comes from. And it is about time that founders and investors take responsibility for cleaning up a capital base that has become more and more squalid over time.
+            Why can’t capital just be immoral? Well, Epstein’s web of donations provided him with a philanthropic sheen that eased access to the highest echelons of society while he committed his crimes. Saudi Arabia is the largest investor in Silicon Valley not only because it drives a return and diversifies its oil-dependent economy, but also because it can Valley-wash the horrific rights abuses and atrocities it commits against all of its citizens, including women, LGBT people, and immigrants.
+            (But hey, women can drive now, just in time for autonomous vehicles.)
+            This amoral versus moral view of capital is just the classic debate in philosophy between utilitarianism versus deontological duties, but Silicon Valley has almost exclusively chosen the former rather than the latter. My bank asks me more questions about my $50 deposits than many founders ask about where that $500 million check comes from.
+            That’s perhaps understandable in context. Founders — as with non-profit leaders — fundraise around-the-clock. When a check finally arrives, they don’t bother to ask a bunch of due diligence questions. They just want that money to hit the bank and get back to building what they were intending to the entire time.
+            It’s a mode of operating that continues to the present day. I was chatting with a founder this week, and during demo day last week, he got an emailed check for $50,000 from an investor in the audience. It was amazing, he said with exclamation points to me, and it sounded like he just added the check to the pile he had accumulated. Who is this person? Do we know where his capital comes from? Is there going to be some scandal that shocks the startup in a couple of years? Yet the excitement was palpable — the round was closed, and it was the easiest $50,000 ever fundraised.
+            Those diligence questions probably didn’t need to be asked a decade or two in the Valley, back when a few dozen firms mostly raised from blue-chip university and non-profit endowments as well as state pension funds.
+            Today though, there are all kinds of sources of capital, with little clarity about where the capital is coming from. Take, for instance, Carlos Ghosn, who once headed Nissan Motors and is currently on trial in Japan for a variety of financial crimes. He has been accused of embezzling millions of dollars for a VC fund run by his son by running a kickback scheme through a Nissan distributor in Lebanon. As the Wall Street Journal reported a little more than a week ago:
+            In March 2015, the Ghosns set up in Delaware an investment vehicle called Shogun Investments, which Mr. Ghosn described as a fund that would invest in Silicon Valley startups. Mr. Ghosn was majority owner while his son, Anthony, held a stake, according to people familiar with the matter. The younger Mr. Ghosn, who was about to graduate from Stanford University, was working at the time as chief of staff for Silicon Valley venture capitalist Joe Lonsdale, providing the elder Mr. Ghosn a close-up view of the tech investment world. The lofty returns had stunned him, according to one of the people.
+            That fund would go on to fund some of the most well-known unicorns in the world:
+            “Following our phone conversation, I ordered a transfer of $3 million,” Carlos Ghosn wrote in a December 2017 email to his son, who was 22 years old at the time.
+            Of that amount, $2 million was for an investment in Grab, a Southeast Asian competitor to Uber Technologies Inc., Mr. Ghosn wrote, adding that he was sending “$1 million for the company of your friend that you think will do very well.” It wasn’t clear which company Mr. Ghosn was referring to.
+            I would love a world in which founders asked all the right due diligence questions. I would love for them to inquire about limited partners, about how wealth was created, and how it has been invested. But I am also aware that in what can be a desperate search for funds, those questions may well never get asked in the first place.
+            If you want to stop the capital laundering taking place every day in the Valley, you have to create active, real-time antidotes. That means stopping it at every point of contact, every single opportunity where it can infect the ecosystem.
+            And so, we need better systems as a community and as an ecosystem to cleanse ourselves of this dirty money. We need “know-your-capital” processes that are standardized, robust, and accurate so that every check can be verified before it hits the bank. We need tools to verify that a startup or non-profit has actually followed those KYC processes, so that employees don’t suddenly show up at work and realize they are making money for a bunch of murderers. It’s “trust but verify.”
+            Systematization and process are key to execution, but that doesn’t disclaim the responsibility for the Valley’s leaders to take a moral stance here. Utilitarianism only takes you so far — it does matter that you take capital from a bad actor. Negroponte is wrong to say that he would still take Epstein’s money, regardless of what that capital might have funded at the MIT Media Lab.
+            Taking responsibility for your capital is part of being a leader of an organization today. Hopefully, the next generation of founders will take a look at Epstein, and Khashoggi, and China, and Ghosn, and the Sacklers, and a whole host of other case studies and learn from them and change their fundraising practices. A moral view on capital isn’t a cost of doing business — it’s simply the right thing to do."
+            },
+            {
+            "viewCount": 0,
+            "category": "TechCrunch",
+            "author": "Anthony Ha, Jordan Crook",
+            "title": "Original Content podcast: Amazon's 'Carnival Row' mixes fairies, politics and murder",
+            "description": "“Carnival Row” offers an unlikely mix of genres, laying out a murder mystery in a world of fairies and other mythical creatures, while also delivering a healthy dose of allegorical politics. And as we explain in the latest episode of the Original Content podc…",
+            "url": "https://techcrunch.com/2019/09/07/original-content-carnival-row/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/09/carnival-row-amazon-prime.jpg?w=709",
+            "publishedAt": "2019-09-07T17:58:51Z",
+            "content": "“Carnival Row” offers an unlikely mix of genres, laying out a murder mystery in a world of fairies and other mythical creatures, while also delivering a healthy dose of allegorical politics.
+            And as we explain in the latest episode of the Original Content podcast, the show (recently released on Amazon Prime Video) does take some getting used to. There’s a certain clumsiness in the way the opening episode insists on its grittiness and adult themes — and most viewers will probably need some time before they stop gawking at the fairy sex and focus instead on the story and characters.
+            Once they do, though, “Carnival Row” offers plenty of rewards. Orlando Bloom and Cara Delevingne star as Philo and Vignette — a police investigator and a “fae” refugee, respectively, who have a complicated romantic past together. Bloom and Delevingne may not be entirely up to the task of creating complex and memorable characters, but the world that creators Travis Beacham and René Echavarria have built around them is rich, detailed and strange.
+            The pair is also surrounded by a strong supporting cast that includes Jared Harris (“The Crown”) and Indira Varma (“Game of Thrones”) — and ultimately, the fantasy, the politics and the mystery do come together in satisfying ways.
+            In addition to reviewing “Carnival Row,” we also discuss YouTube’s settlement with the FTC and listener response to last week’s review of “The Dark Crystal: Age of Resistance.”
+            You can listen in the player below, subscribe using Apple Podcasts or find us in your podcast player of choice. If you like the show, please let us know by leaving a review on Apple. You can also send us feedback directly. (Or suggest shows and movies for us to review!)
+            And if you want to skip ahead, here’s how the episode breaks down:
+            0:00 Introduction,
+            2:11 “Dark Crystal: Age of Resistance” listener response,
+            15:03 “Carnival Row” review (minor spoilers for the first episode),
+            33:47 “Carnival Row” spoiler discussion."
+            },
+            {
+            "viewCount": 0,
+            "category": "TechCrunch",
+            "author": "Mike Butcher",
+            "title": "Wikipedia blames malicious DDOS attack after site goes down across Europe, Middle East",
+            "description": "Wikipedia was forced offline in several countries Friday after a cyber attack hit the global encyclopedia. Users across Europe and parts of the Middle East experienced outages shortly before 7pm, BST, according to downdetector.com. Wikimedia’s German Twitter …",
+            "url": "https://techcrunch.com/2019/09/07/wikipedia-blames-malicious-ddos-attack-after-site-goes-down-across-europe-middle-east/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2015/02/wikipedia-down.png?w=711",
+            "publishedAt": "2019-09-07T15:56:52Z",
+            "content": "Wikipedia  was forced offline in several countries Friday after a cyber attack hit the global encyclopedia.
+            Users across Europe and parts of the Middle East experienced outages shortly before 7pm, BST, according to downdetector.com.
+            Wikimedia’s German Twitter account posted: “The Wikimedia server…is currently being paralysed by a massive and very broad DDOS [distributed denial of service] attack.”
+            The site issued the following statement:
+            Today, Wikipedia was hit with a malicious attack that has taken it offline in several countries for intermittent periods. The attack is ongoing and our Site Reliability Engineering team is working hard to stop it and restore access to the site.
+            As one of the world’s most popular sites, Wikipedia sometimes attracts “bad faith” actors. Along with the rest of the web, we operate in an increasingly sophisticated and complex environment where threats are continuously evolving. Because of this, the Wikimedia communities and Wikimedia Foundation have created dedicated systems and staff to regularly monitor and address risks. If a problem occurs, we learn, we improve, and we prepare to be better for next time.
+            We condemn these sorts of attacks. They’re not just about taking Wikipedia offline. Takedown attacks threaten everyone’s fundamental rights to freely access and share information. We in the Wikimedia movement and Foundation are committed to protecting these rights for everyone.
+            Right now, we’re continuing to work to restore access wherever you might be reading Wikipedia in the world. We’ll keep you posted.”
+            The site was reported to be down in large parts of the UK as well as Poland, France, Germany and Italy."
+            },
+            {
+            "viewCount": 0,
+            "category": "TechCrunch",
+            "author": "Danny Crichton",
+            "title": "What top enterprise VCs are thinking, using data effectively, ethics, Light, and Flipkart",
+            "description": "Top VCs on the changing landscape for enterprise startups TechCrunch had our debut confab for enterprise types this week at Yerba Buena Center in SF, where we heard from Aaron Levie, CEO of Box, Apple VP Susan Prescott of Apple, and Microsoft Azure CTO Mark R…",
+            "url": "https://techcrunch.com/2019/09/07/what-top-enterprise-vcs-are-thinking-using-data-effectively-ethics-light-and-flipkart/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/05/extra-crunch-roundup06.jpg?w=753",
+            "publishedAt": "2019-09-07T15:35:48Z",
+            "content": "Top VCs on the changing landscape for enterprise startups
+            TechCrunch had our debut confab for enterprise types this week at Yerba Buena Center in SF, where we heard from Aaron Levie, CEO of Box, Apple VP Susan Prescott of Apple, and Microsoft Azure CTO Mark Russinovich. We were sold out, which perhaps isn’t all that surprising given the amount of interest in enterprise these days. Expect more events to come.
+            Our Silicon Valley editor Connie Loizos hosted a panel with leading enterprise VCs, and she selected the most interesting points from that conversation and from her calls with them for Extra Crunch members. Hear a bit from Jason Green of Emergence Capital, Rebecca Lynn of Canvas Ventures and Maha Ibrahim of Canaan Partners and what they are investing in these days.
+            And if you want to hear even more from Jason Green  and yours truly, head over to TechCrunch’s VC podcast Equity, where we shot live from Yerba Buena along with host Kate Clark with a special focus on enterprise startups.
+            Maha Ibrahim: I feel like people are focusing too much on metrics and not as much on [the total addressable market]. We make money [when a startup strikes on a] huge, huge market.
+            But there’s [also] so much correlation between consumer and enterprise startups in that we want customers that love the product. We want customers that come back and come back and come back to us, without us having to pay for them to come back. So the equivalent in a consumer company would be me having to spend advertising dollars to acquire that customer again, as opposed to that customer just coming back because he or she loves what I’m doing. The same goes for the enterprise."
+            },
+            {
+            "viewCount": 0,
+            "category": "TechCrunch",
+            "author": "Mike Butcher",
+            "title": "Uber has surveyed some drivers on small loans, suggesting financial products are coming",
+            "description": "Back in June Uber went on a hiring spree in New York, hiring at least 100 fintech-oriented tech workers to ostensibly look at creating products to increase loyalty and engagement among users and drivers, including things like banking. Cue a flurry of speculat…",
+            "url": "https://techcrunch.com/2019/09/07/uber-has-surveyed-some-drivers-on-small-loans-suggesting-financial-products-are-coming/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/04/GettyImages-1127819907.jpg?w=600",
+            "publishedAt": "2019-09-07T14:17:03Z",
+            "content": "Back in June Uber went on a hiring spree in New York, hiring at least 100 fintech-oriented tech workers to ostensibly look at creating products to increase loyalty and engagement among users and drivers, including things like banking. Cue a flurry of speculation. It now looks like Uber  is taking baby-steps towards building such a raft of products out, potentially by offering loans directly to drivers, according to a report from Recode/Vox.
+            The story is based on the emergence of an in-app survey which was sent to some drivers talking about a “new financial product” aimed at drivers “in a time of need.” The survey then went on to question drivers’ use of financing loans of $1,000 or less in the last three years. It asked “what amount are you most likely to request?” It then gave them options top pick from “Less than $100,” “Between $100 and $250,” “Between $250 and $500” and “More than $500.”
+            At this time there’s no indication of timing on a small loans product offering to drivers, and Uber has not publicly commented on the emergence of the survey’s existence.
+            However, Uber already has form in this space. It has offered cash advance programs to drivers in California and Michigan, although the company was criticised for what some called “pay-day loans”. It’s also offered leases on new cars to drivers in the past and currently offers a co-branded credit card with Visa and an Uber Cash digital wallet for riders.
+            Uber would not be alone in rolling out small cash loans to its workers, given given that large companies such as Walmart  and others already offer lucrative payroll advances and loans to employees.
+            But the fact that it now has a very large FinTech team suggests this won’t the end of us hearing about Uber’s tentative moves into this space."
+            },
+            {
+            "viewCount": 0,
+            "category": "TechCrunch",
+            "author": "Kate Clark",
+            "title": "Startups Weekly: Stripe's grand plan",
+            "description": "In this week's newsletter: A new car-sharing unicorn, WeWork's IPO expectations and an introduction to Stripe Capital.",
+            "url": "https://techcrunch.com/2019/09/07/startups-weekly-stripes-grand-plan/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-527013168.jpg?w=599",
+            "publishedAt": "2019-09-07T12:00:43Z",
+            "content": "Hello and welcome back to Startups Weekly, a weekend newsletter that dives into the week’s noteworthy startups and venture capital news. Before I jump into today’s topic, let’s catch up a bit. Last week, I noted Peloton’s secret weapons. Before that, I wrote about a new e-commerce startup, Pietra.
+            Remember, you can send me tips, suggestions and feedback to kate.clark@techcrunch.com or on Twitter @KateClarkTweets. If you don’t subscribe to Startups Weekly yet, you can do that here.
+            The big story
+            In one fell swoop, Stripe may disrupt the entire financial services ecosystem.
+            The $22 billion payments behemoth announced Stripe Capital this week, a provider of quick and easy to obtain loans for internet businesses. The company is expected to launch a card as well, according to TechCrunch’s Ingrid Lunden. What does that mean for recent upstarts like Clearbanc, a business that provides revenue-share agreements to help startups forgo selling equity to VCs, or Brex, which has created a credit card tailored for startups? Stiff competition ahead.
+            Led by brothers Patrick and John Collison, Stripe is known for developing payment processing software to facilitate online purchases. Doubling down on financial services, the company seeks to become the go-to capital provider to its millions of customers. In a vacuum, it’s no threat to Brex, which has quickly become a fintech darling (with a multibillion-dollar valuation to prove it) — but coupled with Stripe’s massive network, resources and the soon-to-be-announced card, it’s worth concern.
+            I reached out to both Brex and Clearbanc. Here’s what they had to say.
+            Clearbanc: “Stripe is one of our close partners because we’re both deeply committed to empowering founders. There’s a huge demand amongst founders for flexible funding that allow them to grow while retaining equity in their company, so it’s encouraging to see the growth of alternative funding options. We’re seeing this first hand — we’re investing an average of $100,000 of growth capital per brand, with other companies taking up to $10 million. New funding alternatives not only open more doors for more businesses, but data-driven platforms can also help to reduce bias and promote entrepreneurship outside of VC capitals like Silicon Valley and New York.”
+            Brex CEO Henrique Dubugras: “We have created a new financial stack for tech companies, and this has resulted in a very innovative product experience with lots of adoption, so it makes sense that Stripe would also pursue this fast-growing opportunity.”
+            We’ll share more details on the card as soon as possible.
+            WeWork slashes expectations
+            The Wall Street Journal reported this week that the company formerly known as WeWork is considering slashing its valuation as it looks to woo public market investors. The co-working biz may hit the public markets at a valuation of somewhere in the $20 billion range for its initial public offering, a figure that’s far less than the $47 billion valuation it received when it raised its last round of private funding. Yikes…
+            TechCrunch Disrupt
+            We are just weeks away from our flagship conference, TechCrunch Disrupt San Francisco. We have dozens of amazing speakers lined up. In addition to taking in the great line-up of speakers, ticket holders can roam around Startup Alley to catch the more than 1,000 companies showcasing their products and technologies. And, of course, you’ll get the opportunity to watch the Startup Battlefield competition live. Past competitors include Dropbox, Cloudflare and Mint… You never know which future unicorn will compete next.
+            You can take a look at the full agenda here. Here’s a look at the panels I personally will be onstage moderating.
+            Brex CEO Henrique Dubugras and Clearbanc president Michele Romanow will discuss the evolving fintech ecosystem and both startups’ ultra-fast growth.
+            Slack co-founder Cal Henderson and Slack investor, Spark Capital’s Megan Quinn, will discuss the past, present and future of the now ubiquitous workplace messaging tool.
+            Postmates CEO Bastian Lehmann will sit down for a one-on-one conversation on what’s next for the food delivery business.
+            Deals, deals, deals
+            Car-sharing business Getaround is raising $200M at a unicorn valuation: 
+            BigID announces $50M Series C,
+            India’s Milkbasket in talks to raise $50M,
+            Bellwether coffee nabs $40M in new funding,
+            Cooks Venture picks up $12M to rethink agriculture from the ground up,
+            Spirable refuels with $7.4M to serve more personalized video ads in the US,
+            Newly renamed Superside raises $3.5M for its outsourced design platform,
+            Upflow grabs $2.7M to streamline payment processes,
+            Listen
+            This week, we recorded Equity on location at TechCrunch Sessions: Enterprise in San Francisco. Our special guest was Emergence Capital founder Jason Green, who joined us to talk about the firm’s specialty: enterprise investments! Danny Crichton, the esteemed leader of TechCrunch’s Extra Crunch, was on hand to co-lead the episode with me. Listen here. And remember, Equity drops every Friday at 6:00 am PT, so subscribe to us on Apple Podcasts, Overcast, Spotify, Pocket Casts, Downcast and all the casts."
+            },
+            {
+            "viewCount": 0,
+            "category": "TechCrunch",
+            "author": "Mike Butcher",
+            "title": "PrimaryBid closes $8.6M round for its platform aimed to help retail investors",
+            "description": "PrimaryBid, a UK-regulated platform connecting publicly listed companies with everyday investors for discounted share issuances has previously raised $3M. It’s now upped those stakes with an $8.6M funding round, led by UK VCs Pentech and Outward VC with parti…",
+            "url": "https://techcrunch.com/2019/09/07/primarybid-closes-8-6m-round-for-its-platform-aimed-to-help-retail-investors/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-539716652.jpg?w=604",
+            "publishedAt": "2019-09-07T09:37:13Z",
+            "content": "PrimaryBid, a UK-regulated platform connecting publicly listed companies with everyday investors for discounted share issuances has previously raised $3M. It’s now upped those stakes with an $8.6M funding round, led by UK VCs Pentech and Outward VC with participation from new and existing investors. Craig Anderson, a partner at Pentech, will join the PrimaryBidBoard of Directors with Outward VC having a Board Observer seat.
+            This investment is representative of the trend towards unpacking complex financial investment products for the average person, especially in the UK.
+            The FCA-regulated platform recently made a long-term commercial agreement with Euronext, the leading pan-European exchange in the Eurozone. The partnership gives the company access to nine new geographies, with the first new site launching in France later this year.
+            Commenting, Anand Sambasivan, co-founder and CEO of PrimaryBid, said: “Everyday investors are a vital part of the stock market and yet unable to buy discounted share deals – a longstanding imbalance in the public markets. This is true whether it is a government selling down its holding in a large company or a quoted company is raising growth capital. Our platform addresses this challenge, giving small investors the same access as traditionally afforded to large institutional investors.”
+            Investors can tap into PrimaryBid’s centralizing infrastructure that allows access to everyday investors as part of a share issuance, including block sales. The inclusion of retail investors can improve pricing and liquidity outcomes for their clients. The company’s solution allows private investors to participate, at the same time and the same price, delivering open access regardless of the size of their investment. The service is free of charge for investors, from £100 upwards.
+            PrimaryBid doesn’t have competitors because Retail investors have not previously had access to discounted equity offerings run by investment banks. This is because the retail investment market is too fragmented, and these deals are highly time-sensitive. As a result, only clients of Investment Banks (i.e. institutional investors) could previously access these attractive deals.
+            So now, listed companies that want to raise more capital on the stock exchange by issuing new shares can now connect with retail investors and offer these retail investors these shares at the same discounted rates as those offered to institutional investors. “In the past, these retail investors just couldn’t access these attractive deals for these new shares,” explains Sambasivan.
+            Craig Anderson of Pentech said: “We believe equity capital markets infrastructure is dominated by an institutional focus and is not geared for retail investors, which unfairly restricts consumer access to the primary equity markets. PrimaryBid addresses this problem by using technology to democratize the equity capital markets to provide a new asset class to retail investors.”
+            Kevin Chong of Outward VC said: “By bringing publicly listed companies directly to ordinary investors, PrimaryBid addresses increasing frustrations felt by equity issuers and potentially expands global equity markets to the benefit of all players – investors, issuers and investment bank advisers.”
+            Pentech previously invested in Nutmeg (which recently closed a £45m funding round led by Goldman Sachs) . Outward VC has previously backed Monese, Curve and Bud."
+            },
+            {
+            "viewCount": 0,
+            "category": "TechCrunch",
+            "author": "Sarah Perez",
+            "title": "Roku expands its TV licensing program to Europe",
+            "description": "Roku TV today represents more than 1 in 3 smart TVs sold in the U.S. Now, the company is bringing its TV licensing program to European markets. At the consumer tech show IFA in Berlin, Roku announced it will now allow manufacturers to license its TV reference…",
+            "url": "https://techcrunch.com/2019/09/07/roku-expands-its-tv-licensing-program-to-europe/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/09/Hisense-Roku-TV.png?w=711",
+            "publishedAt": "2019-09-07T08:30:50Z",
+            "content": "Roku  TV today represents more than 1 in 3 smart TVs sold in the U.S. Now, the company is bringing its TV licensing program to European markets. At the consumer tech show IFA in Berlin, Roku announced it will now allow manufacturers to license its TV reference designs and use its Roku OS to build smart TVs for sale in Europe. It also said Hisense would be its first European Roku TV partner.
+            Today, the connected TV market is no longer limited to just the dongles, sticks, and streaming media players that plug into the HDMI ports of consumers’ TV sets.
+            Top companies like Roku, Google and Amazon are also making their operating systems and reference designs available to TV makers themselves, in a battle to gain consumer market share. Apple has been rumored to be working on its own television set powered by tvOS, as well.
+            Roku, to date, done well on this front in its home market, after first introducing the Roku TV platform at the Consumer Electronics Show in 2014. Hisense was then one of its first partners on the effort. Fast-forward to 2019, and there are now over 100 models available from over 10 brands in North America, and the company estimates that Roku TV is now the No. 1 selling smart TV OS in the U.S.
+            Roku isn’t alone in targeting Europe with its TV platform. Amazon this week announced more than 20 new Fire TV devices, 15 of which were TVs licensing its Fire OS. Many of these were also aimed at European consumers through partnerships with local brands and retailers.
+            The new Hisense Roku TV models will support 4K Ultra HD resolutions and HDR, and will come in sizes ranging up to 65 inches, Roku says. The models will launch in the U.K. in the fourth quarter.
+            “While consumers love Roku TV’s simplicity and advance features, TV manufacturers benefit from the low manufacturing cost, a variety of technology options, and support from Roku,” said Roku CEO and Founder Anthony Wood, in a statement. “The ability to quickly bring to market a leading smart TV experience that is regularly updated by Roku and is packed with entertainment gives TV manufacturers an edge in the competitive TV business. We are pleased to bring the Roku TV licensing program to Europe and look forward to the first Hisense Roku TVs in market this year,” he said."
+            },
+            {
+            "viewCount": 0,
+            "category": "TechCrunch",
+            "author": "Manish Singh",
+            "title": "India loses contact with spacecraft during historic moon landing attempt",
+            "description": "India’s attempt to become the first nation to soft land a robotic spacecraft at the moon’s South Pole, an unexplored region, has ended in failure, the space agency said Saturday. Less than two miles above the lunar surface, the Vikram lander (named after Vikr…",
+            "url": "https://techcrunch.com/2019/09/07/chandrayaan-2-lander/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1166456966.jpg?w=600",
+            "publishedAt": "2019-09-07T07:54:28Z",
+            "content": "India’s attempt to become the first nation to soft land a robotic spacecraft at the moon’s South Pole, an unexplored region, has ended in failure, the space agency said Saturday.
+            Less than two miles above the lunar surface, the Vikram lander (named after Vikram Sarabhai, the father of India’s space program) lost communications with the mission control.
+            A live broadcast from ISRO, India’s equivalent of NASA, showed scientists grow tense as the control station struggled to get a signal from the lander.
+            India’s Prime Minister Narendra Modi, who was watching the landing attempt, offered words of encouragement to the scientists and children, who had accompanied him at the ISRO campus.
+            “Be courageous. Our faith in ISRO has not lost. I can proudly say that the effort was worth it and so was the journey. We are full of confidence that when it comes to our space program, the best is yet to come,” he said.
+            Space is hard. The lunar surface is filled with debris of spacecrafts that have attempted and failed to land in one piece. Because there is little to no atmosphere on the moon, parachutes can’t be used, leaving landers to rely completely on thrusters to modulate the speed.
+            Chandrayaan-2, a roughly $140 million mission, is, in part, intended to study moon craters that are believed to contain water deposits, something Chandrayaan-1 found in 2008.
+            A successful touchdown would have made India the fourth country to successfully complete a soft landing on the lunar surface. So far, only the former Soviet Union, the U.S., and China have accomplished it. The 142-foot tall spacecraft that blasted off Satish Dhawan Space Centre, Sriharikota in Andhra Pradesh on July 15 carried an orbiter, a lunar lander, and a six-wheeled rover. The lander and rover were expected to operate for just a couple of weeks, but the orbiter, which detached from the lander earlier this week, will continue to operate for about seven years, the space agency said.
+            ISRO has come a long way and specialized in low-cost space launches since the early 1960s, when components of rockets were transported by bicycles and assembled by hand in the country.
+            In 2013, ISRO also launched an orbiter to Mars in its maiden $74 million interplanetary mission — a fraction of the $671 million NASA spent for a Mars mission in the same year. In 2017, ISRO also deployed a record 104 satellites into space in just 18 minutes. Earlier this year, ISRO said it intends to have its own space station in the future and conduct separate missions to study the Sun and Venus. It will begin working on its space station following its first manned mission to space, called Gaganyaan (which means “space vehicle” in Sanskrit), in 2022 — just in time to commemorate 75 years of the country’s independence from Britain. The government has sanctioned Rs 10,000 crores ($1.5 billion) for the Gaganyaan mission."
             }
 ]
-
-# 999 Apple
-
-# news = [
-
-# ]
 
 news.each {|news| News.create(news)}
 
