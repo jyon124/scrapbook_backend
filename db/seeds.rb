@@ -3485,14 +3485,14 @@ Scrapbook.create(user: User.all.sample)
 Scrapbooknews.create(scrapbook_id: Scrapbook.all.sample.id, news_id: News.all.sample.id)
 
 notes = [
-  { "content": "This is the notes that I am writing for this specific news. I don't know what to write more about but I am just going to type whatever I want because this is for test."}
+  { "content": "test"}
 ]
 
 notes = notes.map { |note| note.merge( { scrapbooknews_id: Scrapbooknews.all.sample.id } ) }
 notes.each { |note| Note.create(note) }
 
 highlights = [
-  { "sentence": "This", "color": "yellow"}
+  { "sentence": "Test", "color": "yellow"}
 ]
 
 highlights = highlights.map { |highlight| highlight.merge( { scrapbooknews_id: Scrapbooknews.all.sample.id } ) }
