@@ -8,13 +8,21 @@ class NewsController < ApplicationController
 
     def show
       @news = News.find_by(id: params[:id])
-      render json: @news
+      if @news
+        render json: @news
+      else
+        render json: { error: 'Page not found' }, status: 404
+      end
     end
 
     def update
       @news = News.find_by(id: params['id'])
-      @news.update(viewCount: params['viewCount'])
-      render json: @news
+      if @news
+        @news.update(viewCount: params['viewCount'])
+        render json: @news
+      else 
+        render json: { error: 'Page not found' }, status: 404
+      end
     end
 
 end
